@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8343321641156",
+  "source": "shopify",
+  "source_url": "https://shop.brooklynmuseum.org/collections/books/products/im-very-busy-by-oliver-jeffers",
+  "handle": "im-very-busy-by-oliver-jeffers",
+  "title": "I'm Very Busy: A (Nearly Forgotten) Birthday Book",
+  "vendor": "Penguin Books",
+  "product_type": "Books",
+  "description": "<p><span class=\"a-text-bold\">A poignant—and laugh-out-loud funny—story about our busy lives and how we can fix our mistakes to show our friends how much we care by world-renowned artist and picture book creator Oliver Jeffers.</span></p>\n<p><span>It’s Bridget’s birthday, and she thinks it would be fun to spend the day with friends. But Royal has places to go, Rodney has to see a man about a dog, Regis has to wash his hair, and Pearl has a list of items she needs to cross off as quickly as she can. Bridget’s friends are all too busy to hang out!</span></p>\n<p><span>Will Bridget have to spend her birthday all alone?</span></p>\n<p><span>In a story that shows how friends are more important than the busy-ness of a day, Oliver Jeffers’ bold and brilliant art pair with a powerful story that makes listeners realize what truly matters. Another masterpiece from the internationally bestselling picture book creator of </span><span class=\"a-text-italic\">Here We Are<span> </span></span><span>and </span><span class=\"a-text-italic\">Begin Again.</span></p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 17.99,
+    "max_price": 17.99
+  },
+  "variants": [
+    {
+      "variant_id": "45114581418180",
+      "title": "Default Title",
+      "price": 17.99,
+      "available": false,
+      "sku": null
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0780/5601/files/71hUxJyQpkL._SL1500.jpg?v=1763055293",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": false,
+    "total_variants": 1,
+    "available_variants": 0
+  },
+  "metadata": {
+    "created_at": "2025-08-19T13:17:56-04:00",
+    "ingested_at": "2026-01-29T13:48:01.690342+00:00"
+  }
+}
