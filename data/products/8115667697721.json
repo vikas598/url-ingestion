@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115667697721",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "tie-dye-premium-cotton-t-shirts",
+  "title": "Tie & Dye Premium Cotton T-shirts",
+  "vendor": "Shop Style & More | Fresh Looks, Everyday Deals & Free Shipping",
+  "product_type": "Men's Clothes",
+  "description": "<p>Cotton Tye Dye TShirt<br>Regular Fit<br>Short Sleeve<br>Round Neck</p><p><strong>Fabric Contents</strong>: 100% COTTON</p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 24.8,
+    "max_price": 24.8
+  },
+  "variants": [
+    {
+      "variant_id": "45245656662073",
+      "title": "BLACK / S",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024574"
+    },
+    {
+      "variant_id": "45245656694841",
+      "title": "BLACK / M",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024575"
+    },
+    {
+      "variant_id": "45245656727609",
+      "title": "BLACK / L",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024576"
+    },
+    {
+      "variant_id": "45245656760377",
+      "title": "BLACK / XL",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024577"
+    },
+    {
+      "variant_id": "45245656793145",
+      "title": "BLACK / 2XL",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024578"
+    },
+    {
+      "variant_id": "45245656825913",
+      "title": "GOLD / S",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024579"
+    },
+    {
+      "variant_id": "45245656858681",
+      "title": "GOLD / M",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024580"
+    },
+    {
+      "variant_id": "45245656891449",
+      "title": "GOLD / L",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024581"
+    },
+    {
+      "variant_id": "45245656924217",
+      "title": "GOLD / XL",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024582"
+    },
+    {
+      "variant_id": "45245656956985",
+      "title": "GOLD / 2XL",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024583"
+    },
+    {
+      "variant_id": "45245656989753",
+      "title": "LIGHT BLUE / S",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024584"
+    },
+    {
+      "variant_id": "45245657022521",
+      "title": "LIGHT BLUE / M",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024585"
+    },
+    {
+      "variant_id": "45245657055289",
+      "title": "LIGHT BLUE / L",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024586"
+    },
+    {
+      "variant_id": "45245657088057",
+      "title": "LIGHT BLUE / XL",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024587"
+    },
+    {
+      "variant_id": "45245657120825",
+      "title": "LIGHT BLUE / 2XL",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024588"
+    },
+    {
+      "variant_id": "45245657153593",
+      "title": "NAVY / S",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024589"
+    },
+    {
+      "variant_id": "45245657186361",
+      "title": "NAVY / M",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024590"
+    },
+    {
+      "variant_id": "45245657219129",
+      "title": "NAVY / L",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024591"
+    },
+    {
+      "variant_id": "45245657251897",
+      "title": "NAVY / XL",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024592"
+    },
+    {
+      "variant_id": "45245657284665",
+      "title": "NAVY / 2XL",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024593"
+    },
+    {
+      "variant_id": "45245657317433",
+      "title": "PURPLE / S",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024594"
+    },
+    {
+      "variant_id": "45245657350201",
+      "title": "PURPLE / M",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024595"
+    },
+    {
+      "variant_id": "45245657382969",
+      "title": "PURPLE / L",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024596"
+    },
+    {
+      "variant_id": "45245657415737",
+      "title": "PURPLE / XL",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024597"
+    },
+    {
+      "variant_id": "45245657448505",
+      "title": "PURPLE / 2XL",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024598"
+    },
+    {
+      "variant_id": "45245657481273",
+      "title": "RED / S",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024599"
+    },
+    {
+      "variant_id": "45245657514041",
+      "title": "RED / M",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024600"
+    },
+    {
+      "variant_id": "45245657546809",
+      "title": "RED / L",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024601"
+    },
+    {
+      "variant_id": "45245657579577",
+      "title": "RED / XL",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024602"
+    },
+    {
+      "variant_id": "45245657612345",
+      "title": "RED / 2XL",
+      "price": 24.8,
+      "available": true,
+      "sku": "2000002024603"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/e079205a-e9cd-44f4-a15b-fb47ef7db23a.jpg?v=1765914026",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/05e8b2b1-4213-4294-8dae-c7f51486f128.jpg?v=1765436086",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/b578492e-5f4b-4312-8385-c9d55ff212c7.jpg?v=1765436086",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/444673f2-475b-4eb2-a2e6-9375e9207dfd.jpg?v=1765436086",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/01eeefff-a1e2-4bfc-a796-1e337268704d.jpg?v=1765436085",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/55991115-6bc2-4025-987c-ad25067d8109.jpg?v=1765436086",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/5481a9b5-a22f-49fb-a9ba-18e376f3f18d.jpg?v=1765436085",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/860ff223-e9b7-495f-b964-199ecc23db76.jpg?v=1765436086",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 30,
+    "available_variants": 30
+  },
+  "metadata": {
+    "created_at": "2025-12-11T01:54:43-05:00",
+    "ingested_at": "2026-01-30T12:29:15.564864+00:00"
+  }
+}

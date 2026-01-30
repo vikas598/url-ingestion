@@ -1,0 +1,337 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115734347833",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "elegant-sweatshirt-for-men",
+  "title": "Elegant Sweatshirt for Men",
+  "vendor": "Vivareflex Online",
+  "product_type": "",
+  "description": "<p>Introducing the pinnacle of casual elegance: our Elegant Sweatshirt for Men. Crafted with meticulous attention to detail and a modern aesthetic, this garment seamlessly fuses comfort with sophistication, making it a versatile staple for any contemporary wardrobe.</p><p>Designed for the discerning gentleman who appreciates both refinement and relaxation, our sweatshirt epitomizes a harmonious blend of premium materials and understated style. Its luxurious fabric, chosen for its plushness and resilience, envelops you in a cocoon of comfort, perfect for leisurely weekends or laid-back evenings.</p><p>Every stitch of our sweatshirt reflects our commitment to excellence, with precise tailoring ensuring a flawless fit that complements the masculine physique. Subtle yet sophisticated accents, like fine ribbing at the cuffs and hem, elevate this piece from loungewear to a symbol of refined taste.</p><p>Versatility is paramount, and our sweatshirt effortlessly transitions from casual outings to more polished affairs. Pair it with jeans for a relaxed yet stylish look, or layer it under a tailored blazer for an ensemble that exudes effortless charm.</p><p>Whether you're taking a brisk autumn stroll or enjoying cozy nights by the fireplace, our Elegant Sweatshirt for Men embodies timeless style and uncompromising quality. Elevate your wardrobe with this essential piece, where comfort meets refinement in perfect harmony.</p><p>Specification:</p><p>Size        Chest        Shoulder      Length    </p><p>  M:         98CM         40CM         64CM</p><p>  L :        102CM        42CM          66CM</p><p> XL :       106CM        45CM          68CM</p><p> 2XL :     110CM        47CM          70CM</p><p> 3XL :     114CM        49CM          72CM</p><p> 4XL :     118CM        51CM          74CM</p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 37.05,
+    "max_price": 37.05
+  },
+  "variants": [
+    {
+      "variant_id": "45245824401465",
+      "title": "Black / Small",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:193#Black;5:361386"
+    },
+    {
+      "variant_id": "45245824434233",
+      "title": "Black / Medium",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:193#Black;5:361385"
+    },
+    {
+      "variant_id": "45245824467001",
+      "title": "Black / Large",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:193#Black;5:100014065"
+    },
+    {
+      "variant_id": "45245824499769",
+      "title": "Black / Extra Large",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:193#Black;5:4182"
+    },
+    {
+      "variant_id": "45245824532537",
+      "title": "Black / 2 Extra Large",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:193#Black;5:4183"
+    },
+    {
+      "variant_id": "45245824565305",
+      "title": "Beige / Small",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:350850#Apricot color;5:361386"
+    },
+    {
+      "variant_id": "45245824598073",
+      "title": "Beige / Medium",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:350850#Apricot color;5:361385"
+    },
+    {
+      "variant_id": "45245824630841",
+      "title": "Beige / Large",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:350850#Apricot color;5:100014065"
+    },
+    {
+      "variant_id": "45245824663609",
+      "title": "Beige / Extra Large",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:350850#Apricot color;5:4182"
+    },
+    {
+      "variant_id": "45245824696377",
+      "title": "Beige / 2 Extra Large",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:350850#Apricot color;5:4183"
+    },
+    {
+      "variant_id": "45245824729145",
+      "title": "Light Gray / Small",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:691#Light gray;5:361386"
+    },
+    {
+      "variant_id": "45245824761913",
+      "title": "Light Gray / Medium",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:691#Light gray;5:361385"
+    },
+    {
+      "variant_id": "45245824794681",
+      "title": "Light Gray / Large",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:691#Light gray;5:100014065"
+    },
+    {
+      "variant_id": "45245824827449",
+      "title": "Light Gray / Extra Large",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:691#Light gray;5:4182"
+    },
+    {
+      "variant_id": "45245824860217",
+      "title": "Light Gray / 2 Extra Large",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:691#Light gray;5:4183"
+    },
+    {
+      "variant_id": "45245824892985",
+      "title": "White / Small",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:29#White;5:361386"
+    },
+    {
+      "variant_id": "45245824925753",
+      "title": "White / Medium",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:29#White;5:361385"
+    },
+    {
+      "variant_id": "45245824958521",
+      "title": "White / Large",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:29#White;5:100014065"
+    },
+    {
+      "variant_id": "45245824991289",
+      "title": "White / Extra Large",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:29#White;5:4182"
+    },
+    {
+      "variant_id": "45245825024057",
+      "title": "White / 2 Extra Large",
+      "price": 37.05,
+      "available": true,
+      "sku": "14:29#White;5:4183"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51253613.webp?v=1765913049",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51253729.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51253869.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51253934.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51254069.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51254141.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51254269.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51254398.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51254452.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51254598.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51254630.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51675617.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51675713.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51675892.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51675929.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51676028.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51676120.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51676268.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51676348.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51676439.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51676593.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51676625.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51676721.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51676844.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51676988.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51677054.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51677111.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51677259.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51677385.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51677464.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51677589.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51677694.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51677790.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51677885.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51677919.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51678064.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51678168.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51678288.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51678343.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51678480.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51678511.webp?v=1765439145",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Elegant-Sweatshirt-for-Men-Vivareflex-Online-51678629.webp?v=1765439145",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 20,
+    "available_variants": 20
+  },
+  "metadata": {
+    "created_at": "2025-12-11T02:45:42-05:00",
+    "ingested_at": "2026-01-30T12:29:15.458780+00:00"
+  }
+}

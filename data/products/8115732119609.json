@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115732119609",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "black-adult-pajama-bottoms-joggers-pants",
+  "title": "Black Adult Pajama Bottoms (Joggers & Pants)",
+  "vendor": "Lama Littles",
+  "product_type": "",
+  "description": "<p><span><span style=\"background-color: rgb(255, 255, 0);\"><strong>Womens Joggers are in NEW sizing, please choose your true size</strong></span></span></p>\n<p><span><span style=\"background-color: rgb(255, 255, 0);\"><strong>Mens pants were made in old sizing and we recommend sizing up by 1 size</strong></span></span></p>\n<p>Meet the pants you'll never want to take off! Made from ultra-soft premium bamboo, these cozy joggers feature a comfortable, stretchy waistband that moves with you. Perfect for pairing with any solid top, they're the ideal go-to for lounging.</p>\n<p><strong><em>*Snag one of our halloween adult tops for the full set to lounge in!</em></strong></p>\n<p>95% viscose from bamboo, and 5% spandex. </p>\n<p>220GSM</p>\n<p><span>Our manufacturing factory is OEKO-TEX certified ensuring a chemical free garment.</span><br></p>\n<p><span style=\"text-decoration: underline;\"><strong>Why Bamboo?</strong></span></p>\n<ul>\n<li><u>Seasonless temperature regulating fabric </u></li>\n<li>\n<u>Hypoallergenic &amp; great for sensitive skin</u><br>\n</li>\n<li><u>Made from eco-friendly bamboo</u></li>\n<li><u>Moisture wicking </u></li>\n<li><u>Buttery Soft Fabric </u></li>\n</ul>\n<p> </p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 38.0,
+    "max_price": 38.0
+  },
+  "variants": [
+    {
+      "variant_id": "45245803528249",
+      "title": "XS / Womens Joggers",
+      "price": 38.0,
+      "available": false,
+      "sku": "sku-48566532604212"
+    },
+    {
+      "variant_id": "45245803561017",
+      "title": "XS / PJ Pants",
+      "price": 38.0,
+      "available": false,
+      "sku": "sku-48566532636980"
+    },
+    {
+      "variant_id": "45245803593785",
+      "title": "S / Womens Joggers",
+      "price": 38.0,
+      "available": false,
+      "sku": "sku-48566529818932"
+    },
+    {
+      "variant_id": "45245803626553",
+      "title": "S / PJ Pants",
+      "price": 38.0,
+      "available": false,
+      "sku": "sku-48566529851700"
+    },
+    {
+      "variant_id": "45245803659321",
+      "title": "M / Womens Joggers",
+      "price": 38.0,
+      "available": false,
+      "sku": "sku-48566529884468"
+    },
+    {
+      "variant_id": "45245803692089",
+      "title": "M / PJ Pants",
+      "price": 38.0,
+      "available": false,
+      "sku": "sku-48566529917236"
+    },
+    {
+      "variant_id": "45245803724857",
+      "title": "L / Womens Joggers",
+      "price": 38.0,
+      "available": false,
+      "sku": "sku-48566529950004"
+    },
+    {
+      "variant_id": "45245803757625",
+      "title": "L / PJ Pants",
+      "price": 38.0,
+      "available": false,
+      "sku": "sku-48566529982772"
+    },
+    {
+      "variant_id": "45245803790393",
+      "title": "XL / Womens Joggers",
+      "price": 38.0,
+      "available": false,
+      "sku": "sku-48566530015540"
+    },
+    {
+      "variant_id": "45245803823161",
+      "title": "XL / PJ Pants",
+      "price": 38.0,
+      "available": false,
+      "sku": "sku-48566530048308"
+    },
+    {
+      "variant_id": "45245803855929",
+      "title": "2XL / Womens Joggers",
+      "price": 38.0,
+      "available": false,
+      "sku": "sku-48566530081076"
+    },
+    {
+      "variant_id": "45245803888697",
+      "title": "2XL / PJ Pants",
+      "price": 38.0,
+      "available": false,
+      "sku": "sku-48566530113844"
+    },
+    {
+      "variant_id": "45245803921465",
+      "title": "3XL / Womens Joggers",
+      "price": 38.0,
+      "available": false,
+      "sku": "sku-48566530146612"
+    },
+    {
+      "variant_id": "45245803954233",
+      "title": "3XL / PJ Pants",
+      "price": 38.0,
+      "available": false,
+      "sku": "sku-48566530179380"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/H2A2294_9a956222-8168-409e-83e1-22f59c9bd264.jpg?v=1765913477",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/H2A2409.jpg?v=1765438368",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/H2A2423.jpg?v=1765438368",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/H2A2293.jpg?v=1765438368",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/H2A2407.jpg?v=1765438368",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/H2A5330.jpg?v=1765438368",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": false,
+    "total_variants": 14,
+    "available_variants": 0
+  },
+  "metadata": {
+    "created_at": "2025-12-11T02:32:45-05:00",
+    "ingested_at": "2026-01-30T12:29:15.423577+00:00"
+  }
+}

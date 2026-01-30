@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115895697465",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "twinkling-tails-organic-cotton-dress-for-kids",
+  "title": "Twinkling Tails Organic Cotton Dress for Kids",
+  "vendor": "Nola Tawk",
+  "product_type": "Cotton Twirl Dress",
+  "description": "<p data-start=\"233\" data-end=\"665\">Light up the season with our <strong data-start=\"262\" data-end=\"309\">Twinkling Tails Organic Cotton Twirl Dress!</strong> Featuring a <strong data-start=\"322\" data-end=\"396\">festive print of playful crawfish tangled in colorful Christmas lights</strong>, this dress is made for <strong data-start=\"421\" data-end=\"484\">holiday celebrations, seasonal photos, and twirl-worthy fun</strong>. Perfect for Cajun Christmas gatherings, winter festivities, or simply adding a cheerful touch to everyday play, it brings a unique Louisiana flair to your little one’s wardrobe.</p>\n<h2 data-start=\"667\" data-end=\"691\">Why You’ll Love It:</h2>\n<p data-start=\"692\" data-end=\"961\">✔ <strong data-start=\"694\" data-end=\"732\">GOTS-certified 100% organic cotton</strong> – ultra-soft, breathable, and gentle on sensitive skin<br data-start=\"787\" data-end=\"790\">✔ <strong data-start=\"792\" data-end=\"829\">Fitted bodice &amp; full-circle skirt</strong> – perfect for endless twirls and a comfy fit that hits right around the knees<br data-start=\"907\" data-end=\"910\">✔ <strong data-start=\"912\" data-end=\"941\">Scooped ballet-style back</strong> – for extra charm</p>\n<p data-end=\"618\" data-start=\"249\"><img src=\"https://cdn.shopify.com/s/files/1/0440/8590/3521/files/Icons_For_Listings.png?v=1741027555\" style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><br></p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 40.0,
+    "max_price": 40.0
+  },
+  "variants": [
+    {
+      "variant_id": "45246687772729",
+      "title": "2T",
+      "price": 40.0,
+      "available": true,
+      "sku": "sku-47415889133787"
+    },
+    {
+      "variant_id": "45246687805497",
+      "title": "3T",
+      "price": 40.0,
+      "available": true,
+      "sku": "sku-47415889166555"
+    },
+    {
+      "variant_id": "45246687838265",
+      "title": "4T",
+      "price": 40.0,
+      "available": true,
+      "sku": "sku-47415889199323"
+    },
+    {
+      "variant_id": "45246687871033",
+      "title": "5",
+      "price": 40.0,
+      "available": true,
+      "sku": "sku-47415889232091"
+    },
+    {
+      "variant_id": "45246687903801",
+      "title": "6",
+      "price": 40.0,
+      "available": true,
+      "sku": "sku-47415889264859"
+    },
+    {
+      "variant_id": "45246687936569",
+      "title": "7",
+      "price": 40.0,
+      "available": false,
+      "sku": "sku-47415889297627"
+    },
+    {
+      "variant_id": "45246687969337",
+      "title": "8",
+      "price": 40.0,
+      "available": true,
+      "sku": "sku-47415889330395"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Twinkling_Tails.jpg?v=1765913021",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 7,
+    "available_variants": 6
+  },
+  "metadata": {
+    "created_at": "2025-12-11T08:22:02-05:00",
+    "ingested_at": "2026-01-30T12:29:15.568362+00:00"
+  }
+}

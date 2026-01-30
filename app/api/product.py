@@ -1,7 +1,7 @@
 from fastapi import APIRouter, Request
 from app.models.request import ProductIngestRequest
 from app.services.url_handler import build_shopify_json_url
-from app.services.scraper import fetch_shopify_product
+from app.services.scrapers.shopify.product import fetch_shopify_product
 from app.services.processor import process_shopify_product
 from app.services.storage import store_product
 

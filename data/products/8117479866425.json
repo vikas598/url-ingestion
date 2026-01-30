@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8117479866425",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "biodegradable-cotton-swabs-200-pk",
+  "title": "Biodegradable Cotton Swabs 200 pk",
+  "vendor": "Zero Waste Outlet",
+  "product_type": "Hygiene",
+  "description": "<p><strong>Ditch the plastic and go back to nature.</strong> For over a century, swabs were made with wood and cotton—simple, effective, and biodegradable. Today, most swabs are made of plastic that ends up in landfills or waterways. These <strong>bamboo cotton swabs</strong> bring sustainability back to your daily routine without sacrificing comfort or convenience.</p>\n<h4>Why You’ll Love Them</h4>\n<ul>\n<li>\n<strong>Earth-friendly materials</strong> — Each stick is made from <strong>sustainably sourced bamboo</strong> with soft, pure <strong>cotton tips</strong>. Both are <strong>100% biodegradable</strong> and suitable for home composting.</li>\n<li>\n<strong>Gentle and effective</strong> — Designed for <strong>precision cleaning</strong>: remove makeup, clean around ears and eyes, or handle small touch-ups.</li>\n<li>\n<strong>Plastic-free packaging</strong> — Packed in a <strong>sturdy, recyclable kraft paper container</strong> to eliminate plastic waste.</li>\n<li>\n<strong>Reusable container</strong> — Once empty, the durable cardboard tube is perfect for storing small personal items or travel essentials.</li>\n<li>\n<strong>Sustainable alternative</strong> — Each box replaces <strong>hundreds of single-use plastic swabs</strong>, making a real impact with every purchase.</li>\n</ul>\n<h4>Features</h4>\n<ul>\n<li>Contains <strong>200 ridged bamboo cotton swabs</strong> with just the right amount of cotton on each end. Strong and soft!</li>\n<li>Compact, <strong>reusable kraft cylinder</strong> keeps swabs clean and organized.</li>\n<li>\n<strong>100% plastic-free</strong> — from the swabs to the packaging.</li>\n<li>Fully <strong>biodegradable materials</strong> that naturally return to the earth.</li>\n</ul>\n<h4>Dimensions</h4>\n<ul>\n<li>\n<strong>Container:</strong> 3\" round × 3.25\" tall</li>\n<li>\n<strong>Swabs:</strong> 3\" long × 1/4\" at tip</li>\n</ul>\n<h4>Packaging</h4>\n<p>Eco-friendly <strong>cardboard/kraft cylinder container</strong> — reusable, recyclable, and completely biodegradable.</p>\n<h4>End of Life</h4>\n<p>When finished, <strong>compost the swabs</strong> or dispose of them responsibly — they’ll break down naturally without harming the planet. The container can be <strong>reused or recycled</strong> with your paper products.</p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 5.75,
+    "max_price": 5.75
+  },
+  "variants": [
+    {
+      "variant_id": "45251559555129",
+      "title": "Default Title",
+      "price": 5.75,
+      "available": false,
+      "sku": "zwo-cottonbuds"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/biodegradable-cotton-swabs-200-pk-8217776.png?v=1765648448",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/biodegradable-cotton-swabs-200-pk-7135637.png?v=1765648448",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/closeup.png?v=1765648448",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/biodegradable-cotton-swabs-200-pk-5689185.jpg?v=1765648448",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": false,
+    "total_variants": 1,
+    "available_variants": 0
+  },
+  "metadata": {
+    "created_at": "2025-12-13T12:54:06-05:00",
+    "ingested_at": "2026-01-30T12:29:15.422073+00:00"
+  }
+}

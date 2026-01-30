@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8116736294969",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "beauty-bundle-anti-aging-skin-hair-care",
+  "title": "Beauty Bundle: Anti-Aging Skin & Hair Care",
+  "vendor": "Pioneer Pam",
+  "product_type": "Natural Anti-Aging Skincare",
+  "description": "<p><strong><meta charset=\"utf-8\">\n<strong data-start=\"328\" data-end=\"371\">RN-made. Plant-powered. Results-driven.</strong><br data-start=\"371\" data-end=\"374\">This ultimate natural hair growth and anti-aging trio made by nurses includes our <em data-start=\"434\" data-end=\"450\">Phytotox Serum</em><span data-start=\"434\" data-end=\"450\">, </span><em data-start=\"455\" data-end=\"472\">Phytotox Tallow and Mane Magic</em>—three powerful hand made formulas infused with nature’s most effective skin and scalp-rejuvenating herbs, bundled for nearly $8 off.<meta charset=\"utf-8\"></strong></p>\n<p data-start=\"79\" data-end=\"109\"><strong data-start=\"79\" data-end=\"109\">What’s Inside This Bundle:</strong></p>\n<p data-start=\"111\" data-end=\"347\"><strong data-start=\"111\" data-end=\"144\">Phytotox Serum (2 oz dropper)</strong><br data-start=\"144\" data-end=\"147\">Lightweight and fast-absorbing, this oil-based serum is packed with herbal ingredients known as “nature’s botox” for their ability to smooth fine lines, brighten skin, and support collagen production.</p>\n<p data-start=\"349\" data-end=\"606\"><strong data-start=\"349\" data-end=\"379\">Phytotox Tallow (2 oz jar)</strong><br data-start=\"379\" data-end=\"382\">A deeply hydrating face salve made with organic, grass-fed tallow and the same powerful herbal extracts as the serum. Use it as a night cream, mask, or daily moisturizer—especially if you struggle with dry or sensitive skin.</p>\n<p data-start=\"608\" data-end=\"940\"><strong data-start=\"608\" data-end=\"636\">Mane Magic (2 oz bottle)</strong><br data-start=\"636\" data-end=\"639\">The ultimate nontoxic and natural hair and scalp oil. This deeply nourishing oil is designed to support healthy hair growth, strengthen hair, and restore moisture to dry, damaged strands. Massage into your scalp for 30 minutes up to overnight, or apply to your hair for a moisture-boosting treatment.</p>\n<h3 data-start=\"2048\" data-end=\"2067\" class=\"\">Free From:</h3>\n<p data-start=\"2068\" data-end=\"2134\" class=\"\">Petroleum, synthetic fragrance, chemicals, GMOs, and preservatives.</p>\n<h3 data-start=\"2136\" data-end=\"2179\" class=\"\">Sustainably Sourced &amp; Handcrafted:</h3>\n<p data-start=\"2180\" data-end=\"2420\" class=\"\">Made in small batches by two RNs (a mother-daughter team!). We locally source our tallow from 100% grass-fed cows. Due to the natural variation of ingredients, texture or scent may vary slightly—but the formula and benefits remain the same.</p>\n<p data-start=\"2427\" data-end=\"2504\" class=\"\"><br data-start=\"2477\" data-end=\"2480\"><em data-start=\"2480\" data-end=\"2502\">All sales are final.</em></p>\n<blockquote data-start=\"2506\" data-end=\"2641\">\n<p data-start=\"2508\" data-end=\"2641\" class=\"\"><em data-start=\"2508\" data-end=\"2641\">These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease.</em></p>\n</blockquote>\n<p> </p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 60.0,
+    "max_price": 60.0
+  },
+  "variants": [
+    {
+      "variant_id": "45249792475193",
+      "title": "Default Title",
+      "price": 60.0,
+      "available": true,
+      "sku": "sku-51236403544369"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Screenshot_2025-06-08_at_3.05.58_PM.png?v=1765883086",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/IMG_8956.jpg?v=1765883086",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 1,
+    "available_variants": 1
+  },
+  "metadata": {
+    "created_at": "2025-12-12T12:59:37-05:00",
+    "ingested_at": "2026-01-30T12:29:15.422073+00:00"
+  }
+}

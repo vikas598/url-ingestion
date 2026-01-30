@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115912081465",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "organic-cable-sweater-dress",
+  "title": "Organic Cable Sweater Dress",
+  "vendor": "Hope & Henry",
+  "product_type": "Dresses",
+  "description": "<p>Cable knit organic cotton brings luxurious softness to our turtleneck sweater dress that is so easy to pop on when you want a cozy and classic look. Our cable knit design adorns the front, back, and sleeves, while the turtleneck collar is a comfy and stretchy rib knit. You'll be wearing this one all season long.</p><ul class=\"a-unordered-list a-vertical a-spacing-none\">\n<li>99% Organic Cotton, 1% Polyester, exclusive of trims. Garment is 100% GOTS-Certified Organic. Learn more about our certifications <a href=\"https://hopeandhenry.com/pages/certifications\">here</a>.</li>\n<li>Allover cable knit with rib knit turtleneck collar.</li>\n<li>Machine washable.</li>\n</ul>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 51.57,
+    "max_price": 51.57
+  },
+  "variants": [
+    {
+      "variant_id": "45246725226553",
+      "title": "2 / Natural Fleck",
+      "price": 51.57,
+      "available": false,
+      "sku": "25FW3107ABeigeAA2"
+    },
+    {
+      "variant_id": "45246725259321",
+      "title": "4 / Natural Fleck",
+      "price": 51.57,
+      "available": false,
+      "sku": "25FW3107ABeigeAH4"
+    },
+    {
+      "variant_id": "45246725292089",
+      "title": "6 / Natural Fleck",
+      "price": 51.57,
+      "available": false,
+      "sku": "25FW3107ABeigeAJ6"
+    },
+    {
+      "variant_id": "45246725324857",
+      "title": "8 / Natural Fleck",
+      "price": 51.57,
+      "available": false,
+      "sku": "25FW3107ABeigeAM8"
+    },
+    {
+      "variant_id": "45246725357625",
+      "title": "10 / Natural Fleck",
+      "price": 51.57,
+      "available": true,
+      "sku": "25FW3107ABeigeAO10"
+    },
+    {
+      "variant_id": "45246725390393",
+      "title": "12 / Natural Fleck",
+      "price": 51.57,
+      "available": true,
+      "sku": "25FW3107ABeigeAR12"
+    },
+    {
+      "variant_id": "45246725423161",
+      "title": "14 / Natural Fleck",
+      "price": 51.57,
+      "available": true,
+      "sku": "25FW3107ABeigeAT14"
+    },
+    {
+      "variant_id": "45246725455929",
+      "title": "16 / Natural Fleck",
+      "price": 51.57,
+      "available": true,
+      "sku": "25FW3107ABeigeAU16"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/25FW3107A-Studio-1_6a7b229b-f5d8-484c-87bf-3cbcfcd6bcba.jpg?v=1765912670",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/25FW3107A-Studio-2_f7b10858-41b2-41d6-9e59-11dff131c8b0.jpg?v=1765461071",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/25FW3107A-Studio-3_6c211570-f0cc-49f9-9c95-19a0c1c22180.jpg?v=1765461070",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/25FW3107A-1_aa67bb14-5ad3-48a8-846c-ce4e1c092cfb.jpg?v=1765461071",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 8,
+    "available_variants": 4
+  },
+  "metadata": {
+    "created_at": "2025-12-11T08:51:09-05:00",
+    "ingested_at": "2026-01-30T12:29:15.530649+00:00"
+  }
+}

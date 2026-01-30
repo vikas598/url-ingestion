@@ -1,0 +1,117 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115667566649",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "amsterdam-the-eagle-t-shirts-cotton-streetwear",
+  "title": "Amsterdam & The Eagle T-Shirts – Cotton Streetwear",
+  "vendor": "Withinblack",
+  "product_type": "Cotton T-Shirt",
+  "description": "<h1>City Edition T-Shirts – Amsterdam &amp; The Eagle</h1>\n<h2>Minimal Streetwear with Travel Inspiration</h2>\n<p>This exclusive pair of cotton t-shirts celebrates both iconic locations and timeless design. The black tee features Amsterdam embroidery, while the white one is designed with a bold Eagle mountain graphic.</p>\n<h2>Product Features</h2>\n<ul>\n  <li>100% premium cotton</li>\n  <li>Oversized unisex fit</li>\n  <li>Amsterdam embroidery or Eagle mountain graphic print</li>\n  <li>Available in black and white</li>\n</ul>\n<h2>Size Options</h2>\n<p>Available sizes: S, M, L, XL</p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 54.99,
+    "max_price": 54.99
+  },
+  "variants": [
+    {
+      "variant_id": "45245655973945",
+      "title": "Black / S",
+      "price": 54.99,
+      "available": true,
+      "sku": "ESB-2004250967BS"
+    },
+    {
+      "variant_id": "45245656006713",
+      "title": "Black / M",
+      "price": 54.99,
+      "available": true,
+      "sku": "ESB-2004250967BM"
+    },
+    {
+      "variant_id": "45245656039481",
+      "title": "Black / L",
+      "price": 54.99,
+      "available": true,
+      "sku": "ESB-2004250967BL"
+    },
+    {
+      "variant_id": "45245656072249",
+      "title": "Black / XL",
+      "price": 54.99,
+      "available": true,
+      "sku": "ESB-2004250967BXL"
+    },
+    {
+      "variant_id": "45245656105017",
+      "title": "White / S",
+      "price": 54.99,
+      "available": false,
+      "sku": "ESB-2004250967WS"
+    },
+    {
+      "variant_id": "45245656137785",
+      "title": "White / M",
+      "price": 54.99,
+      "available": false,
+      "sku": "ESB-2004250967WM"
+    },
+    {
+      "variant_id": "45245656170553",
+      "title": "White / L",
+      "price": 54.99,
+      "available": false,
+      "sku": "ESB-2004250967WL"
+    },
+    {
+      "variant_id": "45245656203321",
+      "title": "White / XL",
+      "price": 54.99,
+      "available": false,
+      "sku": "ESB-2004250967WXL"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Amsterdam-Embroidered-Cotton-Tee--City-Souvenir-T-Shirt-b4.jpg?v=1765914043",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Amsterdam-Embroidered-Cotton-Tee--City-Souvenir-T-Shirt-b.jpg?v=1765436011",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Amsterdam-Embroidered-Cotton-Tee--City-Souvenir-T-Shirt-b2.jpg?v=1765436011",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Amsterdam-Embroidered-Cotton-Tee--City-Souvenir-T-Shirt-b3.jpg?v=1765436012",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Amsterdam-Embroidered-Cotton-Tee--City-Souvenir-T-Shirt-w2.jpg?v=1765436011",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Amsterdam-Embroidered-Cotton-Tee--City-Souvenir-T-Shirt-w3.jpg?v=1765436011",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Amsterdam-Embroidered-Cotton-Tee--City-Souvenir-T-Shirt-w4.jpg?v=1765436011",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Amsterdam-Embroidered-Cotton-Tee--City-Souvenir-T-Shirt-w5.jpg?v=1765436011",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 8,
+    "available_variants": 4
+  },
+  "metadata": {
+    "created_at": "2025-12-11T01:53:29-05:00",
+    "ingested_at": "2026-01-30T12:29:15.416281+00:00"
+  }
+}

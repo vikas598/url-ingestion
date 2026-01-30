@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8118069297209",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "wellness-trio-gift",
+  "title": "Wellness Trio Gift",
+  "vendor": "Harney & Sons Fine Teas",
+  "product_type": "",
+  "description": "<p>Not sure where to start your wellness journey? Have a friend in mind who might be feeling the same? The Wellness Trio Gift is the key to discovering the world of wellness brews and the great effects they can impart on your mind, body, and soul.</p>\n<p class=\"p1\"><span class=\"s1\">Each gift contains:</span></p>\n<div style=\"padding-left: 30px;\">\n<meta charset=\"utf-8\"> <span data-mce-fragment=\"1\">1 - Hemp Moringa 5. oz Tin</span>\n</div>\n<div style=\"padding-left: 30px;\"><span data-mce-fragment=\"1\">1 - Organic Chaga Chai 8 oz. Tin</span></div>\n<div style=\"padding-left: 30px;\">1 - Organic Golden Milk 8 oz. Tin<br><br><span data-mce-fragment=\"1\"></span>\n</div>\n<p><meta charset=\"utf-8\"><span><strong>WARNING:</strong> Consult your healthcare provider prior to use if you are pregnant or nursing, taking any medication, or if you have a medical condition.</span></p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 59.95,
+    "max_price": 59.95
+  },
+  "variants": [
+    {
+      "variant_id": "45253024251961",
+      "title": "Loose / Wellness Trio Gift",
+      "price": 59.95,
+      "available": false,
+      "sku": "80385"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MYB_Gift_Trio.jpg?v=1765904781",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/73_Wellness_Trio_Gift_80385_Webcrop.jpg?v=1765724711",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": false,
+    "total_variants": 1,
+    "available_variants": 0
+  },
+  "metadata": {
+    "created_at": "2025-12-14T10:05:09-05:00",
+    "ingested_at": "2026-01-30T12:29:15.580475+00:00"
+  }
+}

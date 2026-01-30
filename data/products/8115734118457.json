@@ -1,0 +1,121 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115734118457",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "merry-organic-cotton-crewneck-sweatshirt-green",
+  "title": "Merry Organic Cotton Crewneck Sweatshirt - Green",
+  "vendor": "Little Joy Co.",
+  "product_type": "",
+  "description": "<p><meta charset=\"utf-8\"><em><strong>Jogger pants shown in photo are not included in this listing, we do have a separate listing for the 2pc set in both red and green</strong></em></p>\n<p>Introducing our Merry Organic Cotton Crewneck, a festive and cozy addition to your holiday wardrobe. This delightful crewneck features a cheerful Christmas theme with the \"Merry\" design, bringing a touch of holiday magic to your attire.</p>\n<p>Crafted from premium French terry material, this crewneck ensures the perfect combination of style and comfort. The fabric is made from a high-quality blend of 95% organic cotton and 5% spandex, providing a soft and flexible feel for maximum comfort throughout the day.</p>\n<p>Designed for practicality, the Merry Organic Cotton Crewneck is available in sizes ranging from 0-3 months to 4T, ensuring a comfortable and stylish fit as you celebrate the season. Embrace the festive spirit with our Merry Organic Cotton Crewneck, where premium materials and joyful design come together for a look that's both snug and charming.</p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 18.0,
+    "max_price": 18.0
+  },
+  "variants": [
+    {
+      "variant_id": "45245822009401",
+      "title": "0-3 months",
+      "price": 18.0,
+      "available": false,
+      "sku": "PREMERGRA-03MOGRE-CD1C"
+    },
+    {
+      "variant_id": "45245822042169",
+      "title": "3-6 months",
+      "price": 18.0,
+      "available": false,
+      "sku": "PREMERGRA-36MOGRE-CD1C"
+    },
+    {
+      "variant_id": "45245822074937",
+      "title": "6-12 months",
+      "price": 18.0,
+      "available": false,
+      "sku": "PREMERGRA-612MGRE-CD1C"
+    },
+    {
+      "variant_id": "45245822107705",
+      "title": "12-18 months",
+      "price": 18.0,
+      "available": false,
+      "sku": "PREMERGRA-1218GRE-CD1C"
+    },
+    {
+      "variant_id": "45245822140473",
+      "title": "18-24 months",
+      "price": 18.0,
+      "available": false,
+      "sku": "PREMERGRA-1824GRE-CD1C"
+    },
+    {
+      "variant_id": "45245822173241",
+      "title": "2T",
+      "price": 18.0,
+      "available": false,
+      "sku": "PREMERGRA-2TGRE-CD1C"
+    },
+    {
+      "variant_id": "45245822206009",
+      "title": "3T",
+      "price": 18.0,
+      "available": false,
+      "sku": "PREMERGRA-3TGRE-CD1C"
+    },
+    {
+      "variant_id": "45245822238777",
+      "title": "4T",
+      "price": 18.0,
+      "available": false,
+      "sku": "PREMERGRA-4TGRE-CD1C"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/il_fullxfull.5580337565_mn7m.jpg?v=1765913058",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/IMG_7927_jpg.jpg?v=1765439106",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/il_fullxfull.5532238706_sfj3.jpg?v=1765439106",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/IMG_7928_jpg.jpg?v=1765439106",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/il_fullxfull.5532223198_d6n9.jpg?v=1765439106",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/il_fullxfull.5580337645_1syk.jpg?v=1765439106",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/il_fullxfull.5580337605_6m4e.jpg?v=1765439106",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/il_fullxfull.5532223222_bhyb.jpg?v=1765439106",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/IMG_7904_jpg.jpg?v=1765439106",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": false,
+    "total_variants": 8,
+    "available_variants": 0
+  },
+  "metadata": {
+    "created_at": "2025-12-11T02:45:04-05:00",
+    "ingested_at": "2026-01-30T12:29:15.509751+00:00"
+  }
+}

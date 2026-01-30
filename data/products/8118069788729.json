@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8118069788729",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "now-available-alpha-20c-immune-system-herbal-supplement-by-sunrider",
+  "title": "NOW AVAILABLE Alpha 20C | Immune System Herbal Supplement by Sunrider",
+  "vendor": "Herb's Fortune",
+  "product_type": "Herbal Supplement",
+  "description": "<p><span style=\"color: #ff2a00;\"><strong></strong></span>Alpha 20C® is designed to address the body's defense system with \"wood element\" herbs that contain naturally occurring antioxidants and fortifying properties.* Sunrider's proprietary formula is based on 3,000 years of herbal study and cutting-edge technology. Recent studies show that many of the herbal and botanical ingredients we use may contain beneficial bioactive components.</p>\n<p><span class=\"a-list-item\"> <span style=\"color: #666666;\">*These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.</span> </span></p>\n<p>Ingredients include: Chinese White Flower, Paris Herb, Scutellaria Herb</p>\n<p><strong>Available In:</strong></p>\n<p><a href=\"/products/alpha-20c-natural-herbal-food-supplement-by-sunrider\" title=\"Alpha 20C Capsules\">100 Capsules/Bottle</a></p>\n<p><a href=\"/products/alpha-20c-powder-immune-system-supplement-by-sunrider\" title=\"Alpha 20 C Powder 10 Packs\">Powder | 10 Bags | 0.17 oz/5 g each bag</a></p>\n<p><a href=\"/products/alpha-20c-powder-immune-system-supplement-by-sunrider?variant=4849093827\" title=\"Alpha 20 C Powder 60 Packs\">Powder | 60 Bags (Bulk) | <span>0.17 oz/5 g each bag | </span>Best Value!</a></p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 54.14,
+    "max_price": 309.82
+  },
+  "variants": [
+    {
+      "variant_id": "45253026545721",
+      "title": "NOW AVAILABLE Capsules",
+      "price": 56.81,
+      "available": true,
+      "sku": "2010134-OK-INV"
+    },
+    {
+      "variant_id": "45253026578489",
+      "title": "NOW AVAILABLE Powder | Bulk Container | 300g",
+      "price": 309.82,
+      "available": true,
+      "sku": "0201734"
+    },
+    {
+      "variant_id": "45253026611257",
+      "title": "NOW AVAILABLE Powder | 10 Bags | 0.17 oz/5 g each bag",
+      "price": 54.14,
+      "available": true,
+      "sku": "2010534-OK"
+    },
+    {
+      "variant_id": "45253026644025",
+      "title": "NOW AVAILABLE Powder | 30 Stick Packs | Great Value!",
+      "price": 154.91,
+      "available": true,
+      "sku": "0179734-OK"
+    },
+    {
+      "variant_id": "45253026676793",
+      "title": "NOW AVAILABLE Powder | 60 Stick Packs | Great Value!",
+      "price": 309.82,
+      "available": true,
+      "sku": "2010934"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/capsules-alpha-20c-immune-system-herbal-supplement-by-sunrider-5053214064729.png?v=1765904457",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/powder-30-stick-packs-bulk-great-value-out-of-stock-pre-order-alpha-20c-immune-system-herbal-supplement-by-sunrider-39937836646657.jpg?v=1765724924",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/coming-soon-powder-bulk-container-300g-out-of-stock-pre-order-alpha-20c-immune-system-herbal-supplement-by-sunrider-40699451310337.jpg?v=1765724924",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 5,
+    "available_variants": 5
+  },
+  "metadata": {
+    "created_at": "2025-12-14T10:08:42-05:00",
+    "ingested_at": "2026-01-30T12:29:15.525348+00:00"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8116732100665",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "cedarwood-patchouli-tallow-balm-firming-balancing",
+  "title": "Cedarwood + Patchouli Tallow Balm - Firming & Balancing",
+  "vendor": "Pure Good LLC",
+  "product_type": "Whipped Tallow Balm",
+  "description": "<p> </p>\n<h2 data-sourcepos=\"1:1-1:82\" data-mce-fragment=\"1\">Unleash Your Skin's Radiance with our Cedarwood + Patchouli Blend</h2>\n<p> </p>\n<p><meta charset=\"utf-8\"><span></span><strong>Key Benefits:</strong></p>\n<ul data-sourcepos=\"12:1-16:0\">\n<li data-sourcepos=\"12:1-12:147\">\n<strong>Deep hydration:</strong><span> </span>Grass-fed tallow, nature's ultimate moisturizer, penetrates deeply, locking in moisture and leaving your skin plump and dewy.</li>\n<li data-sourcepos=\"13:1-13:148\">\n<strong>Radiant vitality:</strong><span> </span>Organic olive oil and orange oil infuse your skin with antioxidants and vitamins, revealing a youthful, luminous complexion.</li>\n<li data-sourcepos=\"14:1-14:145\">\n<strong>Calming balance:</strong><span> </span>Cedarwood and patchouli oils' grounding aromas and anti-inflammatory properties soothe irritation, .</li>\n<li data-sourcepos=\"15:1-16:0\">\n<strong>Invigorating uplift:</strong><span> </span>Bergamot's bright citrus notes awaken the senses and leave your skin feeling refreshed and revitalized.</li>\n</ul>\n<p><strong>Full Ingredients: </strong></p>\n<p>Grass fed &amp; finished tallow, organic extra virgin olive oil, organic cedarwood oil, organic patchouli oil, organic bergamot oil, organic orange oil.</p>\n<p> </p>\n<p><strong>Benefits of each oil:</strong></p>\n<p><strong>Cedarwood:</strong></p>\n<ul>\n<li><strong>Toning &amp; Tightening: Astringent properties help minimize pores and firm the skin, promoting a smooth, youthful appearance.</strong></li>\n<li><strong>Blemish-fighting: Natural antibacterial and anti-inflammatory properties tackle blemishes and soothe irritation, leaving your skin clearer and calmer.</strong></li>\n<li><strong>Calming &amp; Grounding: Its woody aroma offers a relaxing sensory experience, calming redness and promoting overall skin health.</strong></li>\n</ul>\n<p><strong>Patchouli:</strong></p>\n<ul>\n<li><strong>Hydration: Deeply hydrates and retains moisture, combating dryness and promoting a plump, dewy complexion.</strong></li>\n<li><strong>Antioxidant Powerhouse: Protects against free radical damage, preventing premature aging and maintaining a healthy skin glow.</strong></li>\n<li><strong>Balancing Act: Balances sebum production for both oily and dry skin types, preventing breakouts and dryness.</strong></li>\n</ul>\n<p> </p>\n<p data-sourcepos=\"17:1-17:27\"><strong>Why Choose Pure Good Tallow?</strong></p>\n<ul data-sourcepos=\"25:1-27:0\">\n<li data-sourcepos=\"19:1-19:156\">\n<strong>Nature's perfect moisturizer:</strong><span> </span>Rich in fatty acids and nutrients, tallow mimics your skin's natural oils, providing superior hydration and nourishment.</li>\n<li data-sourcepos=\"20:1-20:115\">\n<strong>Sustainable and ethical:</strong><span> </span>Our tallow is sourced from grass-fed, finished animals raised with care and respect by our family.</li>\n<li data-sourcepos=\"21:1-22:0\">\n<strong>Clean and transparent:</strong><span> </span>We believe in simple, effective ingredients, free from harsh chemicals and fillers.</li>\n<li data-sourcepos=\"25:1-25:104\">\n<strong>Say goodbye to:</strong><span> </span>Dryness, irritation, dullness, and the endless search for the perfect moisturizer.</li>\n<li data-sourcepos=\"26:1-27:0\">\n<strong>Embrace:</strong><span> </span>Smoothness, radiance, vitality, and a newfound confidence in your natural beauty.</li>\n</ul>\n<p data-sourcepos=\"28:1-28:281\"><strong></strong><strong>Ready to unlock your skin's natural potential?</strong> Click \"Add to Cart\" and experience the transformative power of tallow.</p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 26.0,
+    "max_price": 44.0
+  },
+  "variants": [
+    {
+      "variant_id": "45249781334073",
+      "title": "4 oz",
+      "price": 26.0,
+      "available": true,
+      "sku": "sku-44352172753141"
+    },
+    {
+      "variant_id": "45249781366841",
+      "title": "8 oz",
+      "price": 44.0,
+      "available": true,
+      "sku": "sku-44352172785909"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/IBK-PG-mar-29.jpg?v=1765909936",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/IBK-PG-mar-26.jpg?v=1765561751",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/IBK-puregood-JAN-7.jpg?v=1765561751",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/IBK-puregood-JAN-27.jpg?v=1765561751",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 2,
+    "available_variants": 2
+  },
+  "metadata": {
+    "created_at": "2025-12-12T12:49:09-05:00",
+    "ingested_at": "2026-01-30T12:29:15.432307+00:00"
+  }
+}

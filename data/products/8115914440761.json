@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115914440761",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "organic-fancy-sweater-dress",
+  "title": "Organic Fancy Sweater Dress",
+  "vendor": "Hope & Henry",
+  "product_type": "Dresses",
+  "description": "<p>The epitome of effortless chic, our sophisticated sweater dress in soft organic cotton exudes timeless charm. Features a flattering shape, gold buttons at the shoulders, a removable waist sash, and romantic balloon sleeves with flounce edges. A delicate cable stitch adorns the bodice and sleeves for that extra touch. Prepare for the compliments to roll in...</p><ul class=\"a-unordered-list a-vertical a-spacing-none\">\n<li>80% Organic Cotton, 20% Nylon, exclusive of trims. Garment is OCS-Certified. Learn more about our certifications <a href=\"https://hopeandhenry.com/pages/certifications\">here</a>.</li>\n<li>Gold buttons at the shoulders. Removable waist sash.</li>\n<li>Machine washable.</li>\n</ul>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 40.77,
+    "max_price": 40.77
+  },
+  "variants": [
+    {
+      "variant_id": "45246728077369",
+      "title": "2 / Black Cable Bodice",
+      "price": 40.77,
+      "available": false,
+      "sku": "24HW3046BBlackAA2"
+    },
+    {
+      "variant_id": "45246728110137",
+      "title": "4 / Black Cable Bodice",
+      "price": 40.77,
+      "available": false,
+      "sku": "24HW3046BBlackAH4"
+    },
+    {
+      "variant_id": "45246728142905",
+      "title": "6 / Black Cable Bodice",
+      "price": 40.77,
+      "available": false,
+      "sku": "24HW3046BBlackAJ6"
+    },
+    {
+      "variant_id": "45246728175673",
+      "title": "8 / Black Cable Bodice",
+      "price": 40.77,
+      "available": false,
+      "sku": "24HW3046BBlackAM8"
+    },
+    {
+      "variant_id": "45246728208441",
+      "title": "10 / Black Cable Bodice",
+      "price": 40.77,
+      "available": false,
+      "sku": "24HW3046BBlackAO10"
+    },
+    {
+      "variant_id": "45246728241209",
+      "title": "12 / Black Cable Bodice",
+      "price": 40.77,
+      "available": false,
+      "sku": "24HW3046BBlackAR12"
+    },
+    {
+      "variant_id": "45246728273977",
+      "title": "14 / Black Cable Bodice",
+      "price": 40.77,
+      "available": false,
+      "sku": "24HW3046BBlackAT14"
+    },
+    {
+      "variant_id": "45246728306745",
+      "title": "16 / Black Cable Bodice",
+      "price": 40.77,
+      "available": false,
+      "sku": "24HW3046BBlackAU16"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/24HW3046B-Studio-1.jpg?v=1765912429",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/24HW3046B-Studio-2.jpg?v=1765461241",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/24HW3046B-Studio-3.jpg?v=1765461241",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/24HW3046B-Studio-4.jpg?v=1765461241",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/24HW3046B-1.jpg?v=1765461241",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/OCS_IDFL_64_d22ca4b7-a48c-4443-90c1-f768fcfb3d5a.jpg?v=1765461241",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": false,
+    "total_variants": 8,
+    "available_variants": 0
+  },
+  "metadata": {
+    "created_at": "2025-12-11T08:53:59-05:00",
+    "ingested_at": "2026-01-30T12:29:15.533124+00:00"
+  }
+}

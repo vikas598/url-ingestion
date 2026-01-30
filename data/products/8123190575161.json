@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8123190575161",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "jasmine-i-am-loved-affirmation-candle-17-5-oz",
+  "title": "Jasmine \"I Am Loved\" Affirmation Candle - 17.5 oz",
+  "vendor": "Affirmation Effect",
+  "product_type": "Candles",
+  "description": "<p> </p>\n<p><span>Indulge in the sweet fragrance of our \"<strong>I Am Loved</strong>\" Jasmine coconut wax candle. The perfect blend of lemon and ginger top notes, combined with the floral scents of jasmine and honeysuckle, creates a soothing atmosphere in your home. The grounding base notes of wood, violet, amyris, and powder promote relaxation and calmness, making it perfect for a night in or as part of your self-care routine. This reusable clear jar candle features two flat braided cotton wicks that are lead and zinc-free, ensuring a clean and pet-friendly burn. Experience approximately 60+ hours of burn time and feel the love in the air.</span></p>\n<p>✨ <strong>Burn Time:</strong> 60+ hours<br>✨ <strong>Weight:</strong> 17.5 oz<br>✨ <strong>Vegan &amp; Clean-Burning</strong><br>✨ <strong>Cotton Wicks:</strong> 2<br>📦 <strong>Shipping:</strong> Nationwide delivery in 3-5 business days!</p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 32.99,
+    "max_price": 32.99
+  },
+  "variants": [
+    {
+      "variant_id": "45267504201785",
+      "title": "Default Title",
+      "price": 32.99,
+      "available": true,
+      "sku": "PJACA0108S"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Jasmine_Candle_Coconut_Wax_best_selling.jpg?v=1766180549",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Jasmine_Wax_Melt_and_Candle_Coconut_Wax.jpg?v=1766180549",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Large_Jasmine_Candle_Coconut_Wax_312a0aef-e263-4e12-b6cd-27295b167f1e.jpg?v=1766180549",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Jasmine_Wax_Melt_Coconut_Wax_91f425ab-9f7b-4bf7-ad74-42b4476b6923.jpg?v=1766180550",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 1,
+    "available_variants": 1
+  },
+  "metadata": {
+    "created_at": "2025-12-19T16:42:27-05:00",
+    "ingested_at": "2026-01-30T12:29:15.492690+00:00"
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115733954617",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "mens-casual-multi-zipper-arm-pocket-sweatshirt",
+  "title": "Men's Casual Multi-zipper Arm Pocket Sweatshirt",
+  "vendor": "Plush Fashion Hub",
+  "product_type": "Sweatshirt",
+  "description": "<p>Tired of losing track of your essentials when you're on the move, or feeling weighed down by bulky pockets? Many men struggle to find casual wear that not only looks great but also offers true functionality for an active lifestyle.</p>\n<p>Carrying keys, cards, or earbuds throughout your busy day often means stuffing them into uncomfortable pockets or juggling them in your hands. This can make running errands, hitting the gym, or even just relaxing at home less convenient and more stressful than it should be.</p>\n<p>That’s where the Men’s Casual Multi-zipper Arm Pocket Sweatshirt comes to the rescue. This versatile, hooded pullover sweatshirt offers comfort, practicality, and a sleek style, all in one.</p>\n<ul>\n<li>\n<strong>Trendy Multi-Zipper Arm Pockets:</strong> Securely store your essentials close at hand, so you’re always organized and ready for anything.</li>\n<li>\n<strong>Ultra-Soft, Premium Fabric:</strong> Crafted from durable polyester fiber, the sweatshirt provides dependable warmth while staying incredibly soft on your skin.</li>\n<li>\n<strong>Relaxed Fit with Multiple Sizes:</strong> With a loose fit in sizes S–XXXL, you’ll enjoy total comfort whether you’re working out or lounging at home.</li>\n<li>“This sweatshirt is incredibly comfortable and perfect for any occasion! The zippers are a game changer!” - Alex T.</li>\n</ul>\n<p>Upgrade your wardrobe now and experience just how easy it is to look sharp while keeping your daily must-haves secure. Click “Add to Cart” and discover the best in men’s casual sweatshirt innovation.</p>\n<p><strong>Key features and benefits:</strong>  </p>\n<ul>\n<li>Multiple color options to suit any mood or style  </li>\n<li>Trendy hooded design with convenient long sleeves  </li>\n<li>Secure multi-zipper pockets for effortless organization</li>\n</ul>\n<p><strong>Solutions and Results:</strong><br>Choose the Men's Casual Multi-zipper Arm Pocket Sweatshirt and say goodbye to bulky, uncomfortable pockets. Simplify your daily routine, keep essentials safe wherever you go, and enjoy a sweatshirt that blends fashion with superior function.</p>\n",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 22.37,
+    "max_price": 22.37
+  },
+  "variants": [
+    {
+      "variant_id": "45245819158585",
+      "title": "Black / S",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-black-s"
+    },
+    {
+      "variant_id": "45245819191353",
+      "title": "Black / M",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-black-m"
+    },
+    {
+      "variant_id": "45245819224121",
+      "title": "Black / L",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-black-l"
+    },
+    {
+      "variant_id": "45245819256889",
+      "title": "Black / XL",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-black-xl"
+    },
+    {
+      "variant_id": "45245819289657",
+      "title": "Black / XXL",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-black-xxl"
+    },
+    {
+      "variant_id": "45245819322425",
+      "title": "Black / XXXL",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-black-xxxl"
+    },
+    {
+      "variant_id": "45245819355193",
+      "title": "Gray / S",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-gray-s"
+    },
+    {
+      "variant_id": "45245819387961",
+      "title": "Gray / M",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-gray-m"
+    },
+    {
+      "variant_id": "45245819420729",
+      "title": "Gray / L",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-gray-l"
+    },
+    {
+      "variant_id": "45245819453497",
+      "title": "Gray / XL",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-gray-xl"
+    },
+    {
+      "variant_id": "45245819486265",
+      "title": "Gray / XXL",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-gray-xxl"
+    },
+    {
+      "variant_id": "45245819519033",
+      "title": "Gray / XXXL",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-gray-xxxl"
+    },
+    {
+      "variant_id": "45245819551801",
+      "title": "Khaki / S",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-khaki-s"
+    },
+    {
+      "variant_id": "45245819584569",
+      "title": "Khaki / M",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-khaki-m"
+    },
+    {
+      "variant_id": "45245819617337",
+      "title": "Khaki / L",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-khaki-l"
+    },
+    {
+      "variant_id": "45245819650105",
+      "title": "Khaki / XL",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-khaki-xl"
+    },
+    {
+      "variant_id": "45245819682873",
+      "title": "Khaki / XXL",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-khaki-xxl"
+    },
+    {
+      "variant_id": "45245819715641",
+      "title": "Khaki / XXXL",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-khaki-xxxl"
+    },
+    {
+      "variant_id": "45245819748409",
+      "title": "Navy Blue / S",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-navy-blue-s"
+    },
+    {
+      "variant_id": "45245819781177",
+      "title": "Navy Blue / M",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-navy-blue-m"
+    },
+    {
+      "variant_id": "45245819813945",
+      "title": "Navy Blue / L",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-navy-blue-l"
+    },
+    {
+      "variant_id": "45245819846713",
+      "title": "Navy Blue / XL",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-navy-blue-xl"
+    },
+    {
+      "variant_id": "45245819879481",
+      "title": "Navy Blue / XXL",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-navy-blue-xxl"
+    },
+    {
+      "variant_id": "45245819912249",
+      "title": "Navy Blue / XXXL",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-navy-blue-xxxl"
+    },
+    {
+      "variant_id": "45245819945017",
+      "title": "Dark Gray / S",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-dark-gray-s"
+    },
+    {
+      "variant_id": "45245819977785",
+      "title": "Dark Gray / M",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-dark-gray-m"
+    },
+    {
+      "variant_id": "45245820010553",
+      "title": "Dark Gray / L",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-dark-gray-l"
+    },
+    {
+      "variant_id": "45245820043321",
+      "title": "Dark Gray / XL",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-dark-gray-xl"
+    },
+    {
+      "variant_id": "45245820076089",
+      "title": "Dark Gray / XXL",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-dark-gray-xxl"
+    },
+    {
+      "variant_id": "45245820108857",
+      "title": "Dark Gray / XXXL",
+      "price": 22.37,
+      "available": false,
+      "sku": "91924543-dark-gray-xxxl"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Men_s-Casual-Multi-zipper-Arm-Pocket-Sweatshirt-Plush-Fashion-Hub-167932727.jpg?v=1765913073",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Men_s-Casual-Multi-zipper-Arm-Pocket-Sweatshirt-Plush-Fashion-Hub-167932875.jpg?v=1765439058",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Men_s-Casual-Multi-zipper-Arm-Pocket-Sweatshirt-Plush-Fashion-Hub-167932912.jpg?v=1765439058",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Men_s-Casual-Multi-zipper-Arm-Pocket-Sweatshirt-Plush-Fashion-Hub-167933021.jpg?v=1765439058",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Men_s-Casual-Multi-zipper-Arm-Pocket-Sweatshirt-Plush-Fashion-Hub-167933116.jpg?v=1765439058",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": false,
+    "total_variants": 30,
+    "available_variants": 0
+  },
+  "metadata": {
+    "created_at": "2025-12-11T02:44:15-05:00",
+    "ingested_at": "2026-01-30T12:29:15.504087+00:00"
+  }
+}

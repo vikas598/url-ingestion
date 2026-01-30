@@ -1,0 +1,677 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8116015923257",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "infinity-legging",
+  "title": "Infinity Legging",
+  "vendor": "Wild South Apparel",
+  "product_type": "Leggings",
+  "description": "<p data-start=\"177\" data-end=\"477\">The Infinity Legging is engineered with premium performance fabric that works as hard as you do. Squat-proof, dog-hair resistant, and designed with a seamless front for a distraction-free fit, these leggings are more than activewear — they’re armor for your grind.</p>\n<p data-start=\"479\" data-end=\"757\">With the perfect balance of compression and stretch, they stay locked in when it counts and move with you through every rep, run, or long day out. From the gym floor to the outdoors, the Infinity Legging is made for women who demand more from their gear — and from themselves.</p>\n<p data-start=\"759\" data-end=\"778\"> </p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 72.0,
+    "max_price": 72.0
+  },
+  "variants": [
+    {
+      "variant_id": "45247159304249",
+      "title": "Black / XS",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-BLK-XS"
+    },
+    {
+      "variant_id": "45247159337017",
+      "title": "Black / S",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-BLK-S"
+    },
+    {
+      "variant_id": "45247159369785",
+      "title": "Black / M",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-BLK-M"
+    },
+    {
+      "variant_id": "45247159402553",
+      "title": "Black / L",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-BLK-L"
+    },
+    {
+      "variant_id": "45247159435321",
+      "title": "Black / XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-BLK-XL"
+    },
+    {
+      "variant_id": "45247159468089",
+      "title": "Black / 2XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-BLK-2XL"
+    },
+    {
+      "variant_id": "45247159500857",
+      "title": "Spiced Merlot / XS",
+      "price": 72.0,
+      "available": false,
+      "sku": "sku-47554173042929"
+    },
+    {
+      "variant_id": "45247159533625",
+      "title": "Spiced Merlot / S",
+      "price": 72.0,
+      "available": false,
+      "sku": "sku-47554173075697"
+    },
+    {
+      "variant_id": "45247159566393",
+      "title": "Spiced Merlot / M",
+      "price": 72.0,
+      "available": false,
+      "sku": "sku-47554173108465"
+    },
+    {
+      "variant_id": "45247159599161",
+      "title": "Spiced Merlot / L",
+      "price": 72.0,
+      "available": false,
+      "sku": "sku-47554173141233"
+    },
+    {
+      "variant_id": "45247159631929",
+      "title": "Spiced Merlot / XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "sku-47554173174001"
+    },
+    {
+      "variant_id": "45247159664697",
+      "title": "Spiced Merlot / 2XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "sku-47554173206769"
+    },
+    {
+      "variant_id": "45247159697465",
+      "title": "Electric Green / XS",
+      "price": 72.0,
+      "available": false,
+      "sku": "WS-INFINITYLEG-ELECTRICGREEN-XS"
+    },
+    {
+      "variant_id": "45247159730233",
+      "title": "Electric Green / S",
+      "price": 72.0,
+      "available": false,
+      "sku": "WS-INFINITYLEG-ELECTRICGREEN-S"
+    },
+    {
+      "variant_id": "45247159763001",
+      "title": "Electric Green / M",
+      "price": 72.0,
+      "available": false,
+      "sku": "WS-INFINITYLEG-ELECTRICGREEN-M"
+    },
+    {
+      "variant_id": "45247159795769",
+      "title": "Electric Green / L",
+      "price": 72.0,
+      "available": false,
+      "sku": "WS-INFINITYLEG-ELECTRICGREEN-L"
+    },
+    {
+      "variant_id": "45247159828537",
+      "title": "Electric Green / XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "WS-INFINITYLEG-ELECTRICGREEN-XL"
+    },
+    {
+      "variant_id": "45247159861305",
+      "title": "Electric Green / 2XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "WS-INFINITYLEG-ELECTRICGREEN-2XL"
+    },
+    {
+      "variant_id": "45247159894073",
+      "title": "Periwinkle / XS",
+      "price": 72.0,
+      "available": false,
+      "sku": "WS-INFINITYLEG-PERIWINKLE-XS"
+    },
+    {
+      "variant_id": "45247159926841",
+      "title": "Periwinkle / S",
+      "price": 72.0,
+      "available": false,
+      "sku": "WS-INFINITYLEG-PERIWINKLE-S"
+    },
+    {
+      "variant_id": "45247159959609",
+      "title": "Periwinkle / M",
+      "price": 72.0,
+      "available": false,
+      "sku": "WS-INFINITYLEG-PERIWINKLE-M"
+    },
+    {
+      "variant_id": "45247159992377",
+      "title": "Periwinkle / L",
+      "price": 72.0,
+      "available": false,
+      "sku": "WS-INFINITYLEG-PERIWINKLE-L"
+    },
+    {
+      "variant_id": "45247160025145",
+      "title": "Periwinkle / XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "WS_INFINITYLEG-PERWINKLE-XL"
+    },
+    {
+      "variant_id": "45247160057913",
+      "title": "Periwinkle / 2XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "WS-INFINITYLEG-PERIWINKLE-2XL"
+    },
+    {
+      "variant_id": "45247160090681",
+      "title": "Charcoal / XS",
+      "price": 72.0,
+      "available": false,
+      "sku": "sku-47154566791409"
+    },
+    {
+      "variant_id": "45247160123449",
+      "title": "Charcoal / S",
+      "price": 72.0,
+      "available": false,
+      "sku": "sku-47154566824177"
+    },
+    {
+      "variant_id": "45247160156217",
+      "title": "Charcoal / M",
+      "price": 72.0,
+      "available": false,
+      "sku": "sku-47154566856945"
+    },
+    {
+      "variant_id": "45247160188985",
+      "title": "Charcoal / L",
+      "price": 72.0,
+      "available": false,
+      "sku": "sku-47154566889713"
+    },
+    {
+      "variant_id": "45247160221753",
+      "title": "Charcoal / XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "sku-47154566922481"
+    },
+    {
+      "variant_id": "45247160254521",
+      "title": "Charcoal / 2XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "sku-47154566955249"
+    },
+    {
+      "variant_id": "45247160287289",
+      "title": "Slate / XS",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-SLT-XS"
+    },
+    {
+      "variant_id": "45247160320057",
+      "title": "Slate / S",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-SLT-S"
+    },
+    {
+      "variant_id": "45247160352825",
+      "title": "Slate / M",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-SLT-M"
+    },
+    {
+      "variant_id": "45247160385593",
+      "title": "Slate / L",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-SLT-L"
+    },
+    {
+      "variant_id": "45247160418361",
+      "title": "Slate / XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-SLT-XL"
+    },
+    {
+      "variant_id": "45247160451129",
+      "title": "Slate / 2XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-SLT-2XL"
+    },
+    {
+      "variant_id": "45247160483897",
+      "title": "Olive / XS",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-OLV-XS"
+    },
+    {
+      "variant_id": "45247160516665",
+      "title": "Olive / S",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-OLV-S"
+    },
+    {
+      "variant_id": "45247160549433",
+      "title": "Olive / M",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-OLV-M"
+    },
+    {
+      "variant_id": "45247160582201",
+      "title": "Olive / L",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-OLV-L"
+    },
+    {
+      "variant_id": "45247160614969",
+      "title": "Olive / XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-OLV-XL"
+    },
+    {
+      "variant_id": "45247160647737",
+      "title": "Olive / 2XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-OLV-2XL"
+    },
+    {
+      "variant_id": "45247160680505",
+      "title": "Espresso / XS",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-ESP-XS"
+    },
+    {
+      "variant_id": "45247160713273",
+      "title": "Espresso / S",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-ESP-S"
+    },
+    {
+      "variant_id": "45247160746041",
+      "title": "Espresso / M",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-ESP-M"
+    },
+    {
+      "variant_id": "45247160778809",
+      "title": "Espresso / L",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-ESP-L"
+    },
+    {
+      "variant_id": "45247160811577",
+      "title": "Espresso / XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-ESP-XL"
+    },
+    {
+      "variant_id": "45247160844345",
+      "title": "Espresso / 2XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-ESP-2XL"
+    },
+    {
+      "variant_id": "45247160877113",
+      "title": "Navy / XS",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-NVY-XS"
+    },
+    {
+      "variant_id": "45247160909881",
+      "title": "Navy / S",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-NVY-S"
+    },
+    {
+      "variant_id": "45247160942649",
+      "title": "Navy / M",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-NVY-M"
+    },
+    {
+      "variant_id": "45247160975417",
+      "title": "Navy / L",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-NVY-L"
+    },
+    {
+      "variant_id": "45247161008185",
+      "title": "Navy / XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-NVY-XL"
+    },
+    {
+      "variant_id": "45247161040953",
+      "title": "Navy / 2XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-NVY-2XL"
+    },
+    {
+      "variant_id": "45247161073721",
+      "title": "Sage / XS",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-SGE-XS"
+    },
+    {
+      "variant_id": "45247161106489",
+      "title": "Sage / S",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-SGE-S"
+    },
+    {
+      "variant_id": "45247161139257",
+      "title": "Sage / M",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-SGE-M"
+    },
+    {
+      "variant_id": "45247161172025",
+      "title": "Sage / L",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-SGE-L"
+    },
+    {
+      "variant_id": "45247161204793",
+      "title": "Sage / XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-SGE-XL"
+    },
+    {
+      "variant_id": "45247161237561",
+      "title": "Sage / 2XL",
+      "price": 72.0,
+      "available": false,
+      "sku": "INF-LEG-SGE-2XL"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-42225756274929.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DSC09862.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-42800496541937.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43958315286769.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-42528560578801.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43554479964401.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-42528560546033.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-42528560513265.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-42528560480497.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43070243700977.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43070203494641.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43070203592945.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43070203625713.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-42225735401713.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43070203527409.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-42146592293105.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-42146592358641.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-42146592325873.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-42225735434481.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-42225758994673.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43070244356337.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43070244258033.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43070244290801.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43070244192497.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43070244225265.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43070244323569.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43554451587313.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43554451685617.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43554451554545.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43554451652849.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43958300967153.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DSC09838.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DSC09901_19d38538-be85-466e-a2f7-5ad59fc587ea.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DSC09850.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43958301032689.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43958300934385.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43958301065457.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43958300999921.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43958312632561.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DSC09929.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DSC09934.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DSC00003.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43958312599793.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43958312698097.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wild-south-apparel-leggings-black-xs-infinity-legging-43958312665329.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DSCF7873.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DSCF7880.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DSCF7885.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DSCF7887.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DSCF7903.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CharcoalInfinity.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SpicedMerlot1.png?v=1765478112",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DSCF7924-2.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DSCF7929-2.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DSCF7920-2.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DSCF7930-2.jpg?v=1765478110",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DSCF7916-2.jpg?v=1765478110",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": false,
+    "total_variants": 60,
+    "available_variants": 0
+  },
+  "metadata": {
+    "created_at": "2025-12-11T13:35:07-05:00",
+    "ingested_at": "2026-01-30T12:29:15.489517+00:00"
+  }
+}

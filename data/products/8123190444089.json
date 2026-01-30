@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8123190444089",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "vanilla-citrus-grateful-affirmation-candle-17-5-oz",
+  "title": "Vanilla Citrus \"Grateful\" Affirmation Candle - 17.5 oz",
+  "vendor": "Affirmation Effect",
+  "product_type": "Candles",
+  "description": "<div>\n<meta charset=\"UTF-8\">\n<p>This reusable clear jar candle features two flat braided cotton wicks, which are lead and zinc free. Made with coconut wax, it provides a clean burn that is both vegan and pet-friendly, with a burn time of approximately 60+ hours.</p>\n<p>Looking for the perfect vanilla scented candle to create a cozy, warm and inviting atmosphere in your home? Our \"<strong>Grateful</strong>\" Affirmation Coconut Wax Candle has got you covered. This candle combines the soothing scent of vanilla with the lively and energetic aromas of grapefruit, lemon, mandarin, and orange. Vanilla is known for instilling calmness and relieving depression, while the citrus scents provide a quick mood boost. Light this candle to create a welcoming atmosphere in your home or simply breathe in the uplifting aroma to uplift your mood.</p>\n<ul></ul>\n<p>✨ <strong>Burn Time:</strong> 60+ hours<br>✨ <strong>Weight:</strong> 17.5 oz<br>✨ <strong>Vegan &amp; Clean-Burning</strong><br>✨ <strong>Cotton Wicks:</strong> 2<br>📦 <strong>Shipping:</strong> Nationwide delivery in 3-5 business days!</p>\n</div>\n<ul></ul>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 32.99,
+    "max_price": 32.99
+  },
+  "variants": [
+    {
+      "variant_id": "45267504005177",
+      "title": "Default Title",
+      "price": 32.99,
+      "available": true,
+      "sku": "PVACA0046S"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Vanilla_Citrus_Candle_coconut_wax.jpg?v=1766180549",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Vanilla_Citrus_Wax_Melt_and_Candle_Coconut_Wax.jpg?v=1766180549",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Vanilla_citrus_large_candle.jpg?v=1766180550",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Vanilla_Citrus_Wax_Melt_coconut_wax_94d29a9f-5692-4355-806e-ae3d4439acb7.jpg?v=1766180550",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 1,
+    "available_variants": 1
+  },
+  "metadata": {
+    "created_at": "2025-12-19T16:42:27-05:00",
+    "ingested_at": "2026-01-30T12:29:15.572329+00:00"
+  }
+}

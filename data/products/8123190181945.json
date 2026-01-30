@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8123190181945",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "egyptian-amber-blessed-affirmation-candle-60-oz",
+  "title": "Egyptian Amber \"Blessed\" Affirmation Candle -  60 oz",
+  "vendor": "Affirmation Effect",
+  "product_type": "Candles",
+  "description": "<div>\n<meta charset=\"UTF-8\">\n<p>Indulge in the luxurious and earthy scent of our \"Blessed\" Egyptian Amber Affirmation Candle. This candle features top notes of jasmine and ozone, middle notes of sandalwood, patchouli, and leather, and base notes of amber, musk, and powder. Made with a reusable clear jar and three flat braided cotton wicks that are lead and zinc-free, this candle is made with coconut wax for a clean burn that's both pet-friendly and vegan. Enjoy approximately 250+ hours of burn time with this candle and let its rich fragrance elevate any mood or moment.</p>\n<p><meta charset=\"UTF-8\"><span>✨ </span><strong>Burn Time:</strong><span> 250+ hours</span><br><span>✨ </span><strong>Weight:</strong><span> 60 oz</span><br><span>✨ </span><strong>Dimensions:</strong><span> 6\" x 6\"</span><br><span>✨ </span><strong>Vegan &amp; Clean-Burning</strong><br><span>✨ </span><strong>Cotton Wicks:</strong><span> 3</span><br><span>📦 </span><strong>Shipping:</strong><span> Nationwide delivery in 3-5 business days!</span></p>\n<p> </p>\n</div>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 149.99,
+    "max_price": 149.99
+  },
+  "variants": [
+    {
+      "variant_id": "45267503743033",
+      "title": "Default Title",
+      "price": 149.99,
+      "available": true,
+      "sku": "sku-44602693681338"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/large_Egyptian_Amber_candle.jpg?v=1766180545",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 1,
+    "available_variants": 1
+  },
+  "metadata": {
+    "created_at": "2025-12-19T16:42:22-05:00",
+    "ingested_at": "2026-01-30T12:29:15.457276+00:00"
+  }
+}

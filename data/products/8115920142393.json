@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115920142393",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "button-front-organic-maxi-dress",
+  "title": "Button Front Organic Maxi Dress",
+  "vendor": "Hope & Henry",
+  "product_type": "Dresses",
+  "description": "<p>We love the details on our short sleeve button front tiered dress for fall. Cut from a soft organic cotton calvary twill, this dress features a petite round collar, button front closure, tiered skirt, and removable waist tie for versatile styling. An easy silhouette to throw on for a variety of occasions!</p>\n<ul class=\"a-unordered-list a-vertical a-spacing-none\">\n<li>100% Organic Cotton, exclusive of trims. Garment is OCS-Certified. Learn more about our certifications <a href=\"https://hopeandhenry.com/pages/certifications\">here</a>.</li>\n<li>Button front closure and removable waist tie.</li>\n<li>Machine washable.</li>\n<li>Model is 5'7\" wearing size 2.</li>\n</ul>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 39.57,
+    "max_price": 39.57
+  },
+  "variants": [
+    {
+      "variant_id": "45246745149497",
+      "title": "2 / Ivory and Blue Check",
+      "price": 39.57,
+      "available": false,
+      "sku": "23FW6044ABeigeAA2"
+    },
+    {
+      "variant_id": "45246745182265",
+      "title": "4 / Ivory and Blue Check",
+      "price": 39.57,
+      "available": false,
+      "sku": "23FW6044ABeigeAH4"
+    },
+    {
+      "variant_id": "45246745215033",
+      "title": "6 / Ivory and Blue Check",
+      "price": 39.57,
+      "available": false,
+      "sku": "23FW6044ABeigeAJ6"
+    },
+    {
+      "variant_id": "45246745247801",
+      "title": "8 / Ivory and Blue Check",
+      "price": 39.57,
+      "available": false,
+      "sku": "23FW6044ABeigeAM8"
+    },
+    {
+      "variant_id": "45246745280569",
+      "title": "10 / Ivory and Blue Check",
+      "price": 39.57,
+      "available": false,
+      "sku": "23FW6044ABeigeAO10"
+    },
+    {
+      "variant_id": "45246745313337",
+      "title": "12 / Ivory and Blue Check",
+      "price": 39.57,
+      "available": false,
+      "sku": "23FW6044ABeigeAR12"
+    },
+    {
+      "variant_id": "45246745346105",
+      "title": "14 / Ivory and Blue Check",
+      "price": 39.57,
+      "available": false,
+      "sku": "23FW6044ABeigeAT14"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23FW6044A-Studio-1.jpg?v=1765911903",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23FW6044A-Studio-3.jpg?v=1765461529",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23FW6044A-Studio-4.jpg?v=1765461529",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23FW6044A-Studio-5.jpg?v=1765461529",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23FW6044A-Studio-2.jpg?v=1765461529",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23FW6044A-1.jpg?v=1765461529",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/OCS_IDFL_100_b03c472b-d228-4cab-bd25-98d320d8bc9b.jpg?v=1765461529",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": false,
+    "total_variants": 7,
+    "available_variants": 0
+  },
+  "metadata": {
+    "created_at": "2025-12-11T08:58:47-05:00",
+    "ingested_at": "2026-01-30T12:29:15.426313+00:00"
+  }
+}

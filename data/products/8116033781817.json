@@ -1,0 +1,237 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8116033781817",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "womens-bamboo-cotton-short-sleeve-scoop-neck-t-shirt",
+  "title": "Women's Bamboo/Cotton Short Sleeve Scoop Neck T-Shirt",
+  "vendor": "Spun Bamboo",
+  "product_type": "women's tshirt",
+  "description": "<p><b>This soft women clothing tshirt, refined 70% Viscose from Bamboo/30% Organic Cotton Jersey features short sleeves and not-too-low scoop neck. Our newly designed tee has added body length and a slim-fit silhouette. Ideal for layering or for low-rise bottoms. </b></p>\n<p><b><span data-mce-fragment=\"1\"></span></b><b>Available in Sapphire Blue, Cream, Black, and Charcoal Heather Grey.</b><br></p>\n<p> </p>\n<p>Designed in California, made in China - where bamboo grows.<br>S, M, L, XL, and XXL. </p>\n<p> </p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 28.34,
+    "max_price": 28.34
+  },
+  "variants": [
+    {
+      "variant_id": "45247200493625",
+      "title": "Medium / Black",
+      "price": 28.34,
+      "available": true,
+      "sku": "ET-WHG-MED-BLA"
+    },
+    {
+      "variant_id": "45247200526393",
+      "title": "Large / Black",
+      "price": 28.34,
+      "available": true,
+      "sku": "ET-WHG-LAR-BLA"
+    },
+    {
+      "variant_id": "45247200559161",
+      "title": "Extra Large / Black",
+      "price": 28.34,
+      "available": true,
+      "sku": "ET-WHG-XLA-BLA"
+    },
+    {
+      "variant_id": "45247200591929",
+      "title": "Small / Black",
+      "price": 28.34,
+      "available": true,
+      "sku": "ET-WHG-SMA-BLA"
+    },
+    {
+      "variant_id": "45247200624697",
+      "title": "XX-Large / Black",
+      "price": 28.34,
+      "available": true,
+      "sku": "ET-WHG-XXL-BLA"
+    },
+    {
+      "variant_id": "45247200657465",
+      "title": "Medium / Cream",
+      "price": 28.34,
+      "available": false,
+      "sku": "ET-WHG-MED-NAT"
+    },
+    {
+      "variant_id": "45247200690233",
+      "title": "Large / Cream",
+      "price": 28.34,
+      "available": true,
+      "sku": "ET-WHG-LAR-NAT"
+    },
+    {
+      "variant_id": "45247200723001",
+      "title": "Extra Large / Cream",
+      "price": 28.34,
+      "available": true,
+      "sku": "ET-WHG-XLA-NAT"
+    },
+    {
+      "variant_id": "45247200755769",
+      "title": "Small / Cream",
+      "price": 28.34,
+      "available": false,
+      "sku": "ET-WHG-SMA-NAT"
+    },
+    {
+      "variant_id": "45247200788537",
+      "title": "XX-Large / Cream",
+      "price": 28.34,
+      "available": true,
+      "sku": "ET-WHG-XXL-NAT"
+    },
+    {
+      "variant_id": "45247200821305",
+      "title": "Medium / Charcoal Heather Grey",
+      "price": 28.34,
+      "available": true,
+      "sku": "ET-WHG-MED-GRE"
+    },
+    {
+      "variant_id": "45247200854073",
+      "title": "Large / Charcoal Heather Grey",
+      "price": 28.34,
+      "available": true,
+      "sku": "ET-WHG-LAR-GRE"
+    },
+    {
+      "variant_id": "45247200886841",
+      "title": "Extra Large / Charcoal Heather Grey",
+      "price": 28.34,
+      "available": true,
+      "sku": "ET-WHG-XLA-GRE"
+    },
+    {
+      "variant_id": "45247200919609",
+      "title": "Small / Charcoal Heather Grey",
+      "price": 28.34,
+      "available": false,
+      "sku": "ET-WHG-SMA-GRE"
+    },
+    {
+      "variant_id": "45247200952377",
+      "title": "XX-Large / Charcoal Heather Grey",
+      "price": 28.34,
+      "available": true,
+      "sku": "ET-WHG-XXL-GRE"
+    },
+    {
+      "variant_id": "45247200985145",
+      "title": "Medium / Sapphire Blue",
+      "price": 28.34,
+      "available": true,
+      "sku": "ET-WHG-MED-SAP"
+    },
+    {
+      "variant_id": "45247201017913",
+      "title": "Large / Sapphire Blue",
+      "price": 28.34,
+      "available": true,
+      "sku": "ET-WHG-LAR-SAP"
+    },
+    {
+      "variant_id": "45247201050681",
+      "title": "Extra Large / Sapphire Blue",
+      "price": 28.34,
+      "available": true,
+      "sku": "ET-WHG-XLA-SAP"
+    },
+    {
+      "variant_id": "45247201083449",
+      "title": "Small / Sapphire Blue",
+      "price": 28.34,
+      "available": true,
+      "sku": "ET-WHG-SMA-SAP"
+    },
+    {
+      "variant_id": "45247201116217",
+      "title": "XX-Large / Sapphire Blue",
+      "price": 28.34,
+      "available": true,
+      "sku": "ET-WHG-XXL-SAP"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-bamboocotton-short-sleeve-scoop-neck-t-shirt-womens-tshirt-spun-bamboo-112409.jpg?v=1765910311",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-bamboocotton-short-sleeve-scoop-neck-t-shirt-womens-tshirt-spun-bamboo-116244_6e5906c2-62c8-4795-aae6-0375a824c399.jpg?v=1765910311",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-bamboocotton-short-sleeve-scoop-neck-t-shirt-womens-tshirt-spun-bamboo-794720_93cf18a2-dccd-45f2-ad9a-c14120efdc42.jpg?v=1765910311",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-bamboocotton-short-sleeve-scoop-neck-t-shirt-womens-tshirt-spun-bamboo-360514_3688f611-85c6-4e63-8920-b5e76f9cc5ba.jpg?v=1765910311",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-bamboocotton-short-sleeve-scoop-neck-t-shirt-womens-tshirt-spun-bamboo-784169_c965e072-b8c0-462d-bf9d-0d92cb906725.jpg?v=1765910311",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-bamboocotton-short-sleeve-scoop-neck-t-shirt-womens-tshirt-spun-bamboo-530255_ace4bef4-2a06-4e2c-9d35-a5db5a59346d.jpg?v=1765479529",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-bamboocotton-short-sleeve-scoop-neck-t-shirt-womens-tshirt-spun-bamboo-174137_ff0efc9d-dd3f-4199-baa7-a6235e49c0d6.jpg?v=1765479529",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-bamboocotton-short-sleeve-scoop-neck-t-shirt-womens-tshirt-spun-bamboo-995216.jpg?v=1765479529",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-bamboocotton-short-sleeve-scoop-neck-t-shirt-womens-tshirt-spun-bamboo-741652_190e7900-3309-471f-a9b9-cc13e20de76c.jpg?v=1765479528",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-bamboocotton-short-sleeve-scoop-neck-t-shirt-womens-tshirt-spun-bamboo-208764_a0f2d86e-69b6-4c42-941e-00abc0d5b87f.jpg?v=1765479529",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-bamboocotton-short-sleeve-scoop-neck-t-shirt-womens-tshirt-spun-bamboo-758818_b12594ed-b5d3-426b-9c1d-aa98e2c52122.jpg?v=1765479529",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-bamboocotton-short-sleeve-scoop-neck-t-shirt-womens-tshirt-spun-bamboo-987914_c770ecc0-5dc9-4565-8bff-96eeffc14306.jpg?v=1765479529",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-bamboocotton-short-sleeve-scoop-neck-t-shirt-womens-tshirt-spun-bamboo-646698_cb880cd7-a6fa-4d51-a648-7a5e0d866b99.jpg?v=1765479529",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-bamboocotton-short-sleeve-scoop-neck-t-shirt-womens-tshirt-spun-bamboo-495168_f0e6ac1f-aab8-4eca-8fe0-8fb49bfd0239.jpg?v=1765479529",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-bamboocotton-short-sleeve-scoop-neck-t-shirt-womens-tshirt-spun-bamboo-737097_37dee2da-a1b1-441e-9c43-b54c82ef975c.jpg?v=1765479528",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-bamboocotton-short-sleeve-scoop-neck-t-shirt-womens-tshirt-spun-bamboo-420427_55fc53b3-c881-48cb-a7a4-59d1f1fd747d.jpg?v=1765479528",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-bamboocotton-short-sleeve-scoop-neck-t-shirt-womens-tshirt-spun-bamboo-570168_f3e3c7c0-f775-4d23-b596-19cad49850da.jpg?v=1765479528",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 20,
+    "available_variants": 17
+  },
+  "metadata": {
+    "created_at": "2025-12-11T13:58:35-05:00",
+    "ingested_at": "2026-01-30T12:29:15.583526+00:00"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8117480882233",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "flipping-holder-deluxe-w-lid-blue",
+  "title": "Flipping Holder DELUXE w/ LID (Blue)",
+  "vendor": "Flipping Holder",
+  "product_type": "",
+  "description": "<p>Love snacks on-the-go but tired of the mess they create? Stop the squeeze &amp; cut out the clean-up with this ingenious <strong>mom-invented, made in USA Flipping Holder</strong> for purees pouches &amp; drink boxes. <br></p>\n<p>Designed by smart parents for curious babies &amp; toddlers learning to feed themselves, the Flipping Holder is unlike any other:  the patented design of the Flipping Holder makes it uniquely universal to fit all food pouches on the market as well as oversized reusable pouches.  Simply flip it upside down to convert it to a juice box holder.  The dual, curved handles support your little one’s developing grasping skills &amp; independence.</p>\n<p>Nothing is more important than your little one’s safety &amp; wellbeing. This Flipping Holder contains no loose parts and is USA-made from food-safe polypropylene that’s free of BPA, DEHP, and lead. Use it multiple times between washings. Grab it &amp; go – at home, in the car, on the plane. Easy to clean &amp; dishwasher friendly.</p>\n<p>Know an expecting parent?  The Flipping Holder is a brilliant baby shower gift - Ditch the usual ordinary baby gifts &amp; give the new parents something they’ll thank you for every day. Perfectly practical, a total time-saver, and the only one of its kind, this multipurpose Flipping Holder makes a unique baby shower gift.<br></p>\n<p> </p>\n<p>Flipping Holder has a universal design that supports all juice boxes, juice pouches &amp; squeeze food pouches. Stand it upright for food pouches &amp; flip it upside down for juice boxes. Dual, curved handles support your little one’s developing grasping skills &amp; independence.</p>\n<p><strong>One Flipping Holder DELUXE (our original Flipping Holder PLUS our new LID to stop little hands from pulling out the juices and pouches).</strong></p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 12.0,
+    "max_price": 12.0
+  },
+  "variants": [
+    {
+      "variant_id": "45251560996921",
+      "title": "Default Title",
+      "price": 12.0,
+      "available": true,
+      "sku": "LCDFH0001B-dlx"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/05-Hero.jpg?v=1765908998",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/02-Hero.jpg?v=1765648539",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/08.jpg?v=1765648539",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/11.jpg?v=1765648540",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/14.jpg?v=1765648539",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/LISTING-01.png?v=1765648542",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/LISTING-02.png?v=1765648541",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/LISTING-03.png?v=1765648543",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/LISTING-04.png?v=1765648542",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/LISTING-05.png?v=1765648540",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/LISTING-06.png?v=1765648542",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/AmazonListingTemplates.jpg?v=1765648540",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 1,
+    "available_variants": 1
+  },
+  "metadata": {
+    "created_at": "2025-12-13T12:55:37-05:00",
+    "ingested_at": "2026-01-30T12:29:15.466398+00:00"
+  }
+}

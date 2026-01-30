@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8121594118201",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "noplastic™-multi-cleaner-bottle",
+  "title": "NoPlastic™ Multi Cleaner Bottle",
+  "vendor": "Plastno",
+  "product_type": "Extras",
+  "description": "<p><meta charset=\"utf-8\"><span>Made for a cleaner home and planet, our cleaning sprays tackle every inch of your home without any of the waste. Our PET spray bottles are super durable and easy to use. <br><br></span><span>Just fill the 16oz bottle with water, drop in a tablet, and get cleaning! </span></p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 8.0,
+    "max_price": 8.0
+  },
+  "variants": [
+    {
+      "variant_id": "45262524284985",
+      "title": "Default Title",
+      "price": 8.0,
+      "available": false,
+      "sku": "PNMB1601"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Plastno_Multi_Cleaner_Bottle_1_7d9eb45a-46bc-488a-bf0e-5078b44ef016.jpg?v=1766026570",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Plastno_Multi_Cleaner_Bottle_2_5bae692e-ec25-41fc-803c-61ba26f05454.jpg?v=1766026570",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Plastno_Multi_Cleaner_Bottle_3_551f27d3-6d89-4c31-a073-db86cd8846e1.jpg?v=1766026570",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Plastno_Multi_Cleaner_Bottle_4.jpg?v=1766026570",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": false,
+    "total_variants": 1,
+    "available_variants": 0
+  },
+  "metadata": {
+    "created_at": "2025-12-17T21:55:38-05:00",
+    "ingested_at": "2026-01-30T12:29:15.518006+00:00"
+  }
+}

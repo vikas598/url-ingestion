@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8117509783609",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "daily-ritual-set",
+  "title": "Daily Ritual Set",
+  "vendor": "The Qi",
+  "product_type": "Flower Tea",
+  "description": "<p> </p>\n<p class=\"p1\"><strong></strong><strong>Feel more joy and nourishment.</strong><br>Bring spa time home with this daily ritual, flower paradise in a cup and feel an improved mood and heal from the power of flowers.  Discover three varieties of flower tea in this<span> <strong></strong>set</span> for<span> </span>an extraordinary sensory experience. Me Time never looked and felt so good. <br></p>\n<p class=\"p1\">[ <span data-mce-fragment=\"1\">✓</span><span> </span>] O<span data-mce-fragment=\"1\">rganically grown</span><span> </span> <br>[ <span data-mce-fragment=\"1\">✓</span><span> </span>] Antioxidants  <span><br></span>[ <span data-mce-fragment=\"1\">✓</span><span> </span>] Zero calories <br>[ <span data-mce-fragment=\"1\">✓</span><span> </span>] Non-GMO <br><span data-mce-fragment=\"1\">[ ✓ ] Naturally caffeine-free</span></p>\n<p><meta charset=\"utf-8\"><strong>Contains: </strong></p>\n<p>27 x Servings (9 individually packed whole flowers)<br>1 x Glass pot 15oz <br>1 x Bamboo tong</p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 52.0,
+    "max_price": 52.0
+  },
+  "variants": [
+    {
+      "variant_id": "45251617456185",
+      "title": "Default Title",
+      "price": 52.0,
+      "available": false,
+      "sku": "DR-2-FT"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DSC05868.png?v=1765908866",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/NewDailyRitualopenopen20small.jpg?v=1765908866",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/dailyritualbestseller.jpg?v=1765908866",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/4_3b6d4327-15fd-4f6b-8109-fa70f0caf009.png?v=1765908866",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/TheQiflowerteas.jpg?v=1765908866",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/TheQiglassserver12_1b4241e5-5708-425b-bd3a-991e077f333e.jpg?v=1765650184",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/TheQi_glass_server.jpg?v=1765650184",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": false,
+    "total_variants": 1,
+    "available_variants": 0
+  },
+  "metadata": {
+    "created_at": "2025-12-13T13:23:02-05:00",
+    "ingested_at": "2026-01-30T12:29:15.447336+00:00"
+  }
+}

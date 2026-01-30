@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115911786553",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "dolman-sleeve-sweater-dress",
+  "title": "Dolman Sleeve Sweater Dress",
+  "vendor": "Hope & Henry",
+  "product_type": "Dresses",
+  "description": "<p>Effortlessly chic is the best way to describe our gorgeous mock neck sweater dress cut from soft organic cotton. Features dolman sleeves for a cozy fit, while a wide and stretchy rib knit waistband allows you to customize the fit perfectly to your body. This is the one you'll be wearing all season long.</p><ul class=\"a-unordered-list a-vertical a-spacing-none\">\n<li>100% Organic Cotton, exclusive of trims. Garment is 100% GOTS-Certified Organic. Learn more about our certifications <a href=\"https://hopeandhenry.com/pages/certifications\">here</a>.</li>\n<li>Mock neck and rib knit waistband.</li>\n<li>Machine washable.</li>\n</ul>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 49.77,
+    "max_price": 49.77
+  },
+  "variants": [
+    {
+      "variant_id": "45246724210745",
+      "title": "2 / Chocolate Heather",
+      "price": 49.77,
+      "available": false,
+      "sku": "25FW3043BBrownAA2"
+    },
+    {
+      "variant_id": "45246724243513",
+      "title": "4 / Chocolate Heather",
+      "price": 49.77,
+      "available": false,
+      "sku": "25FW3043BBrownAH4"
+    },
+    {
+      "variant_id": "45246724276281",
+      "title": "6 / Chocolate Heather",
+      "price": 49.77,
+      "available": true,
+      "sku": "25FW3043BBrownAJ6"
+    },
+    {
+      "variant_id": "45246724309049",
+      "title": "8 / Chocolate Heather",
+      "price": 49.77,
+      "available": false,
+      "sku": "25FW3043BBrownAM8"
+    },
+    {
+      "variant_id": "45246724341817",
+      "title": "10 / Chocolate Heather",
+      "price": 49.77,
+      "available": false,
+      "sku": "25FW3043BBrownAO10"
+    },
+    {
+      "variant_id": "45246724374585",
+      "title": "12 / Chocolate Heather",
+      "price": 49.77,
+      "available": true,
+      "sku": "25FW3043BBrownAR12"
+    },
+    {
+      "variant_id": "45246724407353",
+      "title": "14 / Chocolate Heather",
+      "price": 49.77,
+      "available": false,
+      "sku": "25FW3043BBrownAT14"
+    },
+    {
+      "variant_id": "45246724440121",
+      "title": "16 / Chocolate Heather",
+      "price": 49.77,
+      "available": false,
+      "sku": "25FW3043BBrownAU16"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/25FW3043B-Studio-1_edb09206-1bd3-4f90-938b-3fd454db8703.jpg?v=1765912673",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/25FW3043B-Studio-2_d6961fd5-4255-488c-aadd-da11a80d75ec.jpg?v=1765461015",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/25FW3043B-Studio-3_800cd613-e63a-4afc-a35b-c374dc84badc.jpg?v=1765461014",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/25FW3043B-1_30d1d3e5-b3a3-449b-ba2f-aa3e5721dedc.jpg?v=1765461014",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 8,
+    "available_variants": 2
+  },
+  "metadata": {
+    "created_at": "2025-12-11T08:50:12-05:00",
+    "ingested_at": "2026-01-30T12:29:15.449350+00:00"
+  }
+}

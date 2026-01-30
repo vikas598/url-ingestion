@@ -1,0 +1,785 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115676250169",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "good-girls-say-please-thank-you-sir-unisex-heavy-blend-hoodie-sweatshirt",
+  "title": "Good Girls Say Please & Thank You Sir Unisex Heavy Blend Hoodie Sweatshirt",
+  "vendor": "Bound Kitten",
+  "product_type": "Hoodie",
+  "description": "<p>This unisex heavy blend hooded sweatshirt is relaxation itself. Made with a thick blend of cotton and polyester, it feels plush, soft and warm, a perfect choice for any cold day. In the front, the spacious kangaroo pocket adds daily practicality while the hood's drawstring is the same color as the base sweater for extra style points.</p>\n<p> .: Made with a medium-heavy fabric (8.0 oz/yd² (271 g/m²)) that consists of 50% cotton and 50% polyester for that cozy feel and warmth you need in a hoodie.</p>\n<p>.: The classic fit along with the pouch pocket and the tear-away label make for a highly comfortable, scratch-free wearing experience.</p>\n<p> .: The color-matched drawcord and the double-lined hood add a stylish flair and durability that tie everything together.</p>\n<p>.: Made using 100% ethically grown US cotton. Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production. The blank tee's dyes are OEKO-TEX-certified dyes with low environmental impact.</p>\n<p> .: Fabric blends: Heather Sport colors - 60% polyester, 40% cotton</p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 60.0,
+    "max_price": 64.0
+  },
+  "variants": [
+    {
+      "variant_id": "45245692903481",
+      "title": "Black / S",
+      "price": 60.0,
+      "available": false,
+      "sku": "18682410142380582052"
+    },
+    {
+      "variant_id": "45245692936249",
+      "title": "Black / M",
+      "price": 60.0,
+      "available": false,
+      "sku": "18879191086444748033"
+    },
+    {
+      "variant_id": "45245692969017",
+      "title": "Black / L",
+      "price": 60.0,
+      "available": false,
+      "sku": "29436027395920871371"
+    },
+    {
+      "variant_id": "45245693001785",
+      "title": "Black / XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "35016197291852586647"
+    },
+    {
+      "variant_id": "45245693034553",
+      "title": "Black / 2XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "23781835824794797007"
+    },
+    {
+      "variant_id": "45245693067321",
+      "title": "Black / 3XL",
+      "price": 62.0,
+      "available": false,
+      "sku": "12162138309220105562"
+    },
+    {
+      "variant_id": "45245693100089",
+      "title": "Black / 4XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "22802297473802466838"
+    },
+    {
+      "variant_id": "45245693132857",
+      "title": "Black / 5XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "15516173562416079345"
+    },
+    {
+      "variant_id": "45245693165625",
+      "title": "Dark Heather / S",
+      "price": 60.0,
+      "available": false,
+      "sku": "32535090603313754867"
+    },
+    {
+      "variant_id": "45245693198393",
+      "title": "Dark Heather / M",
+      "price": 60.0,
+      "available": false,
+      "sku": "17292750698959638353"
+    },
+    {
+      "variant_id": "45245693231161",
+      "title": "Dark Heather / L",
+      "price": 60.0,
+      "available": false,
+      "sku": "99617464914140238148"
+    },
+    {
+      "variant_id": "45245693263929",
+      "title": "Dark Heather / XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "24213158774186044230"
+    },
+    {
+      "variant_id": "45245693296697",
+      "title": "Dark Heather / 2XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "27645014184940753097"
+    },
+    {
+      "variant_id": "45245693329465",
+      "title": "Dark Heather / 3XL",
+      "price": 62.0,
+      "available": false,
+      "sku": "40135243266683767393"
+    },
+    {
+      "variant_id": "45245693362233",
+      "title": "Dark Heather / 4XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "67549072740252714938"
+    },
+    {
+      "variant_id": "45245693395001",
+      "title": "Dark Heather / 5XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "27148775438302228507"
+    },
+    {
+      "variant_id": "45245693427769",
+      "title": "Maroon / S",
+      "price": 60.0,
+      "available": false,
+      "sku": "32435669128755289969"
+    },
+    {
+      "variant_id": "45245693460537",
+      "title": "Maroon / M",
+      "price": 60.0,
+      "available": false,
+      "sku": "14071845428646491002"
+    },
+    {
+      "variant_id": "45245693493305",
+      "title": "Maroon / L",
+      "price": 60.0,
+      "available": false,
+      "sku": "11678911093720926305"
+    },
+    {
+      "variant_id": "45245693526073",
+      "title": "Maroon / XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "33075134514434879478"
+    },
+    {
+      "variant_id": "45245693558841",
+      "title": "Maroon / 2XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "98641817512200861772"
+    },
+    {
+      "variant_id": "45245693591609",
+      "title": "Maroon / 3XL",
+      "price": 62.0,
+      "available": false,
+      "sku": "12498844290941292273"
+    },
+    {
+      "variant_id": "45245693624377",
+      "title": "Maroon / 4XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "26032882876152107451"
+    },
+    {
+      "variant_id": "45245693657145",
+      "title": "Maroon / 5XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "43536231844075846705"
+    },
+    {
+      "variant_id": "45245693689913",
+      "title": "Navy / S",
+      "price": 60.0,
+      "available": false,
+      "sku": "80748203815937983235"
+    },
+    {
+      "variant_id": "45245693722681",
+      "title": "Navy / M",
+      "price": 60.0,
+      "available": false,
+      "sku": "27129651482055260637"
+    },
+    {
+      "variant_id": "45245693755449",
+      "title": "Navy / L",
+      "price": 60.0,
+      "available": false,
+      "sku": "28437532205481126069"
+    },
+    {
+      "variant_id": "45245693788217",
+      "title": "Navy / XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "24747031773565473189"
+    },
+    {
+      "variant_id": "45245693820985",
+      "title": "Navy / 2XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "38467279738457922841"
+    },
+    {
+      "variant_id": "45245693853753",
+      "title": "Navy / 3XL",
+      "price": 62.0,
+      "available": false,
+      "sku": "26987274398172571739"
+    },
+    {
+      "variant_id": "45245693886521",
+      "title": "Navy / 4XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "30203754197506041538"
+    },
+    {
+      "variant_id": "45245693919289",
+      "title": "Navy / 5XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "14718233509359909799"
+    },
+    {
+      "variant_id": "45245693952057",
+      "title": "Heliconia / S",
+      "price": 60.0,
+      "available": false,
+      "sku": "39688149541899118158"
+    },
+    {
+      "variant_id": "45245693984825",
+      "title": "Heliconia / M",
+      "price": 60.0,
+      "available": false,
+      "sku": "33267681447220232019"
+    },
+    {
+      "variant_id": "45245694017593",
+      "title": "Heliconia / L",
+      "price": 60.0,
+      "available": false,
+      "sku": "21905613416000719805"
+    },
+    {
+      "variant_id": "45245694050361",
+      "title": "Heliconia / XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "27551507731831585245"
+    },
+    {
+      "variant_id": "45245694083129",
+      "title": "Purple / S",
+      "price": 60.0,
+      "available": false,
+      "sku": "27150947882117313405"
+    },
+    {
+      "variant_id": "45245694115897",
+      "title": "Purple / M",
+      "price": 60.0,
+      "available": false,
+      "sku": "60421223400280409861"
+    },
+    {
+      "variant_id": "45245694148665",
+      "title": "Purple / L",
+      "price": 60.0,
+      "available": false,
+      "sku": "32610128585503674306"
+    },
+    {
+      "variant_id": "45245694181433",
+      "title": "Purple / XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "24555133135002517879"
+    },
+    {
+      "variant_id": "45245694214201",
+      "title": "Purple / 2XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "30296512831421773058"
+    },
+    {
+      "variant_id": "45245694246969",
+      "title": "Purple / 3XL",
+      "price": 62.0,
+      "available": false,
+      "sku": "98933870328857663932"
+    },
+    {
+      "variant_id": "45245694279737",
+      "title": "Purple / 4XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "29200845084496316755"
+    },
+    {
+      "variant_id": "45245694312505",
+      "title": "Purple / 5XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "93792895348126497021"
+    },
+    {
+      "variant_id": "45245694345273",
+      "title": "Red / S",
+      "price": 60.0,
+      "available": false,
+      "sku": "11701971344665671037"
+    },
+    {
+      "variant_id": "45245694378041",
+      "title": "Red / M",
+      "price": 60.0,
+      "available": false,
+      "sku": "25663136767925486422"
+    },
+    {
+      "variant_id": "45245694410809",
+      "title": "Red / L",
+      "price": 60.0,
+      "available": false,
+      "sku": "22622370118262066163"
+    },
+    {
+      "variant_id": "45245694443577",
+      "title": "Red / XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "30226916218158784310"
+    },
+    {
+      "variant_id": "45245694476345",
+      "title": "Red / 2XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "17045311913266288686"
+    },
+    {
+      "variant_id": "45245694509113",
+      "title": "Red / 3XL",
+      "price": 62.0,
+      "available": false,
+      "sku": "94625825651396643584"
+    },
+    {
+      "variant_id": "45245694541881",
+      "title": "Red / 4XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "73283566940569724557"
+    },
+    {
+      "variant_id": "45245694574649",
+      "title": "Red / 5XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "15704342725045512234"
+    },
+    {
+      "variant_id": "45245694607417",
+      "title": "Royal / S",
+      "price": 60.0,
+      "available": false,
+      "sku": "17910934586188518017"
+    },
+    {
+      "variant_id": "45245694640185",
+      "title": "Royal / M",
+      "price": 60.0,
+      "available": false,
+      "sku": "92577476285801018676"
+    },
+    {
+      "variant_id": "45245694672953",
+      "title": "Royal / L",
+      "price": 60.0,
+      "available": false,
+      "sku": "86871824629049409952"
+    },
+    {
+      "variant_id": "45245694705721",
+      "title": "Royal / XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "18076465187894228943"
+    },
+    {
+      "variant_id": "45245694738489",
+      "title": "Royal / 2XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "33104298433561487398"
+    },
+    {
+      "variant_id": "45245694771257",
+      "title": "Royal / 3XL",
+      "price": 62.0,
+      "available": false,
+      "sku": "14661129483531246418"
+    },
+    {
+      "variant_id": "45245694804025",
+      "title": "Royal / 4XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "22197607262742682517"
+    },
+    {
+      "variant_id": "45245694836793",
+      "title": "Royal / 5XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "41222003935590729331"
+    },
+    {
+      "variant_id": "45245694869561",
+      "title": "Forest Green / S",
+      "price": 60.0,
+      "available": false,
+      "sku": "11724564677754464678"
+    },
+    {
+      "variant_id": "45245694902329",
+      "title": "Forest Green / M",
+      "price": 60.0,
+      "available": false,
+      "sku": "27641358263831854435"
+    },
+    {
+      "variant_id": "45245694935097",
+      "title": "Forest Green / L",
+      "price": 60.0,
+      "available": false,
+      "sku": "20574027881984643383"
+    },
+    {
+      "variant_id": "45245694967865",
+      "title": "Forest Green / XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "13743189339862775843"
+    },
+    {
+      "variant_id": "45245695000633",
+      "title": "Forest Green / 2XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "13540806416103947303"
+    },
+    {
+      "variant_id": "45245695033401",
+      "title": "Forest Green / 3XL",
+      "price": 62.0,
+      "available": false,
+      "sku": "13381728706022725373"
+    },
+    {
+      "variant_id": "45245695066169",
+      "title": "Forest Green / 4XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "10861788584317618522"
+    },
+    {
+      "variant_id": "45245695098937",
+      "title": "Forest Green / 5XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "50447537479129670590"
+    },
+    {
+      "variant_id": "45245695131705",
+      "title": "Light Pink / S",
+      "price": 60.0,
+      "available": false,
+      "sku": "15331052222415399691"
+    },
+    {
+      "variant_id": "45245695164473",
+      "title": "Light Pink / M",
+      "price": 60.0,
+      "available": false,
+      "sku": "22776668345699693936"
+    },
+    {
+      "variant_id": "45245695197241",
+      "title": "Light Pink / L",
+      "price": 60.0,
+      "available": false,
+      "sku": "26577652015934278689"
+    },
+    {
+      "variant_id": "45245695230009",
+      "title": "Light Pink / XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "23624568426674204216"
+    },
+    {
+      "variant_id": "45245695262777",
+      "title": "Light Pink / 2XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "25590295605853210333"
+    },
+    {
+      "variant_id": "45245695295545",
+      "title": "Light Pink / 3XL",
+      "price": 62.0,
+      "available": false,
+      "sku": "21696207648977057718"
+    },
+    {
+      "variant_id": "45245695328313",
+      "title": "Light Pink / 4XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "14564456723467981627"
+    },
+    {
+      "variant_id": "45245695361081",
+      "title": "Light Pink / 5XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "69046136422847932285"
+    },
+    {
+      "variant_id": "45245695393849",
+      "title": "Antique Sapphire / S",
+      "price": 60.0,
+      "available": false,
+      "sku": "28659502785755004191"
+    },
+    {
+      "variant_id": "45245695426617",
+      "title": "Antique Sapphire / M",
+      "price": 60.0,
+      "available": false,
+      "sku": "15644983887824915908"
+    },
+    {
+      "variant_id": "45245695459385",
+      "title": "Antique Sapphire / L",
+      "price": 60.0,
+      "available": false,
+      "sku": "83467389052159656597"
+    },
+    {
+      "variant_id": "45245695492153",
+      "title": "Antique Sapphire / XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "57707670743325347711"
+    },
+    {
+      "variant_id": "45245695524921",
+      "title": "Antique Sapphire / 2XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "28382733528877357517"
+    },
+    {
+      "variant_id": "45245695557689",
+      "title": "Antique Sapphire / 3XL",
+      "price": 62.0,
+      "available": false,
+      "sku": "25879836372518195788"
+    },
+    {
+      "variant_id": "45245695590457",
+      "title": "Antique Sapphire / 4XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "24222860749578129523"
+    },
+    {
+      "variant_id": "45245695623225",
+      "title": "Antique Sapphire / 5XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "22239795721214759056"
+    },
+    {
+      "variant_id": "45245695655993",
+      "title": "Dark Chocolate / S",
+      "price": 60.0,
+      "available": false,
+      "sku": "28545463090735736659"
+    },
+    {
+      "variant_id": "45245695688761",
+      "title": "Dark Chocolate / M",
+      "price": 60.0,
+      "available": false,
+      "sku": "67968475075455241047"
+    },
+    {
+      "variant_id": "45245695721529",
+      "title": "Dark Chocolate / L",
+      "price": 60.0,
+      "available": false,
+      "sku": "96032658714543880823"
+    },
+    {
+      "variant_id": "45245695754297",
+      "title": "Dark Chocolate / XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "20570634639382937360"
+    },
+    {
+      "variant_id": "45245695787065",
+      "title": "Dark Chocolate / 2XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "26627679685498580905"
+    },
+    {
+      "variant_id": "45245695819833",
+      "title": "Dark Chocolate / 3XL",
+      "price": 62.0,
+      "available": false,
+      "sku": "32442473552646495431"
+    },
+    {
+      "variant_id": "45245695852601",
+      "title": "Dark Chocolate / 4XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "18247008325091556204"
+    },
+    {
+      "variant_id": "45245695885369",
+      "title": "Dark Chocolate / 5XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "29908978490706617742"
+    },
+    {
+      "variant_id": "45245695918137",
+      "title": "Light Blue / S",
+      "price": 60.0,
+      "available": false,
+      "sku": "60418060137912700491"
+    },
+    {
+      "variant_id": "45245695950905",
+      "title": "Light Blue / M",
+      "price": 60.0,
+      "available": false,
+      "sku": "14771237899761633645"
+    },
+    {
+      "variant_id": "45245695983673",
+      "title": "Light Blue / L",
+      "price": 60.0,
+      "available": false,
+      "sku": "10323773176478534734"
+    },
+    {
+      "variant_id": "45245696016441",
+      "title": "Light Blue / XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "75138016145552371345"
+    },
+    {
+      "variant_id": "45245696049209",
+      "title": "Light Blue / 2XL",
+      "price": 60.0,
+      "available": false,
+      "sku": "21816145841493434223"
+    },
+    {
+      "variant_id": "45245696081977",
+      "title": "Light Blue / 3XL",
+      "price": 62.0,
+      "available": false,
+      "sku": "36662371555646401087"
+    },
+    {
+      "variant_id": "45245696114745",
+      "title": "Light Blue / 4XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "44192629979555786155"
+    },
+    {
+      "variant_id": "45245696147513",
+      "title": "Light Blue / 5XL",
+      "price": 64.0,
+      "available": false,
+      "sku": "32820169510400064927"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/mockup-of-a-comfortable-woman-wearing-a-hoodie-relaxing-in-her-home-23202.png?v=1765913782",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/10960762271144387029_2048.jpg?v=1765437091",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/5031550897391875802_2048.jpg?v=1765437091",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/13884301941538419323_2048.jpg?v=1765437091",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/16710528215308871822_2048.jpg?v=1765437091",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/15828413833065574435_2048.jpg?v=1765437091",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/11090734547379089918_2048.jpg?v=1765437091",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/9632549281343478973_2048.jpg?v=1765437091",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/8270892773294236520_2048.jpg?v=1765437091",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/16449898865813639290_2048.jpg?v=1765437091",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/8740402392153209691_2048.jpg?v=1765437091",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/6194196878603061194_2048.jpg?v=1765437091",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/13345921513774829440_2048.jpg?v=1765437091",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/10867181464015475943_2048.jpg?v=1765437091",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": false,
+    "total_variants": 100,
+    "available_variants": 0
+  },
+  "metadata": {
+    "created_at": "2025-12-11T02:11:27-05:00",
+    "ingested_at": "2026-01-30T12:29:15.480657+00:00"
+  }
+}

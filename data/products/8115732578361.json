@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115732578361",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "fleece-suit-pant",
+  "title": "Fleece Suit Pant",
+  "vendor": "Hope & Henry",
+  "product_type": "Pants",
+  "description": "<p>Our tailored suit pant in soft jacquard fleece pairs comfort with picture-perfect style. Features classic styling, faux horn button, functional side pockets, back pockets, and an adjustable inner waistband. So comfortable he won't mind wearing these all day long, and pairs perfectly with our  matching fleece blazer and collection of organic cotton button down shirts!</p><ul class=\"a-unordered-list a-vertical a-spacing-none\">\n<li>73% Organic Cotton, 27% Polyester, exclusive of trims. Garment is OCS-Certified. Learn more about our certifications <a href=\"https://hopeandhenry.com/pages/certifications\">here</a>.</li>\n<li>Front and back pockets. Decorative button with hidden hook and eye closure. Adjustable inner waistband for superior fit. Elastic back waist for 12-18m and under.</li>\n<li>Machine washable.</li>\n</ul>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 23.97,
+    "max_price": 23.97
+  },
+  "variants": [
+    {
+      "variant_id": "45245807722553",
+      "title": "2T / Taupe Herringbone Fleece",
+      "price": 23.97,
+      "available": true,
+      "sku": "23HB4000GTaupeAF2T"
+    },
+    {
+      "variant_id": "45245807755321",
+      "title": "3 / Taupe Herringbone Fleece",
+      "price": 23.97,
+      "available": false,
+      "sku": "23HB4000GTaupeAG3"
+    },
+    {
+      "variant_id": "45245807788089",
+      "title": "4 / Taupe Herringbone Fleece",
+      "price": 23.97,
+      "available": false,
+      "sku": "23HB4000GTaupeAH4"
+    },
+    {
+      "variant_id": "45245807820857",
+      "title": "5 / Taupe Herringbone Fleece",
+      "price": 23.97,
+      "available": false,
+      "sku": "23HB4000GTaupeAI5"
+    },
+    {
+      "variant_id": "45245807853625",
+      "title": "6 / Taupe Herringbone Fleece",
+      "price": 23.97,
+      "available": true,
+      "sku": "23HB4000GTaupeAJ6"
+    },
+    {
+      "variant_id": "45245807886393",
+      "title": "7 / Taupe Herringbone Fleece",
+      "price": 23.97,
+      "available": true,
+      "sku": "23HB4000GTaupeAL7"
+    },
+    {
+      "variant_id": "45245807919161",
+      "title": "8 / Taupe Herringbone Fleece",
+      "price": 23.97,
+      "available": false,
+      "sku": "23HB4000GTaupeAM8"
+    },
+    {
+      "variant_id": "45245807951929",
+      "title": "10 / Taupe Herringbone Fleece",
+      "price": 23.97,
+      "available": false,
+      "sku": "23HB4000GTaupeAO10"
+    },
+    {
+      "variant_id": "45245807984697",
+      "title": "12 / Taupe Herringbone Fleece",
+      "price": 23.97,
+      "available": false,
+      "sku": "23HB4000GTaupeAR12"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23HB4000G-1.jpg?v=1765913449",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23HB4001G-Lifestyle-1.jpg?v=1765438502",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23HB4000G-2.jpg?v=1765438502",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23HB4000G-3.jpg?v=1765438502",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/OCS_IDFL_73.jpg?v=1765438502",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 9,
+    "available_variants": 3
+  },
+  "metadata": {
+    "created_at": "2025-12-11T02:35:00-05:00",
+    "ingested_at": "2026-01-30T12:29:15.465342+00:00"
+  }
+}

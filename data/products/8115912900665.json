@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115912900665",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "sleeveless-ponte-skater-dress",
+  "title": "Sleeveless Ponte Skater Dress",
+  "vendor": "Hope & Henry",
+  "product_type": "Dresses",
+  "description": "<p>Strike a stunning silhouette in our sleeveless ponte skater dress. Cut from our substantial and soft organic cotton blend ponte knit, this dress has just the right mix of stretch and structure. Features a zipper at the side seam, pockets, and a removable waist sash for a customizable look. Perfect for all the backyard barbeques and lawn parties!</p>\n<ul class=\"a-unordered-list a-vertical a-spacing-none\">\n<li>64% Organic Cotton, 32% Polyester, 4% Spandex, exclusive of trims. Garment is OCS-Certified. Learn more about our certifications <a href=\"https://hopeandhenry.com/pages/certifications\">here</a>.</li>\n<li>Side zip closure. Side pockets. Removable waist sash.</li>\n<li>Machine washable.</li>\n</ul>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 34.17,
+    "max_price": 34.17
+  },
+  "variants": [
+    {
+      "variant_id": "45246726307897",
+      "title": "2 / Red Ponte Skater",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW7015ARedAA2"
+    },
+    {
+      "variant_id": "45246726340665",
+      "title": "4 / Red Ponte Skater",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW7015ARedAH4"
+    },
+    {
+      "variant_id": "45246726373433",
+      "title": "6 / Red Ponte Skater",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW7015ARedAJ6"
+    },
+    {
+      "variant_id": "45246726406201",
+      "title": "8 / Red Ponte Skater",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW7015ARedAM8"
+    },
+    {
+      "variant_id": "45246726438969",
+      "title": "10 / Red Ponte Skater",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW7015ARedAO10"
+    },
+    {
+      "variant_id": "45246726471737",
+      "title": "12 / Red Ponte Skater",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW7015ARedAR12"
+    },
+    {
+      "variant_id": "45246726504505",
+      "title": "14 / Red Ponte Skater",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW7015ARedAT14"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23HW7015A-Studio2-1.jpg?v=1765912661",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23HW7015A-Studio2-2.jpg?v=1765461149",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23HW7015A-Studio2-3.jpg?v=1765461149",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23HW7015A-1_266132bf-6f54-4771-b583-faa69884d58b.jpg?v=1765461149",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/OCS_IDFL_64_e88c529b-40cb-4733-a878-4465d7ee2ab2.jpg?v=1765461150",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 7,
+    "available_variants": 7
+  },
+  "metadata": {
+    "created_at": "2025-12-11T08:52:27-05:00",
+    "ingested_at": "2026-01-30T12:29:15.552904+00:00"
+  }
+}

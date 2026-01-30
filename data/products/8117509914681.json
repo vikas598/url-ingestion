@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8117509914681",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "echo-flask-hydrogen-water-bottle",
+  "title": "Echo Flask Hydrogen Water Bottle",
+  "vendor": "Echo Water",
+  "product_type": "Hydrogen Bottle",
+  "description": "<p><meta charset=\"utf-8\"><span>Meet the Echo Flask: the most advanced hydrogen water bottle ever created. Delivering an unmatched 8 ppm of molecular hydrogen with intelligent tracking and connectivity, this powerhouse transforms how you hydrate, perform, and recover. Elevate your cellular health and unlock peak performance with every sip</span></p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 299.99,
+    "max_price": 299.99
+  },
+  "variants": [
+    {
+      "variant_id": "45251617718329",
+      "title": "Default Title",
+      "price": 299.99,
+      "available": true,
+      "sku": "EC-Machine-Flask"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Slide_1.png?v=1765908754",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Slide_2.png?v=1765650265",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Slide_3.png?v=1765650265",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Slide_4.png?v=1765650265",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Slide_5_1_1.png?v=1765650265",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Slide_6.png?v=1765650265",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Slide_7_1_1.png?v=1765650265",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Slide_8.png?v=1765650265",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Slide_14.png?v=1765650265",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Slide_11.png?v=1765650265",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Slide_12.png?v=1765650265",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 1,
+    "available_variants": 1
+  },
+  "metadata": {
+    "created_at": "2025-12-13T13:24:23-05:00",
+    "ingested_at": "2026-01-30T12:29:15.451392+00:00"
+  }
+}

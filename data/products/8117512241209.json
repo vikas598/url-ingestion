@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8117512241209",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "player-preferred™-cart-bag-flat-ash",
+  "title": "Player Preferred™ Cart Bag - Flat Ash",
+  "vendor": "Pins and Aces",
+  "product_type": "Golf Bags",
+  "description": "<p>Our new Player Preferred Cart Bag is THE next generation top of the line cart bag. Crafted with premium materials and increased functionality, this will be the best cart bag you've ever owned. It's time you look and play your best.</p><ul>\n<li>15-way Full Length Dividers</li>\n<li>Velvet-Lined Top Dividers<br>\n</li>\n<li>Magnetic Range Finder Pocket<br>\n</li>\n<li>Extra Large Insulated Water Bottle Pocket</li>\n<li>Single Strap</li>\n<li>Magnetic range finder Attachment</li>\n<li><span style=\"color: #000000;\" mce-data-marked=\"1\">Water Resistant Zippers</span></li>\n</ul>\n<p><br></p>\n<p><em><strong>Dimensions:</strong></em> Height: 35\" Width: 10\"  Depth: 14\" </p>\n<p><br></p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 339.96,
+    "max_price": 339.96
+  },
+  "variants": [
+    {
+      "variant_id": "45251623583801",
+      "title": "Default Title",
+      "price": 339.96,
+      "available": false,
+      "sku": "GBC-FlatAsh-NCOS"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/GolfBag_FreeMageticTowelBadge_BF25_StarBadge2Artboard_15.jpg?v=1765905753",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Pinsandaces66bcfa47c8bde966bcfa47c8e8d.4198465366bcfa47c8e8d.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Pinsandaces66bcfa4841df1566bcfa48420c6.7036278766bcfa48420c6.jpg?v=1765650903",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Pinsandaces66bcfa485e2b7366bcfa485e5e2.6602339066bcfa485e5e2.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Pinsandaces66bcfa4875aed266bcfa4875e98.7452868566bcfa4875e98.jpg?v=1765650903",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Pinsandaces66bcfa48952ff666bcfa48955a2.8027448466bcfa48955a2.jpg?v=1765650903",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Pinsandaces66bcfa48c0bbf166bcfa48c0f42.1221765666bcfa48c0f42.jpg?v=1765650903",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Pinsandaces66bcfa4800f62566bcfa480124c.4921328166bcfa480124c.jpg?v=1765650903",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Pinsandaces66be2c1b8fcb2766be2c1b8ff48.9429513766be2c1b8ff48.jpg?v=1765650903",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Pinsandaces66be2c1bb980a066be2c1bb9a93.5555949366be2c1bb9a93.jpg?v=1765650903",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Pinsandaces66be2c1be7707766be2c1be795f.0911778966be2c1be795f.jpg?v=1765650903",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_FlastAsh_MainImageRear.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Pinsandaces66bcfa4821e5c366bcfa482223e.8947595866bcfa482223e.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Pins_CartBag_FlatAsh_Lifestyle.jpg?v=1765650903",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-16.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-03.jpg?v=1765650905",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-14.jpg?v=1765650903",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_FlatASh_Lifestyle_4x5-2.jpg?v=1765650903",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-15.jpg?v=1765650903",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-10.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-01.jpg?v=1765650903",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-05.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_FlatAsh_TrabelBag_Overlay.jpg?v=1765650903",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-02.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-11.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-09.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-08.jpg?v=1765650903",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-17.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-04.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-07.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-18.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-20.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-21.jpg?v=1765650903",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-23.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-24.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-22.jpg?v=1765650904",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CartBag_Website-25.jpg?v=1765650904",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": false,
+    "total_variants": 1,
+    "available_variants": 0
+  },
+  "metadata": {
+    "created_at": "2025-12-13T13:35:01-05:00",
+    "ingested_at": "2026-01-30T12:29:15.536113+00:00"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8117479276601",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "flour-sack-kitchen-towels",
+  "title": "Flour Sack Kitchen Towels",
+  "vendor": "Organic Cotton Mart",
+  "product_type": "Kitchen Towels",
+  "description": "<ul>\n<li>Made with 100% Organic Cotton</li>\n<li>Wash and Reuse to Reduce Waste</li>\n<li>Reliable and Long-Lasting White Kitchen Towels</li>\n<li>Great for Crafting, Embroidery, and DIY</li>\n<li>Large in size (27\"x27\")</li>\n</ul>\n<!-- split -->Key Points<!-- split -->\n<h2>Organic Cotton Tea Towels</h2>\n<ul>\n<li>\n<p><b>White Kitchen Towel Set</b>: Each pack comes with either 5 or 10 white cotton flour sack kitchen towels that measure 27” x 27” to meet all your everyday household needs while being easy to clean, endlessly versatile, and made with quality cotton for long term use</p>\n</li>\n<li>\n<p><b>Pure Organic Cotton White Tea Towels</b>: Our tea towels are made using only 100% Cotton that’s absorbent with a smooth texture. They offer minimal pilling and no lint while being lightweight and durable enough to handle daily use without losing their soft touch</p>\n</li>\n<li>\n<p><b>Reusable And Washable White Dish Towels</b>: These kitchen dish towels are machine washable and quick drying. They are made to be reused day after day without worrying about any lint making them just the right choice for anyone who wants to stop relying on paper towels</p>\n</li>\n<li>\n<p><b>Versatile And Multi-Purpose Flour Sack Towels</b>: The flour sack towels set is highly absorbent, soft, and safe to use around food. These white cotton kitchen towels are perfect for drying hands, dusting, wiping stains, and cleaning windows, or can be used as cheese strainers, salad spinners, food covers, and much more</p>\n</li>\n<li>\n<p><b>Ideal For DIY Crafts</b>: You can use our white tea towels as embroidery fabric to create eye-catching patterns or can be dyed to add a personal touch to the cotton dish towels. They are perfect for all your crafting projects to help you get in touch with your creative side</p>\n</li>\n</ul>\n<!-- split -->Description<!-- split -->\n<p>Whether you’re looking for tea towels for guests or flour sack towels for your kitchen, our white kitchen towels have you covered. Each pack comes with 10 soft and absorbent hand towels that are made using only pure cotton to handle everyday use which coupled with their endless potential makes them just the right choice for any home.</p>\n<p>When it comes to quality, we make no exceptions. Our dish towels for the kitchen are made to handle everyday use while being machine washable and maintain their smooth, soft texture even in the long run so you never have to rely on paper towels again. They are perfect for cooking or baking and can safely be used for covering dough or even as a food strainer!</p>\n<p>Thanks to the absorbency of organic cotton, our kitchen towel set provides just the right fit for drying hands, wiping surfaces, removing stains, etc. while being gentle enough to dry dishes without worrying about leaving behind any scratches or lint. They are machine washable, easy to maintain, and give you the freedom to add your personal touch to them.</p>\n<p>Make day-to-day life just a bit simpler with our pack of 10 flour sack kitchen towels!</p>\n<!-- split -->Wholesale<!-- split -->\n<p>Looking to purchase more than 50 towels? Visit <a href=\"https://wholesale.organiccottonmart.com/products/wholesale-flour-sack-towels\" target=\"_blank\" rel=\"noopener noreferrer\">Wholesale Flour Sack Kitchen Towels</a>.</p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 19.99,
+    "max_price": 32.99
+  },
+  "variants": [
+    {
+      "variant_id": "45251558604857",
+      "title": "White / 5 Towels",
+      "price": 19.99,
+      "available": true,
+      "sku": "FST-PLN-WHT-05"
+    },
+    {
+      "variant_id": "45251558637625",
+      "title": "White / 10 Towels",
+      "price": 29.99,
+      "available": true,
+      "sku": "FST-PLN-WHT-10"
+    },
+    {
+      "variant_id": "45251558670393",
+      "title": "Natural Cotton / 5 Towels",
+      "price": 19.99,
+      "available": true,
+      "sku": "FST-PLN-NAT-05"
+    },
+    {
+      "variant_id": "45251558703161",
+      "title": "Natural Cotton / 10 Towels",
+      "price": 32.99,
+      "available": true,
+      "sku": "FST-PLN-NAT-10"
+    },
+    {
+      "variant_id": "45251558735929",
+      "title": "Beige / 5 Towels",
+      "price": 22.99,
+      "available": true,
+      "sku": "FST-PLN-BEG-05"
+    },
+    {
+      "variant_id": "45251558768697",
+      "title": "Beige / 10 Towels",
+      "price": 29.99,
+      "available": true,
+      "sku": "FST-PLN-BEG-10"
+    },
+    {
+      "variant_id": "45251558801465",
+      "title": "Black / 5 Towels",
+      "price": 22.99,
+      "available": true,
+      "sku": "FST-PLN-BLK-05"
+    },
+    {
+      "variant_id": "45251558834233",
+      "title": "Black / 10 Towels",
+      "price": 29.99,
+      "available": true,
+      "sku": "FST-PLN-BLK-10"
+    },
+    {
+      "variant_id": "45251558867001",
+      "title": "Gray / 5 Towels",
+      "price": 22.99,
+      "available": true,
+      "sku": "FST-PLN-GRY-05"
+    },
+    {
+      "variant_id": "45251558899769",
+      "title": "Gray / 10 Towels",
+      "price": 29.99,
+      "available": true,
+      "sku": "FST-PLN-GRY-10"
+    },
+    {
+      "variant_id": "45251558932537",
+      "title": "Sage Green / 5 Towels",
+      "price": 24.99,
+      "available": true,
+      "sku": "FST-PLN-GRN-05"
+    },
+    {
+      "variant_id": "45251558965305",
+      "title": "Sage Green / 10 Towels",
+      "price": 29.99,
+      "available": true,
+      "sku": "FST-PLN-GRN-10"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/cotton-gray-dish-towels.jpg?v=1765648395",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/organic-white-flour-sack-towels.jpg?v=1765648395",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/organic-white-tea-towels.jpg?v=1765648395",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/white-tea-towels.jpg?v=1765648395",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/white-dish-towels.jpg?v=1765648395",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Flour-sack-towels-organic-cotton.jpg?v=1765648395",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/organic-white-kitchen-towels.jpg?v=1765648395",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/unbleached-cotton-flour-sack-towels.jpg?v=1765648395",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/white-kitchen-towels.png?v=1765648395",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/organic-cotton-gray-tea-towels.jpg?v=1765648395",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/gray-flour-sack-towels.jpg?v=1765648395",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/organic-cotton-black-tea-towels.jpg?v=1765648396",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/cotton-black-flour-sack-towels.jpg?v=1765648395",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/sage-green-flour-sack-towels.jpg?v=1765648396",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/sage-flour-sack-tea-towels.jpg?v=1765648396",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/beige-flour-sack-towels-kitchen.jpg?v=1765648396",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/beige-flour-sack-towels-hanging-loop.jpg?v=1765648395",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 12,
+    "available_variants": 12
+  },
+  "metadata": {
+    "created_at": "2025-12-13T12:53:13-05:00",
+    "ingested_at": "2026-01-30T12:29:15.467605+00:00"
+  }
+}

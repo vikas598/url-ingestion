@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8123190247481",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "lavender-victorious-affirmation-candle-17-5-oz",
+  "title": "Lavender \"Victorious\" Affirmation Candle - 17.5 oz",
+  "vendor": "Affirmation Effect",
+  "product_type": "Candles",
+  "description": "<p> </p>\n<p><meta charset=\"UTF-8\"><span>Celebrate your victories with our handmade \"Victorious\" coconut wax lavender candle<strong>.</strong> The bright and uplifting scents of lemon, lavender, and citrusy bergamot are proven to improve your mood and uplift your spirits. The woodsy scent of cedar, blended with the powdery notes of eucalyptus and camphor, creates a calming and grounding atmosphere that helps you relax and focus. Our reusable clear jar features two flat braided cotton wicks that are lead and zinc-free, and the vegan and pet-friendly coconut wax provides a clean burn for up to 60 hours. Light the wicks and bask in the scent of your triumphs with our lavender candle.</span></p>\n<ul></ul>\n<p>✨ <strong>Burn Time:</strong> 60+ hours<br>✨ <strong>Weight:</strong> 17.5 oz<br>✨ <strong>Vegan &amp; Clean-Burning</strong><br>✨ <strong>Cotton Wicks:</strong> 2<br>📦 <strong>Shipping:</strong> Nationwide delivery in 3-5 business days!</p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 32.99,
+    "max_price": 32.99
+  },
+  "variants": [
+    {
+      "variant_id": "45267503775801",
+      "title": "Default Title",
+      "price": 32.99,
+      "available": true,
+      "sku": "PLACA0077S"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Lavender_Coconut_Wax_Candle_Best_selling_Lavender.jpg?v=1766180549",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Lavender_Wax_Melt_and_Candle_Coconut_Wax.jpg?v=1766180549",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Large_Lavender_candle_4c187945-05dc-4a00-bd7a-c18f1900735d.jpg?v=1766180549",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Lavender_Wax_Melt_Coconut_Wax_ab0a096c-b862-4a76-94ba-d3897be96b16.jpg?v=1766180549",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 1,
+    "available_variants": 1
+  },
+  "metadata": {
+    "created_at": "2025-12-19T16:42:27-05:00",
+    "ingested_at": "2026-01-30T12:29:15.495247+00:00"
+  }
+}

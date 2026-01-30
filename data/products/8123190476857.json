@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8123190476857",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "gardenia-i-am-renewed-affirmation-candle-17-5-oz",
+  "title": "Gardenia \"I Am Renewed\" Affirmation Candle - 17.5 OZ",
+  "vendor": "Affirmation Effect",
+  "product_type": "Candles",
+  "description": "<p>Embrace a fresh start with the <strong>\"I Am Renewed\" Gardenia Affirmation Candle</strong>, designed to uplift and rejuvenate your spirit. Featuring <strong>top notes of gardenia and lemon peel</strong>, <strong>middle notes of tuberose, green floral, and jasmine</strong>, and a soft <strong>powdery base</strong>, this candle fills your space with a serene, floral elegance.</p>\n<p>Hand-poured in a <strong>reusable clear jar</strong>, this candle is crafted with <strong>coconut wax</strong> for a clean, long-lasting burn that is <strong>pet-friendly and vegan</strong>. With <strong>two flat braided cotton wicks</strong> (lead and zinc-free), it offers a smooth, even burn for up to <strong>60+ hours</strong>.</p>\n<p>✨ <strong>Burn Time:</strong> 60+ hours<br>✨ <strong>Weight:</strong> 17.5 oz<br>✨ <strong>Vegan &amp; Clean-Burning</strong><br>✨ <strong>Cotton Wicks:</strong> 2<br>📦 <strong>Shipping:</strong> Nationwide delivery in 3-5 business days!</p>\n<p> </p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 32.99,
+    "max_price": 32.99
+  },
+  "variants": [
+    {
+      "variant_id": "45267504037945",
+      "title": "Default Title",
+      "price": 32.99,
+      "available": true,
+      "sku": "PGACA0303S"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Gardenia_Candle_Coconut_Wax_Best_Selling.jpg?v=1766180549",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Gardenia_wax_melt_and_candle_coconut_wax.jpg?v=1766180549",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 1,
+    "available_variants": 1
+  },
+  "metadata": {
+    "created_at": "2025-12-19T16:42:27-05:00",
+    "ingested_at": "2026-01-30T12:29:15.477606+00:00"
+  }
+}

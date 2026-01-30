@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8116017037369",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "eco-friendly-tie-dye-long-sleeve-crop-top-perfect-for-raves-and-festivals",
+  "title": "Eco-Friendly Tie-Dye Long-Sleeve Crop Top – Perfect for Raves and Festivals",
+  "vendor": "EDMFestieGear.com",
+  "product_type": "Long-Sleeve Crop Top",
+  "description": "<p>Step into the rave scene with our Eco-Friendly Tie-Dye Long-Sleeve Crop Top, designed to let your vibrant personality shine! Imagine yourself at an electrifying music festival, surrounded by pulsating beats and colorful lights, rocking this top that encapsulates the essence of fun, unity, and individual expression. More than just clothing, it’s a celebration of your unique spirit, perfectly aligned with the PLUR lifestyle (Peace, Love, Unity, Respect).</p><p><strong>Funky Abstract Design:</strong> Get ready to steal the spotlight! Our eye-catching tie-dye pattern is a one-of-a-kind masterpiece, with each piece showcasing its own unique swirl of colors. Stand out in any crowd with a top that's as individual as you are—no two are alike, making each one a wearable work of art.</p><p><strong>Eco-Friendly Fabric:</strong> Dance the night away in style and comfort while supporting sustainable fashion! This crop top is crafted from 88% recycled polyester and 12% elastane (or 81% REPREVE recycled polyester and 19% LYCRA® XTRA LIFE™), meaning you not only look good but also contribute to reducing waste. Wear your eco-consciousness with pride as you groove to the beats!</p><p><strong>Comfortable Fit:</strong> With a wide, double-layered waistline band and raglan sleeves, our crop top ensures unrestricted movement, making it perfect for dancing under the stars or chilling with friends. Feel the freedom to express yourself as you twirl and sway, all while showcasing your unique vibes!</p><p><strong>UPF 50+ Protection:</strong> Enjoy the sunshine without a care! Our built-in UV protection lets you bask in the glow of outdoor festivals while keeping your skin safe from harmful rays. Celebrate the music, joy, and good vibes without compromising your well-being.</p><p><strong>Custom Made for You:</strong> Every Eco-Friendly Tie-Dye Crop Top is made on demand, reflecting our commitment to sustainability and minimizing overproduction. Tailored just for you, each top is crafted with care, ensuring you receive a unique piece that’s as special as your festival experience.</p><p><strong>Perfect for All Occasions:</strong> This tie-dye crop top isn’t just for raves; it’s your ultimate versatile must-have! Whether you’re hitting up an EDM festival, going out clubbing, or hanging with friends, this top is designed to elevate any outfit. With its bold neon colors and intricate patterns, you can easily embrace your unique style.</p><p>Celebrate your individuality and comfort with our stunning Eco-Friendly Tie-Dye Long-Sleeve Crop Top. Let your festival experience be unforgettable as you express your unique flair to the world!</p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 55.95,
+    "max_price": 65.95
+  },
+  "variants": [
+    {
+      "variant_id": "45247170478137",
+      "title": "2XS",
+      "price": 55.95,
+      "available": true,
+      "sku": "7447671_16047"
+    },
+    {
+      "variant_id": "45247170510905",
+      "title": "XS",
+      "price": 55.95,
+      "available": true,
+      "sku": "7447671_16048"
+    },
+    {
+      "variant_id": "45247170543673",
+      "title": "S",
+      "price": 55.95,
+      "available": true,
+      "sku": "7447671_16049"
+    },
+    {
+      "variant_id": "45247170576441",
+      "title": "M",
+      "price": 55.95,
+      "available": true,
+      "sku": "7447671_16050"
+    },
+    {
+      "variant_id": "45247170609209",
+      "title": "L",
+      "price": 55.95,
+      "available": true,
+      "sku": "7447671_16051"
+    },
+    {
+      "variant_id": "45247170641977",
+      "title": "XL",
+      "price": 55.95,
+      "available": true,
+      "sku": "7447671_16052"
+    },
+    {
+      "variant_id": "45247170674745",
+      "title": "2XL",
+      "price": 57.95,
+      "available": true,
+      "sku": "7447671_16053"
+    },
+    {
+      "variant_id": "45247170707513",
+      "title": "3XL",
+      "price": 59.95,
+      "available": true,
+      "sku": "7447671_16054"
+    },
+    {
+      "variant_id": "45247170740281",
+      "title": "4XL",
+      "price": 61.95,
+      "available": true,
+      "sku": "7447671_16055"
+    },
+    {
+      "variant_id": "45247170773049",
+      "title": "5XL",
+      "price": 63.95,
+      "available": true,
+      "sku": "7447671_16056"
+    },
+    {
+      "variant_id": "45247170805817",
+      "title": "6XL",
+      "price": 65.95,
+      "available": true,
+      "sku": "7447671_16057"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/all-over-print-recycled-long-sleeve-crop-top-white-front-66ef70d53b266.jpg?v=1765911192",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/all-over-print-recycled-long-sleeve-crop-top-white-back-66ef70d53d745.jpg?v=1765478466",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/all-over-print-recycled-long-sleeve-crop-top-white-left-front-66ef70d53d9e7.jpg?v=1765478465",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 11,
+    "available_variants": 11
+  },
+  "metadata": {
+    "created_at": "2025-12-11T13:41:03-05:00",
+    "ingested_at": "2026-01-30T12:29:15.455279+00:00"
+  }
+}

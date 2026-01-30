@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115912310841",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "long-sleeve-dress-in-black",
+  "title": "Long Sleeve Dress in Black",
+  "vendor": "Ximena Kavalekas",
+  "product_type": "Dress",
+  "description": "<p dir=\"ltr\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">A truly versatile statement piece, crafted in the South of Italy with innovative seamless knitting technology. This ingenious dress features three points of adaptability: an adjustable cord on the sleeve and leg, plus a neckline that easily transitions between an elegant boat neck and an alluring off-the-shoulder look. Made with luxurious organic fibers, it seamlessly adapts your style from day to evening.</p>\n<p dir=\"ltr\"><meta charset=\"utf-8\"><meta charset=\"utf-8\"><b id=\"docs-internal-guid-5dfb8ca8-7fff-7f84-27ff-1e83c5e98f3a\"><span>SIZE &amp; FIT:</span><span> </span></b>Available in two flexible sizes: XS/S fits up to a M, and M/L fits up to an XL. The knit naturally stretches for a comfortable, flattering fit.</p>\n<p dir=\"ltr\"><meta charset=\"utf-8\">Model is wearing size XS/S.</p>\n<p dir=\"ltr\"><span>DETAILS:</span></p>\n<p dir=\"ltr\"><span> </span><span>Color: Black </span></p>\n<p dir=\"ltr\"><span>Boat neck &amp; off the shoulder</span></p>\n<p dir=\"ltr\"><span>Long sleeve</span></p>\n<p dir=\"ltr\"><span>Adjustable cord detail on the right sleeve and, on the left leg</span></p>\n<p dir=\"ltr\"><span>Composition:</span><span> 60% organic cotton, 40% viscose</span></p>\n<p dir=\"ltr\"><span>Made in Italy</span></p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\"><em>Model Measurements: </em></p>\n<p dir=\"ltr\"><span>Height: 5 ft 10 in   / 1.79 cm </span></p>\n<p dir=\"ltr\"><span>Bust/Chest: </span><span>32.5 in  / 82 cm </span></p>\n<p dir=\"ltr\"><span>Hips: </span><span>35 in  / 89 cm</span></p>\n<p dir=\"ltr\"><span>Waist: </span><span>25 in  / 64 cm</span></p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 480.0,
+    "max_price": 480.0
+  },
+  "variants": [
+    {
+      "variant_id": "45246725685305",
+      "title": "XS/S",
+      "price": 480.0,
+      "available": false,
+      "sku": "sku-46964540735711"
+    },
+    {
+      "variant_id": "45246725718073",
+      "title": "M/L",
+      "price": 480.0,
+      "available": false,
+      "sku": "sku-46964540768479"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/ximena-ecomm7401862_bc5ad971-75f1-471a-87de-148a7a9f395e.jpg?v=1765912668",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/ximena-ecomm7401868_08cfd06b-2b7c-46db-9ed7-8c653d0cbc55.jpg?v=1765461104",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/ximena-ecomm7401869_151ff095-829d-4df9-8245-f1ee81ec1bfe.jpg?v=1765461104",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/ximena-ecomm7401879_4d877872-5db0-469c-8c44-567f67c4996a.jpg?v=1765461105",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": false,
+    "total_variants": 2,
+    "available_variants": 0
+  },
+  "metadata": {
+    "created_at": "2025-12-11T08:51:41-05:00",
+    "ingested_at": "2026-01-30T12:29:15.499619+00:00"
+  }
+}

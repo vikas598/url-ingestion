@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8123190313017",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "vanilla-coconut-i-am-strong-affirmation-candle-17-5-oz",
+  "title": "Vanilla Coconut \"I Am Strong\" Affirmation Candle- 17.5 oz",
+  "vendor": "Affirmation Effect",
+  "product_type": "Candles",
+  "description": "<p><meta charset=\"UTF-8\"><span>Indulge in the warm and soothing aroma of our Vanilla Coconut Candle, infused with a fearless affirmation \"<strong>I Am Strong</strong>\". Made with natural Coconut wax and featuring two flat braided cotton wicks, our reusable clear jar provides a clean burn for up to 60+ hours. The fragrant blend of citrus splash, pineapple water, coconut palm, freesia breeze, white woods will transport you to the tropical paradise you've been missing. Whether you need to reduce stress or boost your energy, our earthy candle will provide the perfect atmosphere for your self-care routine. Order now and light up your space with positivity and strength.</span></p>\n<p>✨ <strong>Burn Time:</strong> 60+ hours<br>✨ <strong>Weight:</strong> 17.5 oz<br>✨ <strong>Vegan &amp; Clean-Burning</strong><br>✨ <strong>Cotton Wicks:</strong> 2<br>📦 <strong>Shipping:</strong> Nationwide delivery in 3-5 business days!</p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 32.99,
+    "max_price": 32.99
+  },
+  "variants": [
+    {
+      "variant_id": "45267503841337",
+      "title": "Default Title",
+      "price": 32.99,
+      "available": true,
+      "sku": "PVACA0099S"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Vanilla_Coconut_Candle.jpg?v=1766180549",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Vanilla_Coconut_wax_melt_and_Candle.jpg?v=1766180549",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Vanilla_coconut_large_candle.jpg?v=1766180549",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Vanilla_Coconut_Wax_Melt_Coconut_Wax.jpg?v=1766180549",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 1,
+    "available_variants": 1
+  },
+  "metadata": {
+    "created_at": "2025-12-19T16:42:27-05:00",
+    "ingested_at": "2026-01-30T12:29:15.574484+00:00"
+  }
+}

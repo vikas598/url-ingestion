@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8117477277753",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "cardinal-health-essentials-reusable-underpad",
+  "title": "Cardinal Health Essentials Reusable Underpad",
+  "vendor": "LL Medico",
+  "product_type": "",
+  "description": "<h2>Cardinal Health Reusable Bed Pads</h2>\n<table style=\"border: 1px solid #e9ebee; width: 100%; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr>\n<td style=\"text-align: center; background-color: #f0f8ff; color: #333; padding: 5px;\"><strong>Absorbency Level</strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">\n<img height=\"24\" width=\"120\" alt=\"3 drops - Moderate Absorbency\" src=\"https://cdn.shopify.com/s/files/1/0700/5519/8950/files/3-drops.png\"><br>Moderate</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p><span>• <span>Reusable, machine washable.</span></span></p>\n<p><span><span>• Comfortable cotton and polyester blend white top layer.</span></span></p>\n<p><span><span>• Non-slip and moisture resistant blue vinyl backing.</span></span></p>\n<p><span><span>• Moderate absorbency (8 oz. soaker).</span></span></p>\n<p><span><span>• Not made with rubber / latex.</span></span></p>\n<p> </p>\n<p><span><span>34\" x 36\" size available in plain white with no flaps, white with flaps, or a plaid pattern with no flaps (see product photos above). All other sizes only come in a plain white with no flaps.</span></span></p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 16.99,
+    "max_price": 18.99
+  },
+  "variants": [
+    {
+      "variant_id": "45251553361977",
+      "title": "23\" x 36\"",
+      "price": 16.99,
+      "available": true,
+      "sku": "ZRUP2336R"
+    },
+    {
+      "variant_id": "45251553394745",
+      "title": "34\" x 36\" - white",
+      "price": 16.99,
+      "available": true,
+      "sku": "ZRUP3436R"
+    },
+    {
+      "variant_id": "45251553427513",
+      "title": "34\" x 36\" - white w/ flap",
+      "price": 17.99,
+      "available": true,
+      "sku": "ZRUP3436FLR"
+    },
+    {
+      "variant_id": "45251553460281",
+      "title": "34\" x 36\" - plaid pattern",
+      "price": 16.99,
+      "available": true,
+      "sku": "ZRUP3436RP"
+    },
+    {
+      "variant_id": "45251553493049",
+      "title": "36\" x 54\"",
+      "price": 17.99,
+      "available": true,
+      "sku": "ZRUP3654R"
+    },
+    {
+      "variant_id": "45251553525817",
+      "title": "36\" x 72\"",
+      "price": 18.99,
+      "available": true,
+      "sku": "ZRUP3672R"
+    },
+    {
+      "variant_id": "45251553558585",
+      "title": "44\" x 52\"",
+      "price": 18.99,
+      "available": true,
+      "sku": "ZRUP4452R"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/cardinal-health-essentials-reusable-underpad-cardinal-health-underpad__91763.jpg?v=1765648168",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/cardinal-health-essentials-reusable-underpad-cardinal-health-underpad__31846.jpg?v=1765648168",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/cardinal-health-essentials-reusable-underpad-cardinal-health-underpad__43086.jpg?v=1765648168",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 7,
+    "available_variants": 7
+  },
+  "metadata": {
+    "created_at": "2025-12-13T12:49:26-05:00",
+    "ingested_at": "2026-01-30T12:29:15.428306+00:00"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8116017365049",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "womens-crop-top-stylish-comfy-eco-friendly",
+  "title": "Women's Crop Top – Stylish, Comfy & Eco-Friendly",
+  "vendor": "Vivareflex Online",
+  "product_type": "Women's Apparel",
+  "description": "<h2 id=\"tinymce_scroll_sign\">Why Choose Our Women Crop Top?</h2>\n<p data-end=\"240\" data-start=\"63\">Stay stylish and comfortable with our Women's Crop Top! Designed for fashion-forward women, this breathable and eco-friendly tee is perfect for summer days.</p>\n<ul data-end=\"420\" data-start=\"269\">\n<li data-end=\"298\" data-start=\"269\">\n<strong data-end=\"284\" data-start=\"271\">Material:</strong> 100% Cotton</li>\n<li data-end=\"336\" data-start=\"299\">\n<strong data-end=\"312\" data-start=\"301\">Fabric:</strong> Premium Cotton Jersey</li>\n<li data-end=\"376\" data-start=\"337\">\n<strong data-end=\"353\" data-start=\"339\">Technique:</strong> Stretch Knitted Wear</li>\n<li data-end=\"420\" data-start=\"377\">\n<strong data-end=\"391\" data-start=\"379\">Feature:</strong> Eco-Friendly &amp; Sustainable</li>\n</ul>\n<p data-is-only-node=\"\" data-is-last-node=\"\" data-end=\"498\" data-start=\"422\">Look great, feel great, and embrace summer in style. Shop now at VivaReflex!</p>\n<h3>1. Stylish Design with a Modern Twist</h3>\n<p>Our women crop top is designed to make you stand out. Because fashion should always be fun, this top combines trendy cuts and bold colors. Whether you're heading out for brunch or hitting the gym, this crop top adds a stylish touch to any outfit. And because it’s versatile, you can pair it with jeans, skirts, or shorts.</p>\n<p><br></p>\n<h3>2. Comfort Meets Quality</h3>\n<p>But style isn’t everything—our women crop top also prioritizes comfort. Made from soft, breathable materials, this top feels great against your skin. So even if you're wearing it all day, you won’t feel restricted. Because we believe in creating clothes that adapt to your lifestyle, these tops are stretchy and durable, making them perfect for everyday use.</p>\n<p><br></p>\n<h3>3. Eco-Friendly Fashion Choices</h3>\n<p>Because taking care of the planet matters, our women crop top is made using sustainable practices. We use recycled fabrics and environmentally friendly dyes, ensuring that each piece has minimal impact on nature. So when you choose our crop top, you’re supporting both yourself and the environment. This way, you can look good while doing good!</p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 30.87,
+    "max_price": 30.87
+  },
+  "variants": [
+    {
+      "variant_id": "45247171657785",
+      "title": "Black / Small",
+      "price": 30.87,
+      "available": true,
+      "sku": "1029416_HO2Y7CL"
+    },
+    {
+      "variant_id": "45247171690553",
+      "title": "Black / Medium",
+      "price": 30.87,
+      "available": true,
+      "sku": "1029416_3KXBFZT"
+    },
+    {
+      "variant_id": "45247171723321",
+      "title": "Black / Large",
+      "price": 30.87,
+      "available": true,
+      "sku": "1029416_K0NU0O9"
+    },
+    {
+      "variant_id": "45247171756089",
+      "title": "White / Small",
+      "price": 30.87,
+      "available": true,
+      "sku": "1029416_DCKAFZU"
+    },
+    {
+      "variant_id": "45247171788857",
+      "title": "White / Medium",
+      "price": 30.87,
+      "available": true,
+      "sku": "1029416_KOYW46P"
+    },
+    {
+      "variant_id": "45247171821625",
+      "title": "White / Large",
+      "price": 30.87,
+      "available": true,
+      "sku": "1029416_X6QKYCF"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299587738.webp?v=1765911114",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299587890.webp?v=1765478539",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299587942.webp?v=1765478539",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299588056.webp?v=1765478539",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299588196.webp?v=1765478539",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299588271.webp?v=1765478539",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299588323.webp?v=1765478539",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299588429.webp?v=1765478539",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299588564.webp?v=1765478539",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299588629.webp?v=1765478539",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299588776.webp?v=1765478540",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299588864.webp?v=1765478539",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299588911.webp?v=1765478540",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299589053.webp?v=1765478539",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299589112.webp?v=1765478540",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299589296.webp?v=1765478539",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299589377.webp?v=1765478539",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299589442.webp?v=1765478539",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299589587.webp?v=1765478539",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Women_s-Crop-Top-_-Stylish_-Comfy-_-Eco-Friendly-Vivareflex-Online-299589689.webp?v=1765478539",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 6,
+    "available_variants": 6
+  },
+  "metadata": {
+    "created_at": "2025-12-11T13:42:17-05:00",
+    "ingested_at": "2026-01-30T12:29:15.584563+00:00"
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8117478129721",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "castor-oil-bag-is-reusable-soft-and-oil-leak-proof-with-essential-oil-auxiliary-bag-and-adjustable-waist-belt",
+  "title": "Castor oil bag is reusable, soft, and oil leak proof, with essential oil auxiliary bag and adjustable waist belt",
+  "vendor": "V.I.P Digital Presence",
+  "product_type": "",
+  "description": "<p>Main material: spandex</p><p>Suitable for adults</p><p>Suitable for exercise, weight loss, and health care</p><p><span style=\"box-sizing: border-box; text-size-adjust: 100%; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; outline: none; font-weight: 700 !important; font-size: 16pt;\"></span></p><p>[Product Name]: Castor Oil Care Belt</p><p>[Product Material]: Cotton Cloth+German Velvet</p><p>【 Product Colors 】: khaki, white, pink, black</p><p>[Product size]: 24 * 48cm</p><p>[Product weight]: 130g</p><p>[Product Packaging]: OPP Packaging/16 * 13 * 3cm</p><p>【 Packing Specification 】: Set of 50 * 40 * 40cm/100pcs/16.5kg</p><p><img class=\"desc-img-loaded\" src=\"https://cbu01.alicdn.com/img/ibank/O1CN01oQt2Ir2Bdqj1wKSG8_!!2214035278362-0-cib.jpg?__r__=1679060504309\"><br><br><img class=\"desc-img-loaded\" src=\"https://cbu01.alicdn.com/img/ibank/O1CN01ypKtAI2BdqiwC07FB_!!2214035278362-0-cib.jpg?__r__=1679060504309\"><br><br><img class=\"desc-img-loaded\" src=\"https://cbu01.alicdn.com/img/ibank/O1CN01Cez4bn2BdqiqYImEy_!!2214035278362-0-cib.jpg?__r__=1679060504309\"><br><br><img class=\"desc-img-loaded\" src=\"https://cbu01.alicdn.com/img/ibank/O1CN01IsVfde2Bdqj1uyCaM_!!2214035278362-0-cib.jpg?__r__=1679060504309\"><br><br><img class=\"desc-img-loaded\" src=\"https://cbu01.alicdn.com/img/ibank/O1CN016dhYqy2Bdqj2ljndz_!!2214035278362-0-cib.jpg?__r__=1679060504309\"><br><br><img class=\"desc-img-loaded\" src=\"https://cbu01.alicdn.com/img/ibank/O1CN01sAnanT2BdqiwByIyZ_!!2214035278362-0-cib.jpg?__r__=1679060504310\"><br><br><img class=\"desc-img-loaded\" src=\"https://cbu01.alicdn.com/img/ibank/O1CN01QBI0im2BdqirtR1YN_!!2214035278362-0-cib.jpg?__r__=1679060504310\"><br><br><img class=\"desc-img-loaded\" src=\"https://cbu01.alicdn.com/img/ibank/O1CN01lcTMt72BdqilqfwfO_!!2214035278362-0-cib.jpg?__r__=1679060504310\"><br><br><img class=\"desc-img-loaded\" src=\"https://cbu01.alicdn.com/img/ibank/O1CN01bznBwY2Bdqj0FrSWz_!!2214035278362-0-cib.jpg?__r__=1679060504310\"><br><br><img class=\"desc-img-loaded\" src=\"https://cbu01.alicdn.com/img/ibank/O1CN01eoXmVo1HzGoGZJHkK_!!2216044400828-0-cib.jpg?__r__=1691809947870\" alt=\"7e70a25537312b60cc2d473e3c3ffc\"><br><br><br><img class=\"desc-img-loaded\" src=\"https://cbu01.alicdn.com/img/ibank/O1CN01jyilX21HzGoLNcZAw_!!2216044400828-0-cib.jpg?__r__=1691811605791\" alt=\"12b4f005a593bac4efa5f5cbb84a8d\"><br><br><img class=\"desc-img-loaded\" src=\"https://cbu01.alicdn.com/img/ibank/O1CN01sMmXdI1HzGozLo91k_!!2216044400828-0-cib.jpg?__r__=1695108128798\" alt=\"undefined\"><br></p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 12.68,
+    "max_price": 19.76
+  },
+  "variants": [
+    {
+      "variant_id": "45251555065913",
+      "title": "Elastic belt button style / khaki",
+      "price": 16.62,
+      "available": true,
+      "sku": "02D65762B11D4EC59800A9AB498ADA3A"
+    },
+    {
+      "variant_id": "45251555098681",
+      "title": "Elastic belt button style / pink",
+      "price": 16.62,
+      "available": true,
+      "sku": "CEA81F93607346028EFC1C29E019B8BE"
+    },
+    {
+      "variant_id": "45251555131449",
+      "title": "Elastic belt button style / White",
+      "price": 16.62,
+      "available": true,
+      "sku": "067AEE25B94A46418DEB5AA8BD56DD69"
+    },
+    {
+      "variant_id": "45251555164217",
+      "title": "Elastic belt button style / Black",
+      "price": 16.62,
+      "available": true,
+      "sku": "EB1F436C92F645AD821FA7ABCD843D72"
+    },
+    {
+      "variant_id": "45251555196985",
+      "title": "Velcro style / khaki",
+      "price": 16.94,
+      "available": true,
+      "sku": "44358F431BC34803BFDA4DD54B5BD615"
+    },
+    {
+      "variant_id": "45251555229753",
+      "title": "Velcro style / pink",
+      "price": 16.94,
+      "available": true,
+      "sku": "937F8FFF02A04CF6A6A82CEFDBCE1055"
+    },
+    {
+      "variant_id": "45251555262521",
+      "title": "Velcro style / White",
+      "price": 16.94,
+      "available": true,
+      "sku": "F70BAD09280342A18653E21387F61356"
+    },
+    {
+      "variant_id": "45251555295289",
+      "title": "Velcro style / Black",
+      "price": 16.94,
+      "available": true,
+      "sku": "7FCE213A04DB4611A63C4E5B19DC190A"
+    },
+    {
+      "variant_id": "45251555328057",
+      "title": "Elastic belt button style set / khaki",
+      "price": 18.56,
+      "available": true,
+      "sku": "6F8189FEE89D4B02BC97F8E090ED0DFA"
+    },
+    {
+      "variant_id": "45251555360825",
+      "title": "Elastic belt button style set / pink",
+      "price": 18.56,
+      "available": true,
+      "sku": "86CC9243EE204E6E914F7999E2066A31"
+    },
+    {
+      "variant_id": "45251555393593",
+      "title": "Elastic belt button style set / White",
+      "price": 18.56,
+      "available": true,
+      "sku": "DC21330AE2D544B6ADF6D01FF62E25F5"
+    },
+    {
+      "variant_id": "45251555426361",
+      "title": "Elastic belt button style set / Black",
+      "price": 18.56,
+      "available": true,
+      "sku": "76F260104083446EB1C0FFA87FC93887"
+    },
+    {
+      "variant_id": "45251555459129",
+      "title": "Velcro style set (with neck style neck bag) / khaki",
+      "price": 18.56,
+      "available": true,
+      "sku": "1AC626582E264E9F84189BA3DCEA4A18"
+    },
+    {
+      "variant_id": "45251555491897",
+      "title": "Velcro style set (with neck style neck bag) / pink",
+      "price": 18.56,
+      "available": true,
+      "sku": "A6648BE40D1841AE8CEAACD1E26DA28B"
+    },
+    {
+      "variant_id": "45251555524665",
+      "title": "Velcro style set (with neck style neck bag) / White",
+      "price": 18.56,
+      "available": true,
+      "sku": "55E83732ACD04A78B71A03A5E665A98F"
+    },
+    {
+      "variant_id": "45251555557433",
+      "title": "Velcro style set (with neck style neck bag) / Black",
+      "price": 18.56,
+      "available": true,
+      "sku": "FF65A125B97C4ABDB620B0537B18B8A8"
+    },
+    {
+      "variant_id": "45251555590201",
+      "title": "Velcro Set 2 (with Velcro Neck Bag) / khaki",
+      "price": 18.9,
+      "available": true,
+      "sku": "B87569BDA1E648809231A4DD2130EA0A"
+    },
+    {
+      "variant_id": "45251555622969",
+      "title": "Velcro Set 2 (with Velcro Neck Bag) / pink",
+      "price": 18.9,
+      "available": true,
+      "sku": "FC537AB65C8F41C4BDD249B45BB19F54"
+    },
+    {
+      "variant_id": "45251555655737",
+      "title": "Velcro Set 2 (with Velcro Neck Bag) / White",
+      "price": 18.9,
+      "available": true,
+      "sku": "BF8E8A9B09D64506A8A6A3873C9B1EFE"
+    },
+    {
+      "variant_id": "45251555688505",
+      "title": "Velcro Set 2 (with Velcro Neck Bag) / Black",
+      "price": 18.9,
+      "available": true,
+      "sku": "B7324700A87E442C859DEE8CB22FD65C"
+    },
+    {
+      "variant_id": "45251555721273",
+      "title": "Velcro style neck bag / khaki",
+      "price": 13.66,
+      "available": true,
+      "sku": "37E1D7AC22A84309AC0347DF08E6E305"
+    },
+    {
+      "variant_id": "45251555754041",
+      "title": "Velcro style neck bag / pink",
+      "price": 13.66,
+      "available": true,
+      "sku": "BA565B4CAF174E19B9924B2B8A58AA0E"
+    },
+    {
+      "variant_id": "45251555786809",
+      "title": "Velcro style neck bag / White",
+      "price": 13.66,
+      "available": true,
+      "sku": "165E2342531D4B00B9306920A7CC8045"
+    },
+    {
+      "variant_id": "45251555819577",
+      "title": "Velcro style neck bag / Black",
+      "price": 13.66,
+      "available": true,
+      "sku": "5762F781F3C947539172FFA4A082C5D6"
+    },
+    {
+      "variant_id": "45251555852345",
+      "title": "Neck style (buckle style) / khaki",
+      "price": 13.16,
+      "available": true,
+      "sku": "4E1494D884174A168F2DC970A5108A22"
+    },
+    {
+      "variant_id": "45251555885113",
+      "title": "Neck style (buckle style) / pink",
+      "price": 13.16,
+      "available": true,
+      "sku": "E4D1B7DA30B94B18A759A91FC74E28AA"
+    },
+    {
+      "variant_id": "45251555917881",
+      "title": "Neck style (buckle style) / White",
+      "price": 13.16,
+      "available": true,
+      "sku": "0A307227896B4294BC564D016E47199B"
+    },
+    {
+      "variant_id": "45251555950649",
+      "title": "Neck style (buckle style) / Black",
+      "price": 13.16,
+      "available": true,
+      "sku": "377CE484DAC04B4491D48DF17853327E"
+    },
+    {
+      "variant_id": "45251555983417",
+      "title": "Chest cushion (single) / khaki",
+      "price": 12.68,
+      "available": true,
+      "sku": "66FB978E18A946D7AA64DFF326EFDF0D"
+    },
+    {
+      "variant_id": "45251556016185",
+      "title": "Chest cushion (single) / pink",
+      "price": 12.68,
+      "available": true,
+      "sku": "55D52858EB8649EA99B89101A123E4FF"
+    },
+    {
+      "variant_id": "45251556048953",
+      "title": "Chest cushion (single) / White",
+      "price": 12.68,
+      "available": true,
+      "sku": "833E76B5377E45B58FA35E6925E9960B"
+    },
+    {
+      "variant_id": "45251556081721",
+      "title": "Chest cushion (single) / Black",
+      "price": 12.68,
+      "available": true,
+      "sku": "AC6F624703CA47D1B1120967C42942F5"
+    },
+    {
+      "variant_id": "45251556114489",
+      "title": "Chest pads (one pair) / khaki",
+      "price": 14.64,
+      "available": true,
+      "sku": "277D6B3C8AFD447B9D6E4E2BE84E43FA"
+    },
+    {
+      "variant_id": "45251556147257",
+      "title": "Chest pads (one pair) / pink",
+      "price": 14.64,
+      "available": true,
+      "sku": "485F0D7F1AA94B45B1F6E56233BF2427"
+    },
+    {
+      "variant_id": "45251556180025",
+      "title": "Chest pads (one pair) / White",
+      "price": 14.64,
+      "available": true,
+      "sku": "544B3416FB8C4DA7A550A15DE355FEAF"
+    },
+    {
+      "variant_id": "45251556212793",
+      "title": "Chest pads (one pair) / Black",
+      "price": 14.64,
+      "available": true,
+      "sku": "BDFAC4F4F9ED4CA18141D613E5552930"
+    },
+    {
+      "variant_id": "45251556245561",
+      "title": "Hand and foot bags / khaki",
+      "price": 13.82,
+      "available": true,
+      "sku": "D7AD51042F414CAF90964C27F026E566"
+    },
+    {
+      "variant_id": "45251556278329",
+      "title": "Hand and foot bags / pink",
+      "price": 13.82,
+      "available": true,
+      "sku": "4934432C5F7F49E78C856C9442351D4D"
+    },
+    {
+      "variant_id": "45251556311097",
+      "title": "Hand and foot bags / White",
+      "price": 13.82,
+      "available": true,
+      "sku": "E1F5E3D2ABCD4916BE8F61646588FE97"
+    },
+    {
+      "variant_id": "45251556343865",
+      "title": "Hand and foot bags / Black",
+      "price": 13.82,
+      "available": true,
+      "sku": "43749A54CE6F4D0DB4FAD005EECB9EC6"
+    },
+    {
+      "variant_id": "45251556376633",
+      "title": "Upgraded waist bag / khaki",
+      "price": 19.76,
+      "available": true,
+      "sku": "4F7CBD7DC01D47C28D2C667C734A6209"
+    },
+    {
+      "variant_id": "45251556409401",
+      "title": "Upgraded waist bag / pink",
+      "price": 19.76,
+      "available": true,
+      "sku": "9A4B61814C8B491A8C0115CAB6676368"
+    },
+    {
+      "variant_id": "45251556442169",
+      "title": "Upgraded waist bag / White",
+      "price": 19.76,
+      "available": true,
+      "sku": "E44FCC769A904A08A8769DC99F15AE21"
+    },
+    {
+      "variant_id": "45251556474937",
+      "title": "Upgraded waist bag / Black",
+      "price": 19.76,
+      "available": true,
+      "sku": "544B65382EFF45CCA193D042E0DBE8F6"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/ACE8F4D9E9D85FC8DFAAC7C7BDFEF19D.jpg?v=1765648229",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/40A6C907A8EA0250F018E73EB6DA6D4A.jpg?v=1765648229",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/050A62D0DD4973A98D721D33FFCDCB56.jpg?v=1765648229",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/F728410B8D9839ED3B8FA2CE2711396E.jpg?v=1765648229",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/7E0E3E9328EF88AC97A38F12D3936F27.jpg?v=1765648229",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/0AD23258B23575CD38CE129935D7FD36.jpg?v=1765648229",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CCDFC8B30953CF3F6C94899AA949EE81.jpg?v=1765648229",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/740532C15FF41BCFF23B7D07207DF9AE.jpg?v=1765648229",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/DB100E293EFC6935A4A0EACD93E2F273.jpg?v=1765648229",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/6DAD2550ECDE9F277BFC557BDDBEEA65.jpg?v=1765648229",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/BBD312F37A5C4493514728926B2BBEBD.jpg?v=1765648229",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/D0E384F405324C62D0C885A6FA2E6747.jpg?v=1765648229",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/E00FE3694817E900B6823B85AC869A8F.jpg?v=1765648229",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/9DFC4D74C74D6E537DCFE8762F8CCC13.jpg?v=1765648229",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/12099335E559BEBE29B4892CECC4A883.jpg?v=1765648229",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/6728774B13272335126670A0672FB731.jpg?v=1765648229",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 44,
+    "available_variants": 44
+  },
+  "metadata": {
+    "created_at": "2025-12-13T12:50:27-05:00",
+    "ingested_at": "2026-01-30T12:29:15.430310+00:00"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8116737474617",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "bamboo-hairbrush",
+  "title": "Bamboo Hairbrush",
+  "vendor": "Francesco Palmieri",
+  "product_type": "",
+  "description": "<p class=\"p1\">A reflection of timeless craftsmanship and sustainable beauty, the <span class=\"s1\"><b>Bamboo Hairbrush</b></span> by <i>Francesco Palmieri</i> elevates a daily gesture into a restorative ritual.</p>\n<p class=\"p1\"> </p>\n<p class=\"p1\">Carved from <span class=\"s1\"><b>100 % sustainable bamboo</b></span>, this brush honors both hair and planet — combining form, function, and integrity. Its <span class=\"s1\"><b>rounded bristles</b></span> glide effortlessly through the strands, <span class=\"s1\"><b>detangling without tension</b></span> while <span class=\"s1\"><b>stimulating micro-circulation</b></span> across the scalp.</p>\n<p class=\"p1\"> </p>\n<p class=\"p1\">Each movement distributes the hair’s natural oils from root to tip, enhancing elasticity and restoring a luminous, healthy sheen.</p>\n<p class=\"p2\"><br></p>\n<p class=\"p1\">Naturally <span class=\"s1\"><b>anti-static, lightweight, and durable</b></span>, this brush is a conscious alternative to synthetic tools — designed to <span class=\"s1\"><b>reduce breakage, smooth frizz</b></span>, and leave the hair soft, balanced, and perfectly polished.</p>\n<p class=\"p3\"> </p>\n<p class=\"p3\"> </p>\n<p class=\"p3\"> </p>\n<hr>\n<p> </p>\n<p class=\"p3\"> </p>\n<p class=\"p3\"> </p>\n<p class=\"p3\"> </p>\n<h2 style=\"text-align: center;\"><b>Benefits</b></h2>\n<p> </p>\n<p class=\"p3\"> </p>\n<ul>\n<li>\n<p class=\"p1\"><span class=\"s1\"><b>Gently detangles</b></span> without breakage or pulling</p>\n</li>\n<li>\n<p class=\"p1\"><b>Stimulates scalp circulation</b><span class=\"s1\">, promoting stronger roots</span></p>\n</li>\n<li>\n<p class=\"p1\"><b>Reduces frizz, static, and shedding</b><span class=\"s1\"> naturally</span></p>\n</li>\n<li>\n<p class=\"p1\"><span class=\"s1\"><b>Distributes natural oils</b></span> for balanced hydration and shine</p>\n</li>\n<li>\n<p class=\"p1\"><span class=\"s1\"><b>Sustainably crafted</b></span>, fully biodegradable, and built to last</p>\n</li>\n</ul>\n<p> </p>\n<p class=\"p3\"> </p>\n<p class=\"p3\"> </p>\n<hr>\n<p> </p>\n<p class=\"p3\"> </p>\n<h2 style=\"text-align: center;\"><b>Ritual of Use</b></h2>\n<p> </p>\n<p class=\"p2\"><br></p>\n<p class=\"p1\">Use daily on wet or dry hair, starting from the ends and working upward to detangle.</p>\n<p class=\"p1\">Sweep bristles gently along the scalp in slow, circular motions to awaken circulation and release tension.</p>\n<p class=\"p1\">For a complete botanical ritual, follow with the <span class=\"s1\"><b>Revitalizing Hair Serum</b></span> to seal moisture and enhance shine.</p>\n<p class=\"p3\"> </p>\n<p class=\"p3\"> </p>\n<hr>\n<p> </p>\n<p class=\"p3\"> </p>\n<h2 style=\"text-align: center;\"><b>Craftsmanship &amp; Origin</b></h2>\n<p> </p>\n<p class=\"p2\"><br></p>\n<p class=\"p1\">Hand-assembled from <span class=\"s1\"><b>polished bamboo</b></span> — a renewable, fast-growing material known for its strength and smooth texture.</p>\n<p class=\"p1\">Each brush is finished without varnish or plastic coating, ensuring a tactile, grounded connection to nature’s design.</p>\n<p class=\"p1\"> </p>\n<p class=\"p3\"> </p>\n<hr>\n<p> </p>\n<blockquote>\n<i>A sustainable instrument of care — harmonizing beauty, balance, and responsibility.</i><i></i>\n</blockquote>\n<blockquote><i></i></blockquote>\n<blockquote><i></i></blockquote>\n<blockquote><i></i></blockquote>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 25.0,
+    "max_price": 25.0
+  },
+  "variants": [
+    {
+      "variant_id": "45249827012665",
+      "title": "Default Title",
+      "price": 25.0,
+      "available": true,
+      "sku": "sku-20452901060696"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/bamboo_hairbrush_antifreeze.jpg?v=1765909761",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/natural_hairbrush_reduce_hair_loss.jpg?v=1765562464",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/wooden_hairbrush_natural.jpg?v=1765562464",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 1,
+    "available_variants": 1
+  },
+  "metadata": {
+    "created_at": "2025-12-12T13:01:03-05:00",
+    "ingested_at": "2026-01-30T12:29:15.420696+00:00"
+  }
+}

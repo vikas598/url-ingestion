@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8118069198905",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "toku-flow-nattokinase-supplement-10-800-fu",
+  "title": "Toku Flow | Nattokinase Supplement (10,800 FU)",
+  "vendor": "Toku",
+  "product_type": "Nutritional Supplement",
+  "description": "<p class=\"find-your-flow\"><strong>Find Your Flow</strong></p>\n<p><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">A daily powdered supplement designed to promote clear, efficient blood flow and circulation, ensuring vital nutrients reach your heart and organs while supporting your body’s ability to clear metabolic waste for sustained vitality and overall wellness.</span></p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 59.99,
+    "max_price": 179.97
+  },
+  "variants": [
+    {
+      "variant_id": "45253023596601",
+      "title": "Chocolate / 90 days (Up to an Extra 10% Off)",
+      "price": 179.97,
+      "available": true,
+      "sku": "flow-sachets-v3-3x"
+    },
+    {
+      "variant_id": "45253023629369",
+      "title": "Chocolate / 30 days",
+      "price": 59.99,
+      "available": true,
+      "sku": "flow-sachets-v3"
+    },
+    {
+      "variant_id": "45253023662137",
+      "title": "Unflavored / 90 days (Up to an Extra 10% Off)",
+      "price": 179.97,
+      "available": true,
+      "sku": "flow-sachets-unfl-v3-3x"
+    },
+    {
+      "variant_id": "45253023694905",
+      "title": "Unflavored / 30 days",
+      "price": 59.99,
+      "available": true,
+      "sku": "flow-sachets-unfl-v3"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/1_8553b1c2-5e8c-4c5d-90a7-d13e82c8b91c.jpg?v=1765724622",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/2_9a727010-bd5a-4651-b4b6-b4c73c0e2a4e.jpg?v=1765724622",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/5_fe65ba81-60e5-402d-8362-ae7a979967b5.jpg?v=1765724623",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/4_25d0be36-ae83-4082-8dc0-1a17bb022884.jpg?v=1765724622",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/11_f7a0c548-eb54-4808-b340-d21ff9b4be22.jpg?v=1765724622",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/12_22a8a299-266e-4bcf-8f4e-69c1ecabf7c5.jpg?v=1765724622",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/15.jpg?v=1765724623",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/16.jpg?v=1765724623",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/26.jpg?v=1765724622",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/27.jpg?v=1765724623",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/17.jpg?v=1765724622",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23.jpg?v=1765724623",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/25.png?v=1765724622",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/PDP_Images.png?v=1765724622",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 4,
+    "available_variants": 4
+  },
+  "metadata": {
+    "created_at": "2025-12-14T10:03:40-05:00",
+    "ingested_at": "2026-01-30T12:29:15.566857+00:00"
+  }
+}

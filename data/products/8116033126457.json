@@ -1,0 +1,213 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8116033126457",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "grey-bamboo-lyocell-romper-with-g-tube-access",
+  "title": "Grey Bamboo Lyocell Romper with G-Tube Access",
+  "vendor": "Zipease",
+  "product_type": "Romper",
+  "description": "<p><meta charset=\"utf-8\"><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">No more holes, snaps, or outfit battles! Zipease G-Tube rompers make changes and feeds a breeze. Easily slide on &amp; off through the stretchy neckband and even easier diaper changes. Designed to save your time (and sanity), they keep your kiddo comfy and stylish all day long!</span></p>\n<p><strong>About the G-Tube zipper:</strong><span> Our innovative invisible zipper allows for quick access to a tubie and closes toward your preferred side. Perfect for feeding on the go and still staying discrete. No more lifting shirts or cutting holes in clothing!</span></p>\n<p><span>If you select \"left\", the g-tube zipper will close anatomically toward the child's left side.</span></p>\n<p><span>If you select \"right\", the g-tube zipper will close anatomically toward the child's right side.</span></p>\n<p><strong>Body:</strong> Two-tone Grey<br></p>\n<p><span><strong>Sleeves: </strong>Two-tone Grey</span></p>\n<p><strong>Ankle cuffs:</strong><span> Two-tone Grey</span></p>\n<p><strong>Zipper:<span> </span></strong>White</p>\n<p>0-3, 3-6, and 6-12 come with fold-over footies</p>\n<p>95% Bamboo Lyocell 5% Spandex</p>\n<p><em>220 gsm</em></p>\n<p><span>Handmade in Kennewick, WA</span></p>\n<p> </p>\n<p class=\"p1\">Did you know…</p>\n<p class=\"p1\">From newborn to potty trained, you’ll change your little one’s diaper over 4,000 times! What’s stopping you from making it easier?</p>\n<p class=\"p1\">With Zipease, simple<span> </span>unzip from ankle to ankle, take your little one’s legs out, slide the romper up, and change their diaper. Bam, it’s that easy! Our modern rompers feature a stretchy neckline to easily slide up your kiddo in a snap without wearing out overtime. Quick on, quick off, simple diaper changes.</p>\n<p class=\"p1\">Resell your practical rompers in our buy, sell, trade group after they have been gently loved. Join<span> </span><a title=\"Zipease buy, sell, trade\" href=\"https://www.facebook.com/groups/ZipeaseBST/\" target=\"_blank\">here</a>! </p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 42.0,
+    "max_price": 46.0
+  },
+  "variants": [
+    {
+      "variant_id": "45247194791993",
+      "title": "0-3 (long sleeves) / Left",
+      "price": 42.0,
+      "available": false,
+      "sku": "sku-40281300500614"
+    },
+    {
+      "variant_id": "45247194824761",
+      "title": "0-3 (long sleeves) / Right",
+      "price": 42.0,
+      "available": false,
+      "sku": "sku-42441123692678"
+    },
+    {
+      "variant_id": "45247194857529",
+      "title": "0-3 (long sleeves) / I don't have a preference",
+      "price": 42.0,
+      "available": false,
+      "sku": "sku-42453962522758"
+    },
+    {
+      "variant_id": "45247194890297",
+      "title": "3-6 / Left",
+      "price": 42.0,
+      "available": false,
+      "sku": "sku-40281300533382"
+    },
+    {
+      "variant_id": "45247194923065",
+      "title": "3-6 / Right",
+      "price": 42.0,
+      "available": false,
+      "sku": "sku-42441123725446"
+    },
+    {
+      "variant_id": "45247194955833",
+      "title": "3-6 / I don't have a preference",
+      "price": 42.0,
+      "available": false,
+      "sku": "sku-42453962555526"
+    },
+    {
+      "variant_id": "45247194988601",
+      "title": "6-12 / Left",
+      "price": 42.0,
+      "available": false,
+      "sku": "sku-40281300566150"
+    },
+    {
+      "variant_id": "45247195021369",
+      "title": "6-12 / Right",
+      "price": 42.0,
+      "available": false,
+      "sku": "sku-42441123758214"
+    },
+    {
+      "variant_id": "45247195054137",
+      "title": "6-12 / I don't have a preference",
+      "price": 42.0,
+      "available": false,
+      "sku": "sku-42453962588294"
+    },
+    {
+      "variant_id": "45247195086905",
+      "title": "12-18 / Left",
+      "price": 42.0,
+      "available": false,
+      "sku": "sku-40281300598918"
+    },
+    {
+      "variant_id": "45247195119673",
+      "title": "12-18 / Right",
+      "price": 42.0,
+      "available": false,
+      "sku": "sku-42441123790982"
+    },
+    {
+      "variant_id": "45247195152441",
+      "title": "12-18 / I don't have a preference",
+      "price": 42.0,
+      "available": false,
+      "sku": "sku-42453962621062"
+    },
+    {
+      "variant_id": "45247195185209",
+      "title": "18-24 / Left",
+      "price": 42.0,
+      "available": false,
+      "sku": "sku-40281300631686"
+    },
+    {
+      "variant_id": "45247195217977",
+      "title": "18-24 / Right",
+      "price": 42.0,
+      "available": false,
+      "sku": "sku-42441123823750"
+    },
+    {
+      "variant_id": "45247195250745",
+      "title": "18-24 / I don't have a preference",
+      "price": 42.0,
+      "available": false,
+      "sku": "sku-42453962653830"
+    },
+    {
+      "variant_id": "45247195283513",
+      "title": "2T / Left",
+      "price": 46.0,
+      "available": false,
+      "sku": "sku-40281300664454"
+    },
+    {
+      "variant_id": "45247195316281",
+      "title": "2T / Right",
+      "price": 46.0,
+      "available": false,
+      "sku": "sku-42441123856518"
+    },
+    {
+      "variant_id": "45247195349049",
+      "title": "2T / I don't have a preference",
+      "price": 46.0,
+      "available": false,
+      "sku": "sku-42453962686598"
+    },
+    {
+      "variant_id": "45247195381817",
+      "title": "3/4Y / Left",
+      "price": 46.0,
+      "available": false,
+      "sku": "sku-40281300697222"
+    },
+    {
+      "variant_id": "45247195414585",
+      "title": "3/4Y / Right",
+      "price": 46.0,
+      "available": false,
+      "sku": "sku-42441123889286"
+    },
+    {
+      "variant_id": "45247195447353",
+      "title": "3/4Y / I don't have a preference",
+      "price": 46.0,
+      "available": false,
+      "sku": "sku-42453962719366"
+    },
+    {
+      "variant_id": "45247195480121",
+      "title": "5/6Y / Left",
+      "price": 46.0,
+      "available": false,
+      "sku": "sku-40281300729990"
+    },
+    {
+      "variant_id": "45247195512889",
+      "title": "5/6Y / Right",
+      "price": 46.0,
+      "available": false,
+      "sku": "sku-42441123922054"
+    },
+    {
+      "variant_id": "45247195545657",
+      "title": "5/6Y / I don't have a preference",
+      "price": 46.0,
+      "available": false,
+      "sku": "sku-42453962752134"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/gtube_tubie_tube_ZipeaseNR2-29.jpg?v=1765479318",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/gtube_tubie_tube_ZipeaseNR2-27.jpg?v=1765479318",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/gtube_tubie_tube_ZipeaseNR2-28.jpg?v=1765479318",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Zipease_Bamboo_Size_Chart_1_2d3e0c85-1a9e-4cba-9dbe-77e08326b7fe.png?v=1765479318",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": false,
+    "total_variants": 24,
+    "available_variants": 0
+  },
+  "metadata": {
+    "created_at": "2025-12-11T13:55:15-05:00",
+    "ingested_at": "2026-01-30T12:29:15.484330+00:00"
+  }
+}

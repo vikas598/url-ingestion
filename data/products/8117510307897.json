@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8117510307897",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "sticker-collage-kids-water-bottle",
+  "title": "Sticker Collage Kids Water Bottle",
+  "vendor": "Elevated Faith",
+  "product_type": "Kids Water Bottle",
+  "description": "<div class=\"p-rich_text_section\">Introducing the perfect Sticker Collage Kids Water Bottle! Keep your little ones hydrated with our fun and durable water bottles. Designed with both style and practicality in mind, this 14-ounce bottle is crafted from high quality stainless steel, ensuring it stands up to all daily adventures. With a leakproof design and a straw lid, spills are a thing of the past! Plus, it’s dishwasher safe, making cleanup a breeze for busy parents.</div>\n<div class=\"p-rich_text_section\">\n<span aria-label=\"\" class=\"c-mrkdwn__br\" data-stringify-type=\"paragraph-break\"></span><br>\n</div>\n<div class=\"p-rich_text_section\">\n<span aria-label=\"\" class=\"c-mrkdwn__br\" data-stringify-type=\"paragraph-break\"></span><br>\n</div>\n<div class=\"p-rich_text_section\">\n<span aria-label=\"\" class=\"c-mrkdwn__br\" data-stringify-type=\"paragraph-break\"></span><span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\">Features</span><span aria-label=\"\" class=\"c-mrkdwn__br\" data-stringify-type=\"paragraph-break\"></span>\n</div>\n<ul data-stringify-type=\"unordered-list\" class=\"p-rich_text_list p-rich_text_list__bullet\" data-indent=\"0\" data-border=\"0\">\n<li data-stringify-indent=\"0\" data-stringify-border=\"0\">14 oz capacity, perfect for small hands</li>\n<li data-stringify-indent=\"0\" data-stringify-border=\"0\">\n<meta charset=\"utf-8\">Premium 304/304L stainless steel for durability</li>\n<li data-stringify-border=\"0\" data-stringify-indent=\"0\">100% Lead-free</li>\n<li data-stringify-border=\"0\" data-stringify-indent=\"0\">100% BPA-free</li>\n<li data-stringify-indent=\"0\" data-stringify-border=\"0\">Leakproof straw lid to prevent spills</li>\n<li data-stringify-indent=\"0\" data-stringify-border=\"0\">Dishwasher safe for easy cleaning</li>\n<li data-stringify-indent=\"0\" data-stringify-border=\"0\">\n<meta charset=\"utf-8\"> <span>Straw lid is top rack dishwasher safe and should be washed in the open position</span>\n</li>\n</ul>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 14.99,
+    "max_price": 14.99
+  },
+  "variants": [
+    {
+      "variant_id": "45251618865209",
+      "title": "Default Title",
+      "price": 14.99,
+      "available": true,
+      "sku": "STI-KIDS-9289"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Sticker-Collage-Kids-Water-Bottle_01.jpg?v=1765905999",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Sticker-Collage-Kids-Water-Bottle_02.jpg?v=1765650410",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Sticker-Collage-Kids-Water-Bottle_03.jpg?v=1765650410",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Sticker-Collage-Kids-Water-Bottle_04.jpg?v=1765650410",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Sticker-Collage-Kids-Water-Bottle_05.jpg?v=1765650410",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Sticker-Collage-Kids-Water-Bottle_06.jpg?v=1765650410",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Sticker-Collage-Kids-Water-Bottle_07.jpg?v=1765650411",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Sticker-Collage-Kids-Water-Bottle_08.jpg?v=1765650410",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Sticker-Collage-Kids-Water-Bottle_09.jpg?v=1765650411",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 1,
+    "available_variants": 1
+  },
+  "metadata": {
+    "created_at": "2025-12-13T13:26:48-05:00",
+    "ingested_at": "2026-01-30T12:29:15.560591+00:00"
+  }
+}

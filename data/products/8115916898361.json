@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115916898361",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "puff-sleeve-crossover-dress",
+  "title": "Puff Sleeve Crossover Dress",
+  "vendor": "Hope & Henry",
+  "product_type": "Dresses",
+  "description": "<p>Give your holiday look a romantic twist with our beautiful puff sleeve party dress. Crafted from soft organic cotton, our flattering silhouette features a sweetheart neckline crossover bodice, puff sleeves, and smocking at the back for a comfortable fit. Fully lined in 100% Organic Cotton. Perfect for those family picture-taking moments.</p><ul class=\"a-unordered-list a-vertical a-spacing-none\">\n<li>100% Organic Cotton, exclusive of trims. Garment is 100% GOTS-Certified Organic. Learn more about our certifications <a href=\"https://hopeandhenry.com/pages/certifications\">here</a>.</li>\n<li>Fully lined in 100% Organic Cotton. Smocking at the back for a comfortable fit.</li>\n<li>Machine washable.</li>\n</ul>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 34.17,
+    "max_price": 34.17
+  },
+  "variants": [
+    {
+      "variant_id": "45246732468281",
+      "title": "2 / Black Holiday Rose",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW6047ABlackAA2"
+    },
+    {
+      "variant_id": "45246732501049",
+      "title": "4 / Black Holiday Rose",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW6047ABlackAH4"
+    },
+    {
+      "variant_id": "45246732533817",
+      "title": "6 / Black Holiday Rose",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW6047ABlackAJ6"
+    },
+    {
+      "variant_id": "45246732566585",
+      "title": "8 / Black Holiday Rose",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW6047ABlackAM8"
+    },
+    {
+      "variant_id": "45246732599353",
+      "title": "10 / Black Holiday Rose",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW6047ABlackAO10"
+    },
+    {
+      "variant_id": "45246732632121",
+      "title": "12 / Black Holiday Rose",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW6047ABlackAR12"
+    },
+    {
+      "variant_id": "45246732664889",
+      "title": "14 / Black Holiday Rose",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW6047ABlackAT14"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23HW6047A-Studio-1.jpg?v=1765461380",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23HW6047A-Studio-2.jpg?v=1765461380",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23HW6047A-1_8df10c5e-de2a-4184-b23b-5804a3a9f110.jpg?v=1765461380",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 7,
+    "available_variants": 7
+  },
+  "metadata": {
+    "created_at": "2025-12-11T08:56:18-05:00",
+    "ingested_at": "2026-01-30T12:29:15.540561+00:00"
+  }
+}

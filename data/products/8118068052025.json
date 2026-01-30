@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8118068052025",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "purivibe-pineapple-ginger-shot-superfood-juice-powder-wellness-shots-supplement-supports-immunity-digestion-stick-packs",
+  "title": "PuriVibe Pineapple Ginger Shot - Superfood Juice Powder, Wellness Shots Supplement - Supports Immunity & Digestion - Stick Packs",
+  "vendor": "VAS Exclusive",
+  "product_type": "Juice",
+  "description": "<p><span><strong>A SUPERFOOD GINGER SHOT:</strong> Amazing ingredients made for digestive, immune support: ginger juice, turmeric juice, pineapple juice, &amp; Vitamin C from Acerola cherry. Gain the benefits of natural electrolytes from coconut water. An easy, delicious way to supplement your diet using whole foods without capsules or tablets.  </span><br><br><span><strong>EASY TO CONSUME &amp; TIME SAVING:</strong> No juicing - no hassle!  Just add water and save tons of time. We love our juicer, but it's great to have a convenient alternative to stay healthy daily.  Our nutrient rich wellness drink shot has no fillers, creating the perfect blend of quality ingredients you'd get at home with your juicer, without the mess or clean up. </span><br><br><span><strong>SUPERCHARGE YOUR HEALTH:</strong> Proactive daily wellness is key to a good life.  Harness the power of highly potent health boosters! Enjoy the powerful benefits of pineapple, ginger root &amp; turmeric root without the hassle of shopping, cutting, juicing &amp; cleaning.   Take one of our immunity shots before work, school, taking a flight, or with your morning routine. Feel the kick and give your body the boost it needs to feel good every day.</span><br><br><span><strong>SAVE ON STORE BOUGHT:</strong> Feel your best at a fraction of the price of a grocery bought or fresh pressed DIY ginger shot recipe. No need to shop for expensive &amp; hard to find ingredients or waste space by storing liquid shots in your fridge. Save on food waste, too. Because these are ready to be consumed when you are, you won’t have to rush to consume them. </span><span> </span><br><br><span><strong>CONVENIENT TO-GO PACKETS:</strong>  Perfect for travel, work or school.  We've packaged these in easy to use drink mix stick packs so they stay fresh and can be consumed anytime, anywhere. No more lugging around liquid juices that could potentially spill and condensate in your bag. </span></p>\n<!---->",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 27.99,
+    "max_price": 37.99
+  },
+  "variants": [
+    {
+      "variant_id": "45253021401145",
+      "title": "15 pack",
+      "price": 27.99,
+      "available": true,
+      "sku": "PV-GINGERSHOTS-1"
+    },
+    {
+      "variant_id": "45253021433913",
+      "title": "30 pack",
+      "price": 37.99,
+      "available": true,
+      "sku": "PV-GINGERSHOTS-30"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Listing_Photos34_1.jpg?v=1765905490",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Listing_Photos26.jpg?v=1765723953",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Listing_Photos4.jpg?v=1765723952",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Listing_Photos25.jpg?v=1765723953",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Listing_Photos19_1.jpg?v=1765723952",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Listing_Photos21_2.jpg?v=1765723952",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Listing_Photos23.jpg?v=1765723953",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Stick-Pack-Product-Mockup-2.png?v=1765723957",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Listing_Photos31.jpg?v=1765723953",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Listing_Photos28.jpg?v=1765723953",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SupplementFacts7.png?v=1765723954",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Amazon_Extended_Listing_Images_-_Ginger_Shots_8-M_1.jpg?v=1765723953",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/purivibe_pineapple_ginger_shots.jpg?v=1765723953",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Ginger-Juice-Shots-Bag-Back.png?v=1765723958",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/03-Hero_30_Pack_1.jpg?v=1765723953",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/03-Hero_4dd42aed-219e-409c-a70f-9ec1f20297e8.jpg?v=1765723952",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 2,
+    "available_variants": 2
+  },
+  "metadata": {
+    "created_at": "2025-12-14T09:52:30-05:00",
+    "ingested_at": "2026-01-30T12:29:15.542563+00:00"
+  }
+}

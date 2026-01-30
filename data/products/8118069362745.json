@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8118069362745",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "multivitamin-mineral-plus-daily-wellness-nutrition-support",
+  "title": "Multivitamin Mineral Plus – Daily Wellness & Nutrition Support",
+  "vendor": "My Spectrum Heroes",
+  "product_type": "",
+  "description": "<p>My Spectrum Heroes Multivitamin Mineral Plus is a premium dietary supplement designed to support overall wellness and healthy development. </p>\n<p>This carefully balanced blend of essential vitamins, minerals, and bioactive nutrients helps maintain energy, promote focus and concentration, and contribute to the body’s natural growth and vitality</p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 32.0,
+    "max_price": 34.0
+  },
+  "variants": [
+    {
+      "variant_id": "45253026021433",
+      "title": "Strawberry Multivitamin",
+      "price": 34.0,
+      "available": true,
+      "sku": "Multi30_strawberry"
+    },
+    {
+      "variant_id": "45253026054201",
+      "title": "Unflavored Multivitamin",
+      "price": 32.0,
+      "available": true,
+      "sku": "Multi30"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Untitled_design_17.png?v=1765904757",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/revised_61g_SFB_image_6.png?v=1765724753",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Copy_of_Tailored_Nutrition_for_Tomorrow_s_Heroes_6.png?v=1765724750",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/INFO_2.png?v=1765724751",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Copy_of_Tailored_Nutrition_for_Tomorrow_s_Heroes_8.png?v=1765724750",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/LIFESTYLE_1.png?v=1765724755",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Untitled_design_3.png?v=1765724751",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Screenshot_2025-08-17_at_2.47.49_PM.png?v=1765724751",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Screenshot_2025-08-17_at_2.48.09_PM.png?v=1765724751",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/revised_61g_SFB_image_8.png?v=1765724753",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/WhatsApp_Image_2025-09-28_at_09.01.54.jpg?v=1765724750",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 2,
+    "available_variants": 2
+  },
+  "metadata": {
+    "created_at": "2025-12-14T10:05:48-05:00",
+    "ingested_at": "2026-01-30T12:29:15.513562+00:00"
+  }
+}

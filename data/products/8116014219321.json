@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8116014219321",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "7-8-pocket-legging",
+  "title": "7/8 Pocket Legging",
+  "vendor": "Transcendent Active",
+  "product_type": "All Day Active",
+  "description": "<p>Our best-selling leggings now come with a power mesh waistband for a secure fit as you rock and roll all day long. And the best part? These environmentally friendly leggings are made from recycled plastic bottles and have pockets! Who says you can't look fierce and be comfortable at the same time? Black leggings, 7/8 length, with pockets for all your essentials.<span style=\"font-weight: 400;\"><span></span></span></p>\n<h4 style=\"text-align: justify;\">Ethically and Sustainably Made in Los Angeles</h4>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">To learn more about our mission to repair the fashion world, please </span><span style=\"font-weight: 400;\">check out the <a href=\"https://transcendentactive.com/pages/sustainability\">Sustainability</a> page</span><span style=\"font-weight: 400;\">. </span></p>\n<h4><br></h4>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 108.0,
+    "max_price": 108.0
+  },
+  "variants": [
+    {
+      "variant_id": "45247146655801",
+      "title": "S / Black",
+      "price": 108.0,
+      "available": true,
+      "sku": "TR010"
+    },
+    {
+      "variant_id": "45247146688569",
+      "title": "M / Black",
+      "price": 108.0,
+      "available": true,
+      "sku": "TR010"
+    },
+    {
+      "variant_id": "45247146721337",
+      "title": "L / Black",
+      "price": 108.0,
+      "available": true,
+      "sku": "TR008"
+    },
+    {
+      "variant_id": "45247146754105",
+      "title": "XL / Black",
+      "price": 108.0,
+      "available": true,
+      "sku": "TR009"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/7_8_LEGGING_W_POCKETS.jpg?v=1765911517",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/7_8Legging.png?v=1765911335",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/7_8_LEGGING_W_POCKETS_SIDE.jpg?v=1765911335",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Cheetah-7-8-Legging-Transcendent-Active-1669659766.jpg?v=1765477655",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 4,
+    "available_variants": 4
+  },
+  "metadata": {
+    "created_at": "2025-12-11T13:27:32-05:00",
+    "ingested_at": "2026-01-30T12:29:15.407726+00:00"
+  }
+}

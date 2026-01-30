@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8118069559353",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "sleep-well-blend",
+  "title": "Sleep Well Blend",
+  "vendor": "Crane Wellness",
+  "product_type": "powder",
+  "description": "<p><span style=\"font-weight: 400;\">Our unique formula of Glycine, GABA, and L-Theanine has been scientifically tested and found to help promote relaxation, reduce stress and anxiety, and improve the overall quality of sleep. These amino acids can be a natural, non-addictive and effective way to support healthy sleep habits and improve your overall well-being.  The longer you take this GABA supplement formula, the better you feel!</span></p>\n<p><span style=\"font-weight: 400;\">This is a non-gmo, melatonin, non habit forming solution for anyone suffering from lack of sleep, insomnia and stress.  Also great for athletes as it promotes muscle recovery.</span></p>\n<p><span style=\"font-weight: 400;\">Active Ingredients - <strong>MELATONIN FREE</strong>:</span></p>\n<p><span style=\"font-weight: 400;\">3,000mg Glycine</span></p>\n<p><span style=\"font-weight: 400;\">100mg GABA</span></p>\n<p><span style=\"font-weight: 400;\">200mg L-Theanine</span></p>\n<p><span style=\"font-weight: 400;\">3.5g x 30 sachets per box. </span></p>\n<p><span style=\"font-weight: 400;\">Directions: Mix one sachet with water or beverage of your choice before bed. Powder can also be consumed by itself if you prefer.</span></p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 14.99,
+    "max_price": 14.99
+  },
+  "variants": [
+    {
+      "variant_id": "45253026250809",
+      "title": "Default Title",
+      "price": 14.99,
+      "available": true,
+      "sku": "812377011264"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SleepBox-05withStickVert_d0c19f20-2c39-4603-bd37-83705c2be20f.jpg?v=1765904622",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/CRANE_AMAZON_A_CONTENT_SLEEP_WELL.jpg?v=1765724834",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Screenshot2024-03-21135843.png?v=1765724834",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SleepBox-01Front.jpg?v=1765724835",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SleepBox-02Back.jpg?v=1765724836",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SleepBox-03Left.jpg?v=1765724835",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SleepBox-04Right.jpg?v=1765724835",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SleepBox-06withStickHoriz.jpg?v=1765724834",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SleepBox-07Angled_471a4ec5-80bb-42f1-8002-b88487b2e4a5.jpg?v=1765724836",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 1,
+    "available_variants": 1
+  },
+  "metadata": {
+    "created_at": "2025-12-14T10:07:12-05:00",
+    "ingested_at": "2026-01-30T12:29:15.551571+00:00"
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115733889081",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "little-explorer-joggers",
+  "title": "Little Explorer Joggers",
+  "vendor": "Wensley Rose Boutique",
+  "product_type": "Joggers",
+  "description": "<p><span>Allow your boy or girl to create lasting memories in this adorable, cozy, and sustainable joggers. The jogger style is crafted from 100% organic cotton with a stylish waffle knit, ensuring both comfort and texture. Whether worn for playdates, birthdays, or outdoor adventures, this jogger is perfect for sensitive skin. (Crew Neck sweatshirt sold separate)  This is a must have item!</span></p>\n<p><span>Features: </span></p>\n<p><span>Made from 100% organic cotton</span></p>\n<p><span>waffle knit fabric</span></p>\n<p><span>sustainable</span></p>\n<p><span>Ethically produced</span></p>\n<p><span>Sizes</span></p>\n<p><span>6-12 months</span></p>\n<p><span>12-18 months</span></p>\n<p><span>18-24 Months</span></p>\n<p><span>2T</span></p>\n<p><span>3T</span></p>\n<p><span>4T</span></p>\n<p><span>5T</span></p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 17.0,
+    "max_price": 17.0
+  },
+  "variants": [
+    {
+      "variant_id": "45245817946169",
+      "title": "6-12 / Dark Gray",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43575084023948"
+    },
+    {
+      "variant_id": "45245817978937",
+      "title": "12-18 / Dark Gray",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43575084056716"
+    },
+    {
+      "variant_id": "45245818011705",
+      "title": "18-24 / Dark Gray",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43575084089484"
+    },
+    {
+      "variant_id": "45245818044473",
+      "title": "2T / Dark Gray",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43575084122252"
+    },
+    {
+      "variant_id": "45245818077241",
+      "title": "3T / Dark Gray",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43575084155020"
+    },
+    {
+      "variant_id": "45245818110009",
+      "title": "4T / Dark Gray",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43575084187788"
+    },
+    {
+      "variant_id": "45245818142777",
+      "title": "5T / Dark Gray",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43575084220556"
+    },
+    {
+      "variant_id": "45245818175545",
+      "title": "6-12 / Mauve",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43682981413004"
+    },
+    {
+      "variant_id": "45245818208313",
+      "title": "6-12 / Frost",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43682981445772"
+    },
+    {
+      "variant_id": "45245818241081",
+      "title": "12-18 / Mauve",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43682981478540"
+    },
+    {
+      "variant_id": "45245818273849",
+      "title": "12-18 / Frost",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43682981511308"
+    },
+    {
+      "variant_id": "45245818306617",
+      "title": "18-24 / Mauve",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43682981544076"
+    },
+    {
+      "variant_id": "45245818339385",
+      "title": "18-24 / Frost",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43682981576844"
+    },
+    {
+      "variant_id": "45245818372153",
+      "title": "2T / Mauve",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43682981609612"
+    },
+    {
+      "variant_id": "45245818404921",
+      "title": "2T / Frost",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43682981642380"
+    },
+    {
+      "variant_id": "45245818437689",
+      "title": "3T / Mauve",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43682981675148"
+    },
+    {
+      "variant_id": "45245818470457",
+      "title": "3T / Frost",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43682981707916"
+    },
+    {
+      "variant_id": "45245818503225",
+      "title": "4T / Mauve",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43682981740684"
+    },
+    {
+      "variant_id": "45245818535993",
+      "title": "4T / Frost",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43682981773452"
+    },
+    {
+      "variant_id": "45245818568761",
+      "title": "5T / Mauve",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43682981806220"
+    },
+    {
+      "variant_id": "45245818601529",
+      "title": "5T / Frost",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43682981838988"
+    },
+    {
+      "variant_id": "45245818634297",
+      "title": "6-12 / Red",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43683010117772"
+    },
+    {
+      "variant_id": "45245818667065",
+      "title": "12-18 / Red",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43683010150540"
+    },
+    {
+      "variant_id": "45245818699833",
+      "title": "18-24 / Red",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43683010183308"
+    },
+    {
+      "variant_id": "45245818732601",
+      "title": "2T / Red",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43683010216076"
+    },
+    {
+      "variant_id": "45245818765369",
+      "title": "3T / Red",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43683010248844"
+    },
+    {
+      "variant_id": "45245818798137",
+      "title": "4T / Red",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43683010281612"
+    },
+    {
+      "variant_id": "45245818830905",
+      "title": "5T / Red",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43683010314380"
+    },
+    {
+      "variant_id": "45245818863673",
+      "title": "6-12 / Dark Sapphire",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43683016278156"
+    },
+    {
+      "variant_id": "45245818896441",
+      "title": "12-18 / Dark Sapphire",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43683016310924"
+    },
+    {
+      "variant_id": "45245818929209",
+      "title": "18-24 / Dark Sapphire",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43683016343692"
+    },
+    {
+      "variant_id": "45245818961977",
+      "title": "2T / Dark Sapphire",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43683016376460"
+    },
+    {
+      "variant_id": "45245818994745",
+      "title": "3T / Dark Sapphire",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43683016409228"
+    },
+    {
+      "variant_id": "45245819027513",
+      "title": "4T / Dark Sapphire",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43683016441996"
+    },
+    {
+      "variant_id": "45245819060281",
+      "title": "5T / Dark Sapphire",
+      "price": 17.0,
+      "available": false,
+      "sku": "sku-43683016474764"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/45E1242E-4539-4A5E-B255-871BA2B315A6.jpg?v=1765913082",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/EB336D10-FE90-4EB1-B623-318A0B98A613.jpg?v=1765439013",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/F8B50AD3-95F5-4F29-8B21-B8A8F09414C5.jpg?v=1765439013",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/34EF6502-056E-460E-9203-6E803C05BB85.jpg?v=1765439013",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/3DD515E0-041A-4A5B-855D-06819F6A19CE.jpg?v=1765439013",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/EE31B30D-F61C-4BE4-ADCC-3479A62BCFD8.jpg?v=1765439013",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/732876A9-2885-4A05-8CDA-7FFEF95834AB.jpg?v=1765439013",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/8BF34DE7-B05C-4569-ABCD-EC5F18F422FA.jpg?v=1765439013",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/72DE862E-BE1C-45B1-89F0-0014DC0CA361.jpg?v=1765439013",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/C0084345-DFC6-428F-849D-87A681A12EB3.jpg?v=1765439013",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23E779A3-18AF-4C43-84E4-36752CC57DD0.png?v=1765439013",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": false,
+    "total_variants": 35,
+    "available_variants": 0
+  },
+  "metadata": {
+    "created_at": "2025-12-11T02:43:31-05:00",
+    "ingested_at": "2026-01-30T12:29:15.498609+00:00"
+  }
+}

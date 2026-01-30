@@ -3,10 +3,14 @@ from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse
 
 from app.api.product import router as product_router
+from app.api import shopify
+
 from app.core.errors import ERRORS
 from app.core.exceptions import APIException
 
 app = FastAPI(title="URL Ingestor", version="1.0")
+app.include_router(product_router)
+app.include_router(shopify.router)
 
 @app.middleware("http")
 async def add_request_id(request: Request, call_next):

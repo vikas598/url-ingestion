@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8123190280249",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "mocha-coffee-i-am-grounded-affirmation-candle-17-5-oz",
+  "title": "Mocha Coffee \"I Am Grounded\" Affirmation Candle - 17.5 oz",
+  "vendor": "Affirmation Effect",
+  "product_type": "Candles",
+  "description": "<p>Stay centered and energized with the <strong>\"I Am Grounded\" Mocha Coffee Affirmation Candle</strong>, crafted to bring warmth and comfort to your space. Infused with the rich aroma of <strong>freshly brewed dark roast coffee, aromatic java bean, and creamy vanilla</strong>, this candle creates the perfect cozy ambiance.</p>\n<p>Hand-poured in a <strong>reusable clear jar</strong>, this candle is made with <strong>coconut wax</strong> for a clean, long-lasting burn that is <strong>pet-friendly and vegan</strong>. Featuring <strong>two flat braided cotton wicks</strong> (lead and zinc-free), it offers a smooth, even burn for up to <strong>60+ hours</strong>.</p>\n<p>✨ <strong>Burn Time:</strong> 60+ hours<br>✨ <strong>Weight:</strong> 17.5 oz<br>✨ <strong>Vegan &amp; Clean-Burning</strong><br>✨ <strong>Cotton Wicks:</strong> 2<br>📦 <strong>Shipping:</strong> Nationwide delivery in 3-5 business days!</p>\n<h2><strong></strong></h2>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 32.99,
+    "max_price": 32.99
+  },
+  "variants": [
+    {
+      "variant_id": "45267503906873",
+      "title": "Default Title",
+      "price": 32.99,
+      "available": true,
+      "sku": "PCOCA0174S"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Coffee_Candle.png?v=1766180549",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 1,
+    "available_variants": 1
+  },
+  "metadata": {
+    "created_at": "2025-12-19T16:42:27-05:00",
+    "ingested_at": "2026-01-30T12:29:15.512495+00:00"
+  }
+}

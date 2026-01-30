@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8121594183737",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "noplastic™-waste-bag-tall",
+  "title": "NoPlastic™ Waste Bag Tall",
+  "vendor": "Plastno",
+  "product_type": "Bags",
+  "description": "<p>No matter how much we try to recycle, some things have to be tossed in the trash. But traditional plastic bags that are made from petroleum take 1,000 years to decompose and break down into toxic microplastics. Take out the plastic, and you’ll be saving 500 bags a year from hanging around in oceans and landfill. <br><br>Our sustainable trash bags are made from renewable, plant-based materials, reducing your fossil fuel footprint. They are certified compostable, which means they’ll quickly break down – both on home composting piles and in commercial facilities. <br><br>Crucially, these 13 gallon biodegradable trash bags are still strong enough to hold all your household waste, and won’t break down until you want them to.<br></p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 18.0,
+    "max_price": 18.0
+  },
+  "variants": [
+    {
+      "variant_id": "45262524350521",
+      "title": "Default Title",
+      "price": 18.0,
+      "available": false,
+      "sku": "PNWB1330"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Plastno_Waste_Bag_Tall_1.jpg?v=1766026540",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Plastno_Waste_Bag_Tall_2.jpg?v=1766026541",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Plastno_Waste_Bag_Tall_3.jpg?v=1766026541",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Plastno_Waste_Bag_Tall_4.jpg?v=1766026541",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": false,
+    "total_variants": 1,
+    "available_variants": 0
+  },
+  "metadata": {
+    "created_at": "2025-12-17T21:55:38-05:00",
+    "ingested_at": "2026-01-30T12:29:15.524338+00:00"
+  }
+}

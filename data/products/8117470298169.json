@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8117470298169",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "senneterre-bleached-jute-rug",
+  "title": "Senneterre Bleached Jute Rug",
+  "vendor": "Boutique Rugs",
+  "product_type": "Rugs",
+  "description": "<table id=\"product_description_table\"><tbody> <tr><td>\n<b>About:</b>  Enhance your home with the earthy elegance of this cream jute rug. Its bleached jute color embodies organic beauty, while thick end tassels add a unique, bohemian flair. Durable and eco-friendly, this rug is perfect for those who appreciate natural fibers and handcrafted quality.<br>\n</td></tr> <tr><td>\n<b>Brand:</b>  Hauteloom<br>\n</td></tr> <tr><td>\n<b>Collection:</b>  Senneterre<br>\n</td></tr> <tr><td>\n<b>Colors:</b>  Cream<br>\n</td></tr> <tr><td>\n<b>Construction:</b>  Hand Woven<br>\n</td></tr> <tr><td>\n<b>Material:</b>  100% Jute<br>\n</td></tr> <tr><td>\n<b>Pile:</b>  Medium Pile<br>\n</td></tr> <tr><td>\n<b>Pile Height:</b>  0.5\"<br>\n</td></tr> <tr><td>\n<b>Styles:</b>  Transitional,Traditional<br>\n</td></tr> <tr><td>\n<b>Made In:</b>  India<br>\n</td></tr> <tr><td>\n<b>Thickness:</b>  0.5\"<br>\n</td></tr> <tr><td>\n<b>Fringe Length:</b>  4\"<br>\n</td></tr> <tr><td>\n<b>Price Range:</b>  <span><span id=\"desc_price_range\" price_value=\"2\"><b>$$</b><span class=\"gray\">$$$</span></span> (<a href=\"/collections/affordable-rugs\">Affordable</a>)</span><br>\n</td></tr>\n</tbody></table>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 69.0,
+    "max_price": 899.0
+  },
+  "variants": [
+    {
+      "variant_id": "45251515777081",
+      "title": "2' x 3' Rectangle",
+      "price": 69.0,
+      "available": true,
+      "sku": "SENN-23"
+    },
+    {
+      "variant_id": "45251515809849",
+      "title": "3' x 5' Rectangle",
+      "price": 99.0,
+      "available": true,
+      "sku": "SENN-35"
+    },
+    {
+      "variant_id": "45251515842617",
+      "title": "4' x 6' Rectangle",
+      "price": 179.0,
+      "available": true,
+      "sku": "SENN-46"
+    },
+    {
+      "variant_id": "45251515875385",
+      "title": "5' x 7'6\" Rectangle",
+      "price": 219.0,
+      "available": true,
+      "sku": "SENN-576"
+    },
+    {
+      "variant_id": "45251515908153",
+      "title": "6' x 9' Rectangle",
+      "price": 259.0,
+      "available": true,
+      "sku": "SENN-69"
+    },
+    {
+      "variant_id": "45251515940921",
+      "title": "7'6\" x 9'6\" Rectangle",
+      "price": 379.0,
+      "available": true,
+      "sku": "SENN-7696"
+    },
+    {
+      "variant_id": "45251515973689",
+      "title": "* 7'6\" x 10'6\" Rectangle",
+      "price": 479.0,
+      "available": true,
+      "sku": "SENN-76106"
+    },
+    {
+      "variant_id": "45251516006457",
+      "title": "2'6\" x 8' Runner",
+      "price": 119.0,
+      "available": true,
+      "sku": "SENN-268"
+    },
+    {
+      "variant_id": "45251516039225",
+      "title": "8'6\" x 11'6\" Rectangle",
+      "price": 499.0,
+      "available": true,
+      "sku": "SENN-86116"
+    },
+    {
+      "variant_id": "45251516071993",
+      "title": "* 9'6\" x 12'6\" Rectangle",
+      "price": 599.0,
+      "available": true,
+      "sku": "SENN-96126"
+    },
+    {
+      "variant_id": "45251516104761",
+      "title": "9'6\" x 13'6\" Rectangle",
+      "price": 599.0,
+      "available": true,
+      "sku": "SENN-96136"
+    },
+    {
+      "variant_id": "45251516137529",
+      "title": "2'6\" x 10' Runner",
+      "price": 169.0,
+      "available": true,
+      "sku": "SENN-2610"
+    },
+    {
+      "variant_id": "45251516170297",
+      "title": "2'6\" x 12' Runner",
+      "price": 199.0,
+      "available": true,
+      "sku": "SENN-2612"
+    },
+    {
+      "variant_id": "45251516203065",
+      "title": "12' x 15' Rectangle",
+      "price": 899.0,
+      "available": true,
+      "sku": "SENN-1215"
+    },
+    {
+      "variant_id": "45251516235833",
+      "title": "2'6\" x 14' Runner",
+      "price": 219.0,
+      "available": true,
+      "sku": "SENN-2614"
+    },
+    {
+      "variant_id": "45251516268601",
+      "title": "2'6\" x 16' Runner",
+      "price": 239.0,
+      "available": true,
+      "sku": "SENN-2616"
+    },
+    {
+      "variant_id": "45251516301369",
+      "title": "2'6\" x 18' Runner",
+      "price": 299.0,
+      "available": true,
+      "sku": "SENN-2618"
+    },
+    {
+      "variant_id": "45251516334137",
+      "title": "2'6\" x 20' Runner",
+      "price": 279.0,
+      "available": true,
+      "sku": "SENN-2620"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Senneterre-Bleached-Jute-Rug-10x14-_28SENN-96136_29---mimameise-1.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SENN_design_rct_0_calhounstudio.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Senneterre_2C-Bleached-Jute-8x10_2C-SENN-76106-thehollidaycollective-3.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SENN_roomscene2_rct_0_calhounstudio.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Moncton-Jute-sisal-5x7-wayfair-elys_everyday-01.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SENN_fold1_rct_0_calhounstudio.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SENN_fold3_rct_0_calhounstudio.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SENN_corner_rct_576_studio_bbed1717-f9fd-4320-87fd-77b9e56daa38.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Senneterre-Bleached-Jute-Rug-breeyashade-1.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Senneterre-rug-kimk.styledwithlace-01.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Senneterre-Bleached-Jute-Rug--5_E2_80_99x7_E2_80_996_E2_80_9D-SENN-576-m2_decoracion-4.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SENN_fold2_rct_576_studio.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SENN_fold3_rct_576_studio.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SENN_pile_rct_576_studio.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SENN_styleshot_rct_576_studio.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Senneterre-7_6-x-9_6-ourcharmedabode-01.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Senneterre-Bleached-Jute-Rug-4x6-theredheadedfarmgirl-3.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Senneterre-Bleached-Jute-Rug-4x6-theredheadedfarmgirl-6.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SENN_roomscene_rct_0_calhounstudio.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Senneterre-Bleached-Jute-Rug-halibennettblog-8.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Senneterre-Bleached-Jute-Rug-4x6-theredheadedfarmgirl-7-_281_29.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Senneterre-Bleached-Jute-Rug-halibennettblog-6.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Senneterre-Bleached-Jute-Rug-4x6-theredheadedfarmgirl-5.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Senneterre-Bleached-Jute-Rug-breeyashade-2.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SENN_fold2_rct_0_calhounstudio.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SENN_texture_rct_576_studio.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SENN_texture_rct_0_calhounstudio.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SENN_design_rct_0_calhounstudio_89bf5317-954f-4a03-bbd9-842455884c37.jpg?v=1765646515",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/SENN_roomscene1_rct_0_calhounstudio.jpg?v=1765646515",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 18,
+    "available_variants": 18
+  },
+  "metadata": {
+    "created_at": "2025-12-13T12:21:52-05:00",
+    "ingested_at": "2026-01-30T12:29:15.547444+00:00"
+  }
+}

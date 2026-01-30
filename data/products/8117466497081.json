@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8117466497081",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "expert-home-cleaner-kit-all-in-one-complete-eco-friendly-cleaning-solution",
+  "title": "Expert Home Cleaner Kit - All in One Complete Eco-Friendly Cleaning Solution",
+  "vendor": "Green Llama",
+  "product_type": "Cleaner Starter Kit All",
+  "description": "<div class=\"green-llama-product-description\">\n<h2>Clean Everything, Green Everything: Green Llama Expert Home Cleaner Kit</h2>\n<p>Introducing our <strong>NEW Expert Home Cleaner Kit,</strong> now with added <strong>Dryer Balls</strong> and <strong>Dishwasher Tabs</strong>! Keep your home clean in an eco-friendly way with this all-in-one solution.</p>\n<p>Embrace a zero-waste cleaning revolution with Green Llama's Expert Home Cleaner Kit. This comprehensive kit empowers you to tackle every cleaning task in your home, from sparkling kitchens and bathrooms to fresh laundry and shining dishes, all while prioritizing sustainability and your health.<br><br><strong style=\"font-size: 0.875rem;\">- Non-Toxic ingredients for pease of mind<br></strong><strong>- Eco-Friendly cleaning power that is effective<br></strong><strong>- Save withe the Expert Home Cleaning Kit</strong></p>\n</div>\n<div class=\"green-llama-product-description\">\n<strong><br><strong style=\"font-size: 0.875rem;\">Green Llama: Clean with a Conscience, Live with Ease.</strong></strong><br>\n</div>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 99.95,
+    "max_price": 99.95
+  },
+  "variants": [
+    {
+      "variant_id": "45251486285881",
+      "title": "Default Title",
+      "price": 99.95,
+      "available": true,
+      "sku": "100009"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Green_Llama_Expert_Bundle_mq.jpg?v=1765645949",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Green_Llama_Starter_Kit_mq.jpg?v=1765645949",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Green_Llama_Kitchen_Bundle_with_plates_mq.jpg?v=1765645949",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Green_Llama_Laundry_Bundle_mq.jpg?v=1765645949",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/GreenLlamanaturalcottontowel_1.jpg?v=1765645949",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/laundry_how_to_v3.jpg?v=1765645949",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/dishwasher_v2.jpg?v=1765645949",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 1,
+    "available_variants": 1
+  },
+  "metadata": {
+    "created_at": "2025-12-13T12:12:27-05:00",
+    "ingested_at": "2026-01-30T12:29:15.464299+00:00"
+  }
+}

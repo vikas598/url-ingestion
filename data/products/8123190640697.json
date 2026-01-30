@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8123190640697",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "vanilla-coconut-affirmation-i-am-strong-candle-60-oz",
+  "title": "Vanilla Coconut Affirmation \"I Am Strong\" Candle - 60 oz",
+  "vendor": "Affirmation Effect",
+  "product_type": "Candles",
+  "description": "<p><span style=\"font-size: 1rem;\">Indulge in the warm and soothing aroma of our Vanilla Coconut Candle, infused with a fearless affirmation \"I Am Strong\". Made with natural Coconut wax and featuring two flat braided cotton wicks, our reusable clear jar provides a clean burn for up to 250+ hours. The fragrant blend of citrus splash, pineapple water, coconut palm, freesia breeze, white woods will transport you to the tropical paradise you've been missing. Whether you need to reduce stress or boost your energy, our earthy candle will provide the perfect atmosphere for your self-care routine. Order now and light up your space with positivity and strength.</span></p>\n<ul></ul>\n<p><meta charset=\"UTF-8\"><span>✨ </span><strong>Burn Time:</strong><span> 250+ hours</span><br><span>✨ </span><strong>Weight:</strong><span> 60 oz</span><br><span>✨ </span><strong>Dimensions:</strong><span> 6\" x 6\"</span><br><span>✨ </span><strong>Vegan &amp; Clean-Burning</strong><br><span>✨ </span><strong>Cotton Wicks:</strong><span> 3</span><br><span>📦 </span><strong>Shipping:</strong><span> Nationwide delivery in 3-5 business days!</span></p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 149.99,
+    "max_price": 149.99
+  },
+  "variants": [
+    {
+      "variant_id": "45267504136249",
+      "title": "Default Title",
+      "price": 149.99,
+      "available": true,
+      "sku": "PJACA0108S"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Vanilla_coconut_large_candle_3e986c45-f9e8-4e9a-bb40-1c8580f91875.jpg?v=1766180549",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/background-editor_output_207aea35-7d2f-47f2-a28d-1e30a52d9800.png?v=1766180550",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 1,
+    "available_variants": 1
+  },
+  "metadata": {
+    "created_at": "2025-12-19T16:42:27-05:00",
+    "ingested_at": "2026-01-30T12:29:15.575997+00:00"
+  }
+}

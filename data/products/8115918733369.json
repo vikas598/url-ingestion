@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115918733369",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "puff-sleeve-crossover-dress-1",
+  "title": "Puff Sleeve Crossover Dress",
+  "vendor": "Hope & Henry",
+  "product_type": "Dresses",
+  "description": "<p>Give your holiday look a romantic twist with our beautiful puff sleeve party dress. Crafted from soft organic cotton, our flattering silhouette features a sweetheart neckline crossover bodice, puff sleeves, and smocking at the back for a comfortable fit. Fully lined in 100% Organic Cotton. Perfect for those family picture-taking moments.</p><ul class=\"a-unordered-list a-vertical a-spacing-none\">\n<li>100% Organic Cotton, exclusive of trims. Garment is 100% GOTS-Certified Organic. Learn more about our certifications <a href=\"https://hopeandhenry.com/pages/certifications\">here</a>.</li>\n<li>Fully lined in 100% Organic Cotton. Smocking at the back for a comfortable fit.</li>\n<li>Machine washable.</li>\n</ul>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 34.17,
+    "max_price": 34.17
+  },
+  "variants": [
+    {
+      "variant_id": "45246740660281",
+      "title": "2 / Ivory Holiday Tartan",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW6047BIvoryAA2"
+    },
+    {
+      "variant_id": "45246740693049",
+      "title": "4 / Ivory Holiday Tartan",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW6047BIvoryAH4"
+    },
+    {
+      "variant_id": "45246740725817",
+      "title": "6 / Ivory Holiday Tartan",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW6047BIvoryAJ6"
+    },
+    {
+      "variant_id": "45246740758585",
+      "title": "8 / Ivory Holiday Tartan",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW6047BIvoryAM8"
+    },
+    {
+      "variant_id": "45246740791353",
+      "title": "10 / Ivory Holiday Tartan",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW6047BIvoryAO10"
+    },
+    {
+      "variant_id": "45246740824121",
+      "title": "12 / Ivory Holiday Tartan",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW6047BIvoryAR12"
+    },
+    {
+      "variant_id": "45246740856889",
+      "title": "14 / Ivory Holiday Tartan",
+      "price": 34.17,
+      "available": true,
+      "sku": "23HW6047BIvoryAT14"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23HW6047B-Studio-1.jpg?v=1765912211",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23HW6047B-Studio-2.jpg?v=1765461452",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23HW6074B-Studio-3_9488e818-f2a2-4375-8b5d-e393b7537a12.jpg?v=1765461452",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/23HW6047B.jpg?v=1765461452",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/GOTS_IDFL_54ebc472-a5f4-4d0b-8415-3ad8303428c7.jpg?v=1765461453",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 7,
+    "available_variants": 7
+  },
+  "metadata": {
+    "created_at": "2025-12-11T08:57:30-05:00",
+    "ingested_at": "2026-01-30T12:29:15.541566+00:00"
+  }
+}

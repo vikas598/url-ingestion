@@ -1,0 +1,201 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8116032897081",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "clearance-womens-scoop-neck-100-bamboo-viscose-long-sleeve-shirt",
+  "title": "Clearance Women's Scoop Neck 100% Bamboo Viscose Long Sleeve Shirt",
+  "vendor": "Spun Bamboo",
+  "product_type": "women's long sleeve",
+  "description": "<p><span style=\"color: rgb(255, 42, 0);\"><strong>Final Sale!</strong></span></p>\n<p>We've taken our extraordinary 100% viscose from  Spun Bamboo<span data-mce-fragment=\"1\"> </span> jersey fabric and made the most luscious shirt available on the planet. Our Women’s 100% long sleeve is so a comfortable shirt as a first layer, you won’t even remember you have it on! Also chic and beautiful as an over-layer. Best women's clothing.</p>\n<p>Available in Powder Blue, Black, Natural, and Bamboo Cream.<br>Designed in California, Made in China - where Bamboo grows.</p>\n<p><span></span><strong>FABRIC:</strong></p>\n<p>100% Viscose from Bamboo.</p>\n<p>Size S, M, L, XL</p>\n<p> </p>\n<p> </p>\n<div>\n<ul></ul>\n<br>\n</div>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 15.99,
+    "max_price": 15.99
+  },
+  "variants": [
+    {
+      "variant_id": "45247193481273",
+      "title": "Medium / Black",
+      "price": 15.99,
+      "available": false,
+      "sku": "ET-W100sL-LON-MED-BLA"
+    },
+    {
+      "variant_id": "45247193514041",
+      "title": "Large / Black",
+      "price": 15.99,
+      "available": false,
+      "sku": "ET-W100sL-LON-LAR-BLA"
+    },
+    {
+      "variant_id": "45247193546809",
+      "title": "Extra Large / Black",
+      "price": 15.99,
+      "available": false,
+      "sku": "ET-W100sL-LON-XLA-BLA"
+    },
+    {
+      "variant_id": "45247193579577",
+      "title": "Small / Black",
+      "price": 15.99,
+      "available": false,
+      "sku": "ET-W100sL-LON-SMA-BLA"
+    },
+    {
+      "variant_id": "45247193612345",
+      "title": "Medium / Natural",
+      "price": 15.99,
+      "available": false,
+      "sku": "ET-W100sL-LON-MED-NAT"
+    },
+    {
+      "variant_id": "45247193645113",
+      "title": "Large / Natural",
+      "price": 15.99,
+      "available": false,
+      "sku": "ET-W100sL-LON-LAR-NAT"
+    },
+    {
+      "variant_id": "45247193677881",
+      "title": "Extra Large / Natural",
+      "price": 15.99,
+      "available": false,
+      "sku": "ET-W100sL-LON-XLA-NAT"
+    },
+    {
+      "variant_id": "45247193710649",
+      "title": "Small / Natural",
+      "price": 15.99,
+      "available": false,
+      "sku": "ET-W100sL-LON-SMA-NAT"
+    },
+    {
+      "variant_id": "45247193743417",
+      "title": "Medium / Powder Blue",
+      "price": 15.99,
+      "available": false,
+      "sku": "ET-W100sL-LON-MED-BLU"
+    },
+    {
+      "variant_id": "45247193776185",
+      "title": "Large / Powder Blue",
+      "price": 15.99,
+      "available": false,
+      "sku": "ET-W100sL-LON-LAR-BLU"
+    },
+    {
+      "variant_id": "45247193808953",
+      "title": "Extra Large / Powder Blue",
+      "price": 15.99,
+      "available": false,
+      "sku": "ET-W100sL-LON-XLA-BLU"
+    },
+    {
+      "variant_id": "45247193841721",
+      "title": "Small / Powder Blue",
+      "price": 15.99,
+      "available": false,
+      "sku": "ET-W100sL-LON-SMA-BLU"
+    },
+    {
+      "variant_id": "45247193874489",
+      "title": "Medium / Bamboo Cream",
+      "price": 15.99,
+      "available": false,
+      "sku": "ET-W100sL-LON-MED-BAM"
+    },
+    {
+      "variant_id": "45247193907257",
+      "title": "Large / Bamboo Cream",
+      "price": 15.99,
+      "available": false,
+      "sku": "ET-W100sL-LON-LAR-BAM"
+    },
+    {
+      "variant_id": "45247193940025",
+      "title": "Extra Large / Bamboo Cream",
+      "price": 15.99,
+      "available": true,
+      "sku": "ET-W100sL-LON-XLA-BAM"
+    },
+    {
+      "variant_id": "45247193972793",
+      "title": "Small / Bamboo Cream",
+      "price": 15.99,
+      "available": false,
+      "sku": "ET-W100sL-LON-SMA-BAM"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-scoop-neck-100-bamboo-viscose-long-sleeve-shirt-womens-long-sleeve-spun-bamboo-758321.jpg?v=1765910723",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-scoop-neck-100-bamboo-viscose-long-sleeve-shirt-womens-long-sleeve-spun-bamboo-628484.jpg?v=1765479226",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-scoop-neck-100-bamboo-viscose-long-sleeve-shirt-womens-long-sleeve-spun-bamboo-568710.jpg?v=1765479226",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-scoop-neck-100-bamboo-viscose-long-sleeve-shirt-womens-long-sleeve-spun-bamboo-905558.jpg?v=1765479226",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-scoop-neck-100-bamboo-viscose-long-sleeve-shirt-womens-long-sleeve-spun-bamboo-539924.jpg?v=1765479226",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-scoop-neck-100-bamboo-viscose-long-sleeve-shirt-womens-long-sleeve-spun-bamboo-975785.jpg?v=1765479226",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-scoop-neck-100-bamboo-viscose-long-sleeve-shirt-womens-long-sleeve-spun-bamboo-310933.jpg?v=1765479227",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-scoop-neck-100-bamboo-viscose-long-sleeve-shirt-womens-long-sleeve-spun-bamboo-543482.jpg?v=1765479226",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-scoop-neck-100-bamboo-viscose-long-sleeve-shirt-womens-long-sleeve-spun-bamboo-342304.jpg?v=1765479226",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-scoop-neck-100-bamboo-viscose-long-sleeve-shirt-womens-long-sleeve-spun-bamboo-942213.jpg?v=1765479226",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-scoop-neck-100-bamboo-viscose-long-sleeve-shirt-womens-long-sleeve-spun-bamboo-132679.jpg?v=1765479225",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-scoop-neck-100-bamboo-viscose-long-sleeve-shirt-womens-long-sleeve-spun-bamboo-860175.jpg?v=1765479225",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-scoop-neck-100-bamboo-viscose-long-sleeve-shirt-womens-long-sleeve-spun-bamboo-768428.jpg?v=1765479226",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-scoop-neck-100-bamboo-viscose-long-sleeve-shirt-womens-long-sleeve-spun-bamboo-465789.jpg?v=1765479226",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/womens-scoop-neck-100-bamboo-viscose-long-sleeve-shirt-womens-long-sleeve-spun-bamboo-951179.jpg?v=1765479225",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 16,
+    "available_variants": 1
+  },
+  "metadata": {
+    "created_at": "2025-12-11T13:53:42-05:00",
+    "ingested_at": "2026-01-30T12:29:15.436163+00:00"
+  }
+}

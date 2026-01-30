@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115895959609",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "adult-cosmic-compass-constellations-sleeveless-dress-with-pockets",
+  "title": "Adult \"Cosmic Compass\" Constellations Sleeveless Dress with Pockets",
+  "vendor": "Princess Awesome & Boy Wonder",
+  "product_type": "Adult Dresses",
+  "description": "<!--Start tab labels-->\n<ul class=\"tabs\">\n<li><a class=\"active\" href=\"#tab1\">Description</a></li>\n<li><a href=\"#tab2\">Specifications</a></li>\n</ul>\n<!--Start tab content-->\n<ul class=\"tabs-content\">\n<li class=\"active\" id=\"tab1\">\n<p>Watercolor planets glow like floating marbles in a navy blue sky splattered with stars. Zany alien spacecraft zoom past outlined constellations labeled with their Western names as shooting stars dip and soar.</p>\n<p>Made of soft 95% cotton, 5% spandex, sleeveless, with an A-line skirt and side pockets for star charts, binoculars, and the keys to your imagination.</p>\n</li>\n<li id=\"tab2\">\n<ul>\n<li>Knee-length dress with an A-line skirt</li>\n<li>Sleeveless</li>\n<li>Deep side pockets</li>\n<li>Made of 95% organic cotton, 5% spandex<br>\n</li>\n</ul>\n</li>\n</ul>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 69.0,
+    "max_price": 69.0
+  },
+  "variants": [
+    {
+      "variant_id": "45246689116217",
+      "title": "0-2",
+      "price": 69.0,
+      "available": true,
+      "sku": "336006302"
+    },
+    {
+      "variant_id": "45246689148985",
+      "title": "4-6",
+      "price": 69.0,
+      "available": true,
+      "sku": "336006304"
+    },
+    {
+      "variant_id": "45246689181753",
+      "title": "8-10",
+      "price": 69.0,
+      "available": true,
+      "sku": "336006308"
+    },
+    {
+      "variant_id": "45246689214521",
+      "title": "12-14",
+      "price": 69.0,
+      "available": true,
+      "sku": "336006312"
+    },
+    {
+      "variant_id": "45246689247289",
+      "title": "16-18",
+      "price": 69.0,
+      "available": true,
+      "sku": "336006316"
+    },
+    {
+      "variant_id": "45246689280057",
+      "title": "20-22",
+      "price": 69.0,
+      "available": true,
+      "sku": "336006320"
+    },
+    {
+      "variant_id": "45246689312825",
+      "title": "24-26",
+      "price": 69.0,
+      "available": true,
+      "sku": "336006324"
+    },
+    {
+      "variant_id": "45246689345593",
+      "title": "28-30",
+      "price": 69.0,
+      "available": true,
+      "sku": "336006328"
+    },
+    {
+      "variant_id": "45246689378361",
+      "title": "32-34",
+      "price": 69.0,
+      "available": true,
+      "sku": "336006332"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/constellations-dress-adult-03.jpg?v=1765912677",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/FebDressesandShorts-146_copy_2.jpg?v=1765459428",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/constellations-dress-adult-01.jpg?v=1765459428",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/FebDressesandShorts-145_copy_2.jpg?v=1765459428",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/FebDressesandShorts-124_copy_2.jpg?v=1765459428",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 9,
+    "available_variants": 9
+  },
+  "metadata": {
+    "created_at": "2025-12-11T08:23:46-05:00",
+    "ingested_at": "2026-01-30T12:29:15.408842+00:00"
+  }
+}

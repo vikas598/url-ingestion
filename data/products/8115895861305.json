@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115895861305",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "organic-american-made-cotton-slub-wrap-dress",
+  "title": "Organic American Made Cotton - Slub Wrap Dress",
+  "vendor": "Adventure Clothes Company",
+  "product_type": "Womens",
+  "description": "<p><br></p>\n<p>This tulip hem wrap dress is so fun to wear! The 100% cotton slub fabric is soft, cool and opaque. The waist is adjustable thanks to the interior snaps and the back tie. The full skirt comes down past the knees.</p>\n<p>100% Organic American Milled Jersey Cotton Slub</p>\n<p>Please check your measurements and choose a size according to the chart below.</p>\n<div align=\"left\" dir=\"ltr\">\n<table style=\"width: 56.5972%; height: 144px;\">\n<colgroup> <col style=\"width: 15.6642%;\"> <col style=\"width: 15.3509%;\"> <col style=\"width: 23.183%;\"> <col style=\"width: 15.6642%;\"> <col style=\"width: 19.1103%;\"> <col style=\"width: 8.45865%;\"> </colgroup>\n<tbody>\n<tr style=\"height: 35.6px;\">\n<td style=\"height: 35.6px;\"><br></td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>Small</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>Medium</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>Large</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>XLarge</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>2X</span></p>\n</td>\n</tr>\n<tr style=\"height: 35.6px;\">\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>Bust</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>35</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>38</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>41</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>44</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>48</span></p>\n</td>\n</tr>\n<tr style=\"height: 35.6px;\">\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>Waist</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>28</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>31</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>34</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>38</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>43</span></p>\n</td>\n</tr>\n<tr style=\"height: 35.6px;\">\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>Hip</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>38</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>40</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>42</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>46</span></p>\n</td>\n<td style=\"height: 35.6px;\">\n<p dir=\"ltr\"><span>50</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p> </p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 98.0,
+    "max_price": 98.0
+  },
+  "variants": [
+    {
+      "variant_id": "45246688362553",
+      "title": "Small / Dark Teal / Short",
+      "price": 98.0,
+      "available": false,
+      "sku": "sku-42017714831495"
+    },
+    {
+      "variant_id": "45246688428089",
+      "title": "Small / Cinnamon / Short",
+      "price": 98.0,
+      "available": false,
+      "sku": "sku-42017715159175"
+    },
+    {
+      "variant_id": "45246688493625",
+      "title": "Medium / Dark Teal / Short",
+      "price": 98.0,
+      "available": true,
+      "sku": "sku-42017714897031"
+    },
+    {
+      "variant_id": "45246688559161",
+      "title": "Medium / Cinnamon / Short",
+      "price": 98.0,
+      "available": true,
+      "sku": "sku-42017715552391"
+    },
+    {
+      "variant_id": "45246688624697",
+      "title": "Large / Dark Teal / Short",
+      "price": 98.0,
+      "available": false,
+      "sku": "sku-42017714962567"
+    },
+    {
+      "variant_id": "45246688690233",
+      "title": "Large / Cinnamon / Short",
+      "price": 98.0,
+      "available": true,
+      "sku": "sku-42017715945607"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/rn-image_picker_lib_temp_fa3b2165-a223-485b-aefd-4efbc90abf2b.jpg?v=1765912682",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/rn-image_picker_lib_temp_16cbd3d3-1099-40a2-9d99-30577ae772f1.jpg?v=1765459395",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/rn-image_picker_lib_temp_9f4f507d-119d-48d3-8f00-63335629f2f7.jpg?v=1765459395",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/rn-image_picker_lib_temp_67ddfb8c-5d35-449d-9a0d-87f674c7e697.jpg?v=1765459395",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/rn-image_picker_lib_temp_8f2506f6-a3dc-482c-b030-1ae3308a6a7d.jpg?v=1765459394",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/rn-image_picker_lib_temp_b32d1d06-d452-42b2-b961-8d8992ff8785.jpg?v=1765459395",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/rn-image_picker_lib_temp_234f43af-e3d2-4204-8fe6-f1ed8850916e.jpg?v=1765459394",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 6,
+    "available_variants": 3
+  },
+  "metadata": {
+    "created_at": "2025-12-11T08:23:12-05:00",
+    "ingested_at": "2026-01-30T12:29:15.527659+00:00"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8118069723193",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "olivea-hydroxytyrosol-supplement",
+  "title": "Olivea: Hydroxytyrosol Supplement",
+  "vendor": "Olivea",
+  "product_type": "Supplement",
+  "description": "<p data-start=\"277\" data-end=\"538\"><meta charset=\"utf-8\"><strong data-start=\"368\" data-end=\"421\">Transform your vascular health.<br><em>Built for longevity, backed by science.</em><br><br></strong>Each capsule delivers <strong data-start=\"446\" data-end=\"517\">20 mg hydroxytyrosol </strong>in<strong data-start=\"446\" data-end=\"517\"> high-phenolic </strong>extra virgin olive oil (EVOO) with our proprietary<strong data-start=\"527\" data-end=\"553\"> cap-in-cap</strong> design for <strong>maximum absorption.</strong></p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 40.0,
+    "max_price": 40.0
+  },
+  "variants": [
+    {
+      "variant_id": "45253026447417",
+      "title": "Jar",
+      "price": 40.0,
+      "available": true,
+      "sku": "860013802301"
+    },
+    {
+      "variant_id": "45253026480185",
+      "title": "Refill Sleeve",
+      "price": 40.0,
+      "available": true,
+      "sku": "OLI30Caps"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/oliveajar.jpg?v=1765904604",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/hydroxytyrosol_supplement.jpg?v=1765724875",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/2023_11_14-Olivea-0957.jpg?v=1765724875",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/2023_11_14-Olivea-0952_d9b83214-7c52-485a-9952-d1d24a0864e1.jpg?v=1765724875",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/2023_11_14-Olivea-0951_bb9f5da1-08b9-4fa0-9689-078f5cc8331b.jpg?v=1765724875",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/olivea_supplement_label.png?v=1765724876",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 2,
+    "available_variants": 2
+  },
+  "metadata": {
+    "created_at": "2025-12-14T10:07:53-05:00",
+    "ingested_at": "2026-01-30T12:29:15.526663+00:00"
+  }
+}

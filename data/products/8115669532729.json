@@ -1,0 +1,125 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8115669532729",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "cotton-summer-t-shirts-for-newborn-baby-boys-and-girls-baaa1111010003",
+  "title": "Cotton Summer T-Shirts for Newborn Baby Boys and Girls - # BAAA1111010003",
+  "vendor": "Yo KIDZ LLC",
+  "product_type": "Baby & Toddler clothing",
+  "description": "<p>Welcome your little one in style with our adorable <strong>Cotton Baby T-Shirts</strong>, designed specifically for newborns and toddlers aged 0-3 months. Crafted from soft, breathable <strong>cotton</strong>, these tops are perfect for keeping your baby comfortable during the <strong>spring</strong>, <strong>summer</strong>, <strong>autumn</strong>, and <strong>winter</strong> months. The simple yet charming design makes these shirts a versatile addition to your baby's wardrobe.</p>\n<p>Available in an array of delightful colors such as <strong>Green</strong>, <strong>Pink</strong>, <strong>White</strong>, and <strong>Yellow</strong>, you can choose the perfect hue to match your baby's personality. Each shirt comes in two different sizes, <strong>52 cm</strong> and <strong>59 cm</strong>, ensuring a snug fit as your baby grows.</p>\n<p>Don't miss out on the chance to dress your baby in these stylish and practical tops! Check out the images below to see how these cute shirts can brighten up your baby's outfit:</p>\n<p style=\"text-align: left; margin: 0;\">With a lightweight design of only <strong>0.138 kg</strong>, these tops are not only stylish but also practical for everyday wear. Make the perfect choice for your baby’s summer wardrobe and enjoy the compliments that come your way!</p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 16.65,
+    "max_price": 16.65
+  },
+  "variants": [
+    {
+      "variant_id": "45245666394169",
+      "title": "Pink / 52cm",
+      "price": 16.65,
+      "available": true,
+      "sku": "1775114234038829058"
+    },
+    {
+      "variant_id": "45245666426937",
+      "title": "Pink / 59cm",
+      "price": 16.65,
+      "available": true,
+      "sku": "1775114234038829059"
+    },
+    {
+      "variant_id": "45245666459705",
+      "title": "White / 52cm",
+      "price": 16.65,
+      "available": true,
+      "sku": "1775114234038829060"
+    },
+    {
+      "variant_id": "45245666492473",
+      "title": "White / 59cm",
+      "price": 16.65,
+      "available": true,
+      "sku": "1775114234038829061"
+    },
+    {
+      "variant_id": "45245666525241",
+      "title": "Green / 52cm",
+      "price": 16.65,
+      "available": true,
+      "sku": "1775114234038829056"
+    },
+    {
+      "variant_id": "45245666558009",
+      "title": "Green / 59cm",
+      "price": 16.65,
+      "available": true,
+      "sku": "1775114234038829057"
+    },
+    {
+      "variant_id": "45245666590777",
+      "title": "Yellow / 52cm",
+      "price": 16.65,
+      "available": true,
+      "sku": "1775114234038829062"
+    },
+    {
+      "variant_id": "45245666623545",
+      "title": "Yellow / 59cm",
+      "price": 16.65,
+      "available": true,
+      "sku": "1775114234038829063"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Rpu1F2TiX4d02tsd.webp?v=1765913844",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/1IB6xKyM8dXOjk5v.webp?v=1765436250",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/L3yhc6GZbsqFs0SR.webp?v=1765436250",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/UsCuwHxl5ods2OsJ.webp?v=1765436250",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/cQUCs6cFDAtMYbmM.webp?v=1765436250",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/5GmH3JTJpcylbEcx.webp?v=1765436250",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/hdQflgRuzssvvZOJ.webp?v=1765436250",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/nC1sezG4W731JjJq.webp?v=1765436250",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/emAA8JRpeJF43qaF.webp?v=1765436250",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/kaUUF01MgewQVeoZ.webp?v=1765436250",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 8,
+    "available_variants": 8
+  },
+  "metadata": {
+    "created_at": "2025-12-11T01:57:27-05:00",
+    "ingested_at": "2026-01-30T12:29:15.440628+00:00"
+  }
+}

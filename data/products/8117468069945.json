@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8117468069945",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "senneterre-natural-jute-rug",
+  "title": "Senneterre Natural Jute Rug",
+  "vendor": "Boutique Rugs",
+  "product_type": "Rugs",
+  "description": "<table id=\"product_description_table\"><tbody> <tr><td>\n<b>About:</b>  Enhance your home with the earthy elegance of this handmade jute rug. Its natural jute color embodies organic beauty, while thick end tassels add a unique, bohemian flair. Durable and eco-friendly, this rug is perfect for those who appreciate natural fibers and handcrafted quality. Its neutral tone and texture complement any decor, making it a versatile choice for any room.<br>\n</td></tr> <tr><td>\n<b>Brand:</b>  Hauteloom<br>\n</td></tr> <tr><td>\n<b>Collection:</b>  Moncton<br>\n</td></tr> <tr><td>\n<b>Colors:</b>  Light Brown<br>\n</td></tr> <tr><td>\n<b>Construction:</b>  Hand Woven<br>\n</td></tr> <tr><td>\n<b>Material:</b>  100% Jute<br>\n</td></tr> <tr><td>\n<b>Pile:</b>  Medium Pile<br>\n</td></tr> <tr><td>\n<b>Pile Height:</b>  0.5\"<br>\n</td></tr> <tr><td>\n<b>Styles:</b>  Transitional,Traditional<br>\n</td></tr> <tr><td>\n<b>Made In:</b>  India<br>\n</td></tr> <tr><td>\n<b>Thickness:</b>  0.5\"<br>\n</td></tr> <tr><td>\n<b>Fringe Length:</b>  4\"<br>\n</td></tr> <tr><td>\n<b>Price Range:</b>  <span><span id=\"desc_price_range\" price_value=\"2\"><b>$$</b><span class=\"gray\">$$$</span></span> (<a href=\"/collections/affordable-rugs\">Affordable</a>)</span><br>\n</td></tr>\n</tbody></table>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 59.0,
+    "max_price": 799.0
+  },
+  "variants": [
+    {
+      "variant_id": "45251511091257",
+      "title": "2' x 3' Rectangle",
+      "price": 59.0,
+      "available": true,
+      "sku": "MONCT-23"
+    },
+    {
+      "variant_id": "45251511124025",
+      "title": "3' x 5' Rectangle",
+      "price": 89.0,
+      "available": true,
+      "sku": "MONCT-35"
+    },
+    {
+      "variant_id": "45251511156793",
+      "title": "4' x 6' Rectangle",
+      "price": 149.0,
+      "available": true,
+      "sku": "MONCT-46"
+    },
+    {
+      "variant_id": "45251511189561",
+      "title": "5' x 7'6\" Rectangle",
+      "price": 189.0,
+      "available": true,
+      "sku": "MONCT-576"
+    },
+    {
+      "variant_id": "45251511222329",
+      "title": "6' x 9' Rectangle",
+      "price": 239.0,
+      "available": true,
+      "sku": "MONCT-69"
+    },
+    {
+      "variant_id": "45251511255097",
+      "title": "* 7'6\" x 9'6\" Rectangle",
+      "price": 279.0,
+      "available": true,
+      "sku": "MONCT-7696"
+    },
+    {
+      "variant_id": "45251511287865",
+      "title": "7'6\" x 10'6\" Rectangle",
+      "price": 319.0,
+      "available": true,
+      "sku": "MONCT-76106"
+    },
+    {
+      "variant_id": "45251511320633",
+      "title": "2'6\" x 8' Runner",
+      "price": 99.0,
+      "available": false,
+      "sku": "MONCT-268"
+    },
+    {
+      "variant_id": "45251511353401",
+      "title": "8'6\" x 11'6\" Rectangle",
+      "price": 399.0,
+      "available": true,
+      "sku": "MONCT-86116"
+    },
+    {
+      "variant_id": "45251511386169",
+      "title": "* 9'6\" x 12'6\" Rectangle",
+      "price": 459.0,
+      "available": true,
+      "sku": "MONCT-96126"
+    },
+    {
+      "variant_id": "45251511418937",
+      "title": "9'6\" x 13'6\" Rectangle",
+      "price": 479.0,
+      "available": true,
+      "sku": "MONCT-96136"
+    },
+    {
+      "variant_id": "45251511451705",
+      "title": "2'6\" x 10' Runner",
+      "price": 139.0,
+      "available": true,
+      "sku": "MONCT-2610"
+    },
+    {
+      "variant_id": "45251511484473",
+      "title": "2'6\" x 12' Runner",
+      "price": 149.0,
+      "available": true,
+      "sku": "MONCT-2612"
+    },
+    {
+      "variant_id": "45251511517241",
+      "title": "12' x 15' Rectangle",
+      "price": 799.0,
+      "available": true,
+      "sku": "MONCT-1215"
+    },
+    {
+      "variant_id": "45251511550009",
+      "title": "2'6\" x 14' Runner",
+      "price": 169.0,
+      "available": true,
+      "sku": "MONCT-2614"
+    },
+    {
+      "variant_id": "45251511582777",
+      "title": "2'6\" x 16' Runner",
+      "price": 189.0,
+      "available": true,
+      "sku": "MONCT-2616"
+    },
+    {
+      "variant_id": "45251511615545",
+      "title": "2'6\" x 18' Runner",
+      "price": 239.0,
+      "available": true,
+      "sku": "MONCT-2618"
+    },
+    {
+      "variant_id": "45251511648313",
+      "title": "2'6\" x 20' Runner",
+      "price": 219.0,
+      "available": true,
+      "sku": "MONCT-2620"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/idesign.homes-MONCTon-1.jpg?v=1765646321",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MONCT_design_rct_576_studio.jpg?v=1765646321",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MONCT_roomscene1_rct_576_studio.jpg?v=1765646321",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MONCT_roomscene_rct_0_calhounstudio.jpg?v=1765646321",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MONCT_fold1_rct_576_studio.jpg?v=1765646321",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MONCT_fold4_rct_576_studio.jpg?v=1765646321",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MONCT_fold2_rct_576_studio.jpg?v=1765646321",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MONCT_corner_rct_576_studio_236cf620-a6f6-4d3b-9670-e4e88e887bc4.jpg?v=1765646321",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MONCT_pile_rct_576_studio.jpg?v=1765646321",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MONCT_styleshot_rct_576_studio.jpg?v=1765646321",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MONCT_fold5_rct_576_studio.jpg?v=1765646321",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MONCT_fold6_rct_576_studio.jpg?v=1765646321",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MONCT_texture_rct_576_studio.jpg?v=1765646321",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MONCT_roomscene2_rct_576_studio.jpg?v=1765646321",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MONCT_roomscene1_rct_0_calhounstudio.jpg?v=1765646321",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MONCT_fold3_rct_576_studio.jpg?v=1765646321",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MONCT_fold3_rct_0_calhounstudio_01df6c59-76c4-4d5c-b003-5fb29d00f64e.jpg?v=1765646321",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MONCT_roomscene3_rct_0_calhounstudio.jpg?v=1765646321",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/MONCT_styleshot_rct_0_calhounstudio.jpg?v=1765646321",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 18,
+    "available_variants": 17
+  },
+  "metadata": {
+    "created_at": "2025-12-13T12:18:39-05:00",
+    "ingested_at": "2026-01-30T12:29:15.548540+00:00"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "product_id": "8123190378553",
+  "source": "shopify",
+  "source_url": "https://goodfair1.myshopify.com",
+  "handle": "eucalyptus-mint-fearless-affirmation-candle-17-5-oz",
+  "title": "Eucalyptus Mint \"Fearless\" Affirmation Candle - 17.5 oz",
+  "vendor": "Affirmation Effect",
+  "product_type": "Candles",
+  "description": "<p><span>Experience the empowering fragrance of the\" Fearless\" Eucalyptus Mint Affirmation Candle, designed to inspire <strong>fearlessness</strong>. The top notes of refreshing eucalyptus and invigorating peppermint combine to uplift and energize your senses. A touch of cedar in the middle provides a grounding effect, while the base notes of patchouli and vanilla create a warm, soothing aroma. Made with coconut wax for a clean, vegan, and pet-friendly burn, this 17.5 oz candle comes in a reusable clear jar with two flat braided cotton wicks that are lead and zinc-free. Enjoy up to 60 hours of burn time with this high-quality candle, perfect for a refreshing and rejuvenating aromatherapy experience.</span></p>\n<ul></ul>\n<p>✨ <strong>Burn Time:</strong> 60+ hours<br>✨ <strong>Weight:</strong> 17.5 oz<br>✨ <strong>Vegan &amp; Clean-Burning</strong><br>✨ <strong>Cotton Wicks:</strong> 2<br>📦 <strong>Shipping:</strong> Nationwide delivery in 3-5 business days!</p>",
+  "pricing": {
+    "currency": "INR",
+    "min_price": 32.99,
+    "max_price": 32.99
+  },
+  "variants": [
+    {
+      "variant_id": "45267503939641",
+      "title": "Default Title",
+      "price": 32.99,
+      "available": true,
+      "sku": "PEUCA0045S"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Eucalytpus_Mint_Candle_Coconut_Wax.jpg?v=1766180549",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Eucalytpus_and_Mint_Wax_melt_and_candle_coconut_wax.jpg?v=1766180549",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Large_Eucalyptus_Mint_Candle.jpg?v=1766180549",
+      "alt_text": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0077/1745/3881/files/Eucalyptus_and_Mint_Wax_Melt_Coconut_Wax_8135328f-a20b-42d6-a971-6cc93782f338.jpg?v=1766180550",
+      "alt_text": null
+    }
+  ],
+  "availability": {
+    "in_stock": true,
+    "total_variants": 1,
+    "available_variants": 1
+  },
+  "metadata": {
+    "created_at": "2025-12-19T16:42:27-05:00",
+    "ingested_at": "2026-01-30T12:29:15.461051+00:00"
+  }
+}
