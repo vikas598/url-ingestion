@@ -3,6 +3,14 @@ from app.core.exceptions import APIException
 
 
 def process_shopify_product(raw_data: dict, source_url: str) -> dict:
+    """
+    Normalize a single Shopify product JSON into internal schema.
+    NOTE:
+    - This function is PURE.
+    - No HTML fetching.
+    - No currency inference.
+    - Enrichment happens AFTER this step.
+    """
     try:
         product = raw_data["product"]
 
@@ -10,7 +18,7 @@ def process_shopify_product(raw_data: dict, source_url: str) -> dict:
         prices = []
 
         for v in product.get("variants", []):
-            price = (float(v["price"]))
+            price = float(v.get("price", 0))
             prices.append(price)
 
             variants.append({
@@ -40,23 +48,28 @@ def process_shopify_product(raw_data: dict, source_url: str) -> dict:
             "vendor": product.get("vendor"),
             "product_type": product.get("product_type"),
             "description": product.get("body_html", ""),
+
+            # currency intentionally left empty
             "pricing": {
-                "currency": product.get("variants", [{}])[0].get("currency", "INR"),
+                "currency": None,
                 "min_price": min(prices) if prices else None,
                 "max_price": max(prices) if prices else None
             },
+
             "variants": variants,
             "images": images,
+
             "availability": {
                 "in_stock": any(v["available"] for v in variants),
                 "total_variants": len(variants),
                 "available_variants": sum(1 for v in variants if v["available"])
             },
+
             "metadata": {
                 "created_at": product.get("created_at"),
                 "ingested_at": now
             }
         }
 
-    except Exception:
-        raise APIException("PROCESSING_ERROR")
+    except Exception as exc:
+        raise APIException("PROCESSING_ERROR") from exc

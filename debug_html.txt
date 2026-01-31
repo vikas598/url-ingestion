@@ -1,0 +1,56 @@
+--- Element 0 ---
+<div class="variant-option">
+ <input checked="" class="variant-input custom-variant-radio" data-variant-available="true" data-variant-compare-price="37000" data-variant-formatted-compare-price="Rs. 370.00" data-variant-formatted-price="Rs. 370.00" data-variant-id="45297908875420" data-variant-option-value="Pack of 1" data-variant-price="37000" data-variant-sku="MWOUTC800G-1" data-variant-title="Pack of 1" id="custom-variant-45297908875420" name="custom_variant_selector" type="radio" value="45297908875420"/>
+ <label class="variant-label" for="custom-variant-45297908875420">
+  <div class="variant-left">
+   <div class="radio-circle">
+   </div>
+   <div class="variant-info">
+    <h3>
+     Pack of 1
+    </h3>
+    <p>
+     Standard price
+    </p>
+   </div>
+  </div>
+  <div class="variant-right">
+   <div class="current-price">
+    Rs. 370.00
+   </div>
+  </div>
+ </label>
+</div>
+
+
+--- Element 1 ---
+<div class="variant-option">
+ <input class="variant-input custom-variant-radio" data-variant-available="true" data-variant-compare-price="74000" data-variant-formatted-compare-price="Rs. 740.00" data-variant-formatted-price="Rs. 666.00" data-variant-id="45297908908188" data-variant-option-value="Pack of 2" data-variant-price="66600" data-variant-sku="MWOUT1600G" data-variant-title="Pack of 2" id="custom-variant-45297908908188" name="custom_variant_selector" type="radio" value="45297908908188"/>
+ <label class="variant-label savings-option" for="custom-variant-45297908908188">
+  <div class="recommended-badge">
+   Recommended
+  </div>
+  <div class="variant-left">
+   <div class="radio-circle">
+   </div>
+   <div class="variant-info">
+    <h3>
+     Pack of 2
+    </h3>
+    <p class="savings-info">
+     You save 10%
+    </p>
+   </div>
+  </div>
+  <div class="variant-right">
+   <div class="current-price">
+    Rs. 666.00
+   </div>
+   <div class="original-price">
+    Rs. 740.00
+   </div>
+  </div>
+ </label>
+</div>
+
+
