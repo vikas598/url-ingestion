@@ -1,19 +1,41 @@
 import time
 import requests
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin, urlparse, urlunparse
 from bs4 import BeautifulSoup
+from typing import Set, Dict
+
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (MillexCrawler/1.0)"
+}
+
+REQUEST_DELAY = 0.5  # seconds
+TIMEOUT = 10
 
 
 class MillexCrawler:
+    """
+    Site crawler for millex.in
+
+    Responsibilities:
+    - Discover URLs
+    - Classify pages (collections, products, static)
+    - NO scraping logic
+    - NO UI validation
+    """
+
     def __init__(self, base_url: str, max_depth: int = 3):
         self.base_url = base_url.rstrip("/")
-        self.domain = urlparse(base_url).netloc
+        parsed = urlparse(self.base_url)
+
+        self.scheme = parsed.scheme
+        self.domain = parsed.netloc
         self.max_depth = max_depth
 
-        self.visited = set()
-        self.queue = [(self.base_url, 0)]
+        self.visited: Set[str] = set()
+        self.queue: list[tuple[str, int]] = [(self.base_url, 0)]
 
-        self.discovered = {
+        self.discovered: Dict[str, Set[str]] = {
             "homepage": set(),
             "collections": set(),
             "products": set(),
@@ -25,6 +47,8 @@ class MillexCrawler:
             "errors": 0,
         }
 
+    # ---------------- public ---------------- #
+
     def crawl(self) -> dict:
         while self.queue:
             url, depth = self.queue.pop(0)
@@ -32,7 +56,7 @@ class MillexCrawler:
             if url in self.visited:
                 continue
 
-            # allow deep product pages, limit others
+            # limit crawl depth (except products)
             if depth > self.max_depth and "/products/" not in url:
                 continue
 
@@ -45,8 +69,7 @@ class MillexCrawler:
             page_type = self._classify_url(url)
             self._store_url(page_type, url)
 
-            links = self._extract_links(html, url)
-            for link in links:
+            for link in self._extract_links(html, url):
                 if link not in self.visited:
                     self.queue.append((link, depth + 1))
 
@@ -55,20 +78,22 @@ class MillexCrawler:
             "stats": self.stats,
         }
 
+    # ---------------- internal ---------------- #
+
     def _fetch_html(self, url: str) -> str | None:
         try:
-            time.sleep(0.5)  # rate limiting (MANDATORY)
-            response = requests.get(url, timeout=10)
-            response.raise_for_status()
+            time.sleep(REQUEST_DELAY)
+            r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+            r.raise_for_status()
             self.stats["pages_fetched"] += 1
-            return response.text
+            return r.text
         except Exception:
             self.stats["errors"] += 1
             return None
 
-    def _extract_links(self, html: str, base_url: str) -> set[str]:
+    def _extract_links(self, html: str, base_url: str) -> Set[str]:
         soup = BeautifulSoup(html, "html.parser")
-        links = set()
+        links: Set[str] = set()
 
         for a in soup.find_all("a", href=True):
             href = a["href"].strip()
@@ -78,37 +103,77 @@ class MillexCrawler:
                 continue
 
             abs_url = urljoin(base_url, href)
-            parsed = urlparse(abs_url)
+            normalized = self._normalize_url(abs_url)
 
-            # same domain only
-            if parsed.netloc != self.domain:
+            if not normalized:
                 continue
 
-            # allow pagination queries only
-            query = parsed.query if "page=" in parsed.query else ""
-
-            clean_url = f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
-            if query:
-                clean_url += f"?{query}"
-
-            links.add(clean_url.rstrip("/"))
+            links.add(normalized)
 
         return links
+
+    def _normalize_url(self, url: str) -> str | None:
+        """
+        Normalize URLs:
+        - same domain only
+        - keep pagination (?page=)
+        - drop fragments and junk queries
+        """
+        parsed = urlparse(url)
+
+        if parsed.netloc != self.domain:
+            return None
+
+        query = ""
+        if parsed.query.startswith("page="):
+            query = parsed.query
+
+        clean = urlunparse((
+            self.scheme,
+            self.domain,
+            parsed.path.rstrip("/"),
+            "",
+            query,
+            ""
+        ))
+
+        return clean
 
     def _classify_url(self, url: str) -> str:
         path = urlparse(url).path
 
-        if path in ("", "/", "/index.php"):
+        if path in ("", "/"):
             return "homepage"
-        if "/products/" in path:
+        if path.startswith("/products/"):
             return "products"
-        if "/collections/" in path:
+        if path.startswith("/collections/"):
             return "collections"
-        if "/pages/" in path:
+        if path.startswith("/pages/"):
             return "static_pages"
 
         return "ignore"
 
-    def _store_url(self, page_type: str, url: str):
+    def _store_url(self, page_type: str, url: str) -> None:
         if page_type in self.discovered:
             self.discovered[page_type].add(url)
+
+
+# ---------------- manual test ---------------- #
+
+if __name__ == "__main__":
+    crawler = MillexCrawler(
+        base_url="https://millex.in",
+        max_depth=3
+    )
+
+    result = crawler.crawl()
+
+    print("\n--- CRAWLER STATS ---")
+    print(result["stats"])
+
+    print("\n--- COLLECTIONS ---")
+    for u in sorted(result["discovered"]["collections"]):
+        print(u)
+
+    print("\n--- PRODUCTS (count only) ---")
+    print(len(result["discovered"]["products"]))

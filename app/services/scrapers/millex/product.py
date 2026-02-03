@@ -25,7 +25,7 @@ def scrape_millex_product(product_url: str) -> Dict[str, Any]:
     title = _extract_title(soup)
     description = _extract_description(soup)
     images = _extract_images(soup)
-    price = _extract_price(html, soup)
+    price_info = _extract_price(html, soup)
     availability = _extract_availability(soup)
 
     domain = urlparse(product_url).netloc
@@ -34,16 +34,21 @@ def scrape_millex_product(product_url: str) -> Dict[str, Any]:
     # ✅ SSR-safe variant extraction
     variants = extract_variants(soup)
 
-    return {
+    result = {
         "url": product_url,
         "title": title,
-        "price": price,
         "currency": currency,
         "description_html": description,
         "images": images,
         "availability": availability,
         "variants": variants,
     }
+    
+    # Add price fields based on what was extracted
+    if price_info:
+        result.update(price_info)
+    
+    return result
 
 
 # ---------------- helpers ---------------- #
@@ -78,20 +83,77 @@ def _extract_images(soup: BeautifulSoup) -> list[str]:
     return list(set(images))
 
 
-def _extract_price(html: str, soup: BeautifulSoup) -> float | None:
+def _extract_price(html: str, soup: BeautifulSoup) -> Dict[str, float] | None:
+    """
+    Extract price information from product page.
+    Returns dict with either:
+    - {'price': float} for regular price
+    - {'original_price': float, 'current_price': float} for sale price
+    """
+    
+    # First try LD+JSON for structured data
     product_json = _extract_from_ld_json(html)
-    price = _extract_price_from_js(product_json)
-    if price is not None:
-        return price
+    price_from_json = _extract_price_from_js(product_json)
+    
+    # Check if product has a sale price in HTML
+    price_sale_el = soup.select_one("div.price__sale")
+    
+    if price_sale_el:
+        # Product is on sale - extract both original and current price
+        original_price = None
+        current_price = None
+        
+        # Original price is in <s> tag (strikethrough)
+        compare_el = price_sale_el.select_one("s.price-item--regular")
+        if compare_el:
+            original_price = _parse_price_text(compare_el.get_text(strip=True))
+        
+        # Current/sale price is in span.price-item--sale
+        sale_el = price_sale_el.select_one("span.price-item--sale")
+        if sale_el:
+            current_price = _parse_price_text(sale_el.get_text(strip=True))
+        
+        # Return sale pricing if we got both values
+        if original_price and current_price and original_price > current_price:
+            return {
+                "original_price": original_price,
+                "current_price": current_price
+            }
+    
+    # Not on sale - try to get regular price
+    if price_from_json is not None:
+        return {"price": price_from_json}
+    
+    # Fallback to HTML extraction
+    price_regular_el = soup.select_one("div.price__regular")
+    if price_regular_el:
+        price_item = price_regular_el.select_one("span.price-item")
+        if price_item:
+            price = _parse_price_text(price_item.get_text(strip=True))
+            if price:
+                return {"price": price}
+    
+    return None
 
-    price_el = soup.select_one("div.price__regular")
-    if not price_el:
+
+def _parse_price_text(text: str) -> float | None:
+    """
+    Extract numeric price from text like 'Rs. 399.00' or '₹249.00'
+    """
+    if not text:
         return None
-
+    
     try:
-        return float(re.sub(r"[^\d.]", "", price_el.get_text()))
-    except ValueError:
-        return None
+        # Strategy: find all sequences of digits with optional decimal point
+        # This handles cases like "Rs. 249.00" or "Rs.249.00" or "249.00"
+        # Match one or more digits, optionally followed by a decimal point and more digits
+        match = re.search(r'(\d+(?:\.\d+)?)', text)
+        if match:
+            return float(match.group(1))
+    except (ValueError, AttributeError):
+        pass
+    
+    return None
 
 
 def _extract_from_ld_json(html: str) -> list[Dict[str, Any]] | None:
@@ -114,11 +176,28 @@ def _extract_price_from_js(json_data: list[Dict[str, Any]] | None) -> float | No
     for item in json_data:
         if item.get("@type") == "Product":
             offers = item.get("offers")
+            
+            # Handle single offer (dict)
             if isinstance(offers, dict):
                 try:
                     return float(offers.get("price"))
-                except Exception:
+                except (TypeError, ValueError):
                     pass
+            
+            # Handle multiple offers (list) - take the first/lowest price
+            elif isinstance(offers, list) and len(offers) > 0:
+                try:
+                    # Get prices from all offers and return the minimum
+                    prices = []
+                    for offer in offers:
+                        if isinstance(offer, dict) and "price" in offer:
+                            prices.append(float(offer["price"]))
+                    
+                    if prices:
+                        return min(prices)
+                except (TypeError, ValueError):
+                    pass
+    
     return None
 
 
