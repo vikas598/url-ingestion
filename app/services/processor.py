@@ -123,10 +123,20 @@ def process_millex_product(raw_data: dict) -> dict:
         
         now = datetime.now(timezone.utc).isoformat()
         
+        # Extract product_id from URL
+        url = raw_data.get("url", "")
+        product_id = ""
+        if url:
+            # Remove query parameters
+            url_clean = url.split('?')[0]
+            # Extract last segment
+            product_id = url_clean.rstrip('/').split('/')[-1]
+
         return {
             "schema_version": "1.0",
             "source": "millex",
-            "source_url": raw_data.get("url"),
+            "product_id": product_id,  # Added product_id
+            "source_url": url,
             
             "title": raw_data.get("title"),
             "description": description_clean,

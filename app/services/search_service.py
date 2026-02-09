@@ -14,19 +14,25 @@ META_PATH = VECTOR_STORE / "products_meta.json"
 _index = None
 _metadata = []
 
-def load_resources():
-    """Loads the FAISS index and metadata if not already loaded."""
+def load_resources(force: bool = False):
+    """Loads the FAISS index and metadata if not already loaded or if force=True."""
     global _index, _metadata
-    if _index is None:
+    if _index is None or force:
         if not INDEX_PATH.exists() or not META_PATH.exists():
-            raise FileNotFoundError("Vector store not found. Run embed_products.py first.")
+            # If files don't exist, we can't load them.
+            # But we shouldn't crash on import/startup if they are missing.
+            print("Vector store not found. Waiting for first scrape...")
+            return
         
-        _index = faiss.read_index(str(INDEX_PATH))
-        
-        with open(META_PATH, "r", encoding="utf-8") as f:
-            _metadata = json.load(f)
+        try:
+            _index = faiss.read_index(str(INDEX_PATH))
             
-        print(f"✅ Loaded index with {_index.ntotal} vectors and {len(_metadata)} products.")
+            with open(META_PATH, "r", encoding="utf-8") as f:
+                _metadata = json.load(f)
+                
+            print(f"✅ Loaded index with {_index.ntotal} vectors and {len(_metadata)} products.")
+        except Exception as e:
+            print(f"Error loading vector store: {e}")
 
 def search_products(query: str, k: int = 3):
     """
@@ -47,8 +53,11 @@ def search_products(query: str, k: int = 3):
     for i, idx in enumerate(indices[0]):
         if idx != -1 and idx < len(_metadata):
             product = _metadata[idx]
-            # Add distance/score if needed, but for now just return the product
-            # Faiss L2 distance: lower is better (0 is identical)
-            results.append(product)
+            # Return only requested fields
+            filtered_product = {
+                "title": product.get("title", ""),
+                "source_url": product.get("source_url", "")
+            }
+            results.append(filtered_product)
             
     return results

@@ -18,5 +18,6 @@ def embed_texts(texts):
 
     return _model.encode(
         texts,
-        convert_to_numpy=True
+        convert_to_numpy=True,
+        normalize_embeddings=True
     )
