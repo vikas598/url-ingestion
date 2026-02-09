@@ -5,6 +5,7 @@ from fastapi.responses import JSONResponse
 from app.api.product import router as product_router
 from app.api import shopify
 from app.api import millex
+from app.api import search
 
 from app.core.errors import ERRORS
 from app.core.exceptions import APIException
@@ -38,6 +39,9 @@ async def api_exception_handler(request: Request, exc: APIException):
         }
     )
 
+
+
+app.include_router(search.router, prefix="/api/v1")
 
 app.include_router(product_router, prefix="/api/v1")
 
