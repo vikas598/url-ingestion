@@ -7,6 +7,7 @@ A robust FastAPI-based service designed to scrape, ingest, and process product d
 - **Millex Scraper**: Specialized scraper for Millex products, collections, and homepage.
 - **Shopify Integration**: Ingests product data from Shopify stores via JSON endpoints.
 - **Data Processing**: Normalizes data into a unified schema (cleaning HTML, standardizing variants/prices).
+- **Product Search & Recommendation**: Semantic search capabilities using FAISS vector database to find relevant products based on natural language queries.
 - **File Storage**: Saves both raw and processed data in organized JSON files.
 - **REST API**: Clean functionality exposed via FastAPI endpoints.
 
@@ -52,6 +53,15 @@ Open your browser and navigate to:
 - **Swagger UI**: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 - **ReDoc**: [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
 
+### Recommender System
+To enable semantic search, you need to generate embeddings for the processed products. Run the following command:
+
+```bash
+python -m app.services.recommender_system.embed_products
+```
+
+This will ingest processed products, generate embeddings using a pre-trained model, and build a FAISS index in `app/services/recommender_system/vector_store/`.
+
 ## 📡 API Endpoints
 
 ### Millex Endpoints (`/api/v1/millex`)
@@ -74,6 +84,12 @@ Open your browser and navigate to:
 |--------|----------|-------------|-----------------|
 | POST | `/` | General product ingestion (redirects to specific handlers). | `{"url": "..."}` |
 
+### Search & Recommendation (`/api/v1`)
+
+| Method | Endpoint | Description | Payload Example |
+|--------|----------|-------------|-----------------|
+| POST | `/search` | Semantic search for products. | `{"query": "summer dress"}` |
+
 ## 📂 Project Structure & Functionality
 
 ```
@@ -87,14 +103,16 @@ millex/
 │   ├── models/              # Pydantic models for request validation
 │   ├── services/            # Business Logic & Core Services
 │   │   ├── scrapers/        # Scraper implementations (Millex vs Shopify)
+│   │   ├── recommender_system/ # Search & Embedding logic
+│   │   │   ├── embed_products.py # Script to generate FAISS index
+│   │   │   ├── search_service.py # Search logic using FAISS
+│   │   │   └── vector_store/    # Generated FAISS index & metadata
 │   │   ├── processor.py     # Data cleaning & normalization logic
 │   │   ├── storage.py       # functionality to save JSON files locally
 │   │   └── url_handler.py   # URL parsing and validation helpers
 │   └── main.py              # Application entry point & app configuration
 ├── data/                    # Generated Data
-│   ├── products/            # Raw scraped data
-│   └── processed/           # Cleaned and normalized data
-├── requirement.txt          # Python dependencies
+├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
 ```
 

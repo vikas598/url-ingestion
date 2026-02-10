@@ -1,0 +1,10 @@
+{
+  "budget": null,
+  "category": "breakfast",
+  "preferences": [
+    "healthy"
+  ],
+  "intent": "recommendation",
+  "last_products": [],
+  "last_updated": 1770722260.646072
+}

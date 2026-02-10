@@ -1,8 +1,8 @@
 import json
 import shutil
 from pathlib import Path
-from app.services.embed_products import generate_product_embeddings
-from app.services.search_service import load_resources
+from app.services.recommender_system.embed_products import generate_product_embeddings
+from app.services.recommender_system.search_service import load_resources
 
 # Setup paths
 BASE_DIR = Path(__file__).resolve().parent

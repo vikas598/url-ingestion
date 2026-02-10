@@ -1,0 +1,17 @@
+{
+  "budget": null,
+  "category": "baby food",
+  "preferences": [
+    "healthy",
+    "nutritious"
+  ],
+  "intent": "recommendation",
+  "last_products": [
+    "MotherRoot | Fruits & Nuts (400 G)",
+    "MotherRoot | Carrot & Almond (400 G)",
+    "MotherRoot | Fruits & Nuts - Pack of 2 (Total 800g - each 400g)",
+    "MotherRoot | Carrot & Almond- Pack of 2 (Total 800g - each 400g)",
+    "MotherRoot | Banana & sprouts - Pack of 2 (Total 800g - each 400g)"
+  ],
+  "last_updated": 1770728528.1737568
+}

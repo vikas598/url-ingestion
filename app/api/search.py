@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 from pydantic import BaseModel
-from app.services.search_service import search_products
+from app.services.recommender_system.search_service import search_products
 
 router = APIRouter()
 

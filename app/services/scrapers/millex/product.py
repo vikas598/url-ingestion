@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from typing import Dict, Any
 from urllib.parse import urlparse
 
-from app.services.scrapers.shopify.html.currency import extract_store_currency
+from app.services.scrapers.millex.utils import extract_store_currency
 
 
 HEADERS = {

@@ -6,8 +6,8 @@ from app.services.scrapers.millex.product import scrape_millex_product
 from app.services.storage import store_product_data, store_products, store_collection
 from app.services.storage import store_processed_product, store_processed_collection
 from app.services.processor import process_millex_product
-from app.services.embed_products import generate_product_embeddings
-from app.services.search_service import load_resources
+from app.services.recommender_system.embed_products import generate_product_embeddings
+from app.services.recommender_system.search_service import load_resources
 
 router = APIRouter(prefix="/millex", tags=["Millex"])
 
@@ -111,6 +111,19 @@ def scrape_product(payload: MillexProductRequest, request: Request):
         )
     
     try:
+        # Check if product already exists
+        from app.services.dedup import is_product_already_scraped, get_product_file_path
+        
+        if is_product_already_scraped(url_str):
+            existing_file = get_product_file_path(url_str)
+            return {
+                "status": "skipped",
+                "reason": "Product already scraped",
+                "url": url_str,
+                "existing_file": existing_file,
+                "request_id": request.state.request_id
+            }
+        
         # Scrape product
         product_data = scrape_millex_product(url_str)
         

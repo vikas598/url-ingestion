@@ -3,7 +3,7 @@ from pathlib import Path
 from typing import List, Dict
 
 # Get the absolute path to the data directory
-BASE_DIR = Path(__file__).resolve().parent.parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent.parent.parent
 PROCESSED_DIR = BASE_DIR / "data/processed"
 
 def load_all_processed_products() -> List[Dict]:
@@ -16,6 +16,7 @@ def load_all_processed_products() -> List[Dict]:
         return []
 
     json_files = list(PROCESSED_DIR.glob("*.json"))
+    
     if not json_files:
         print(f"Warning: No JSON files found in {PROCESSED_DIR}")
         return []
@@ -35,13 +36,14 @@ def load_all_processed_products() -> List[Dict]:
                 products_list = []
                 if isinstance(data, list):
                     products_list = data
-                elif isinstance(data, dict):
-                    products_list = data.get("products", [])
+                elif isinstance(data, dict) and "products" in data:
+                    products_list = data["products"]
                 
                 for p in products_list:
+                    if not isinstance(p, dict):
+                        continue
                     # Use source_url or a unique ID as key for deduplication
-                    # Prefer product_id, fallback to source_url
-                    unique_key = p.get("product_id") or p.get("source_url") or p.get("url")
+                    unique_key = p.get("product_id") or p.get("source_url") or p.get("url") or p.get("title")
                     
                     if unique_key:
                         all_products[unique_key] = p

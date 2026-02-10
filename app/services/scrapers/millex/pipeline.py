@@ -13,18 +13,28 @@ def run_collection_pipeline(collection_url: str) -> List[Dict[str, Any]]:
     """
     Orchestrates the full Millex scraping pipeline:
     1. Discover UI-visible product URLs from collection
-    2. Scrape each product individually
+    2. Filter out already-scraped products
+    3. Scrape each new product individually
     """
+    from app.services.dedup import filter_unscraped_urls
 
     collection_data = fetch_collection_products(collection_url)
     product_urls = collection_data["product_urls"]
 
+    print(f"Discovered {len(product_urls)} products")
+    
+    # Filter out already-scraped products
+    unscraped_urls = filter_unscraped_urls(product_urls)
+    skipped_count = len(product_urls) - len(unscraped_urls)
+    
+    if skipped_count > 0:
+        print(f"Skipping {skipped_count} already-scraped products")
+    print(f"Scraping {len(unscraped_urls)} new products\n")
+
     results: List[Dict[str, Any]] = []
-    total = len(product_urls)
+    total = len(unscraped_urls)
 
-    print(f"Discovered {total} products\n")
-
-    for index, product_url in enumerate(product_urls, start=1):
+    for index, product_url in enumerate(unscraped_urls, start=1):
         try:
             print(f"[{index}/{total}] Scraping → {product_url}")
 

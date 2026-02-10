@@ -2,16 +2,16 @@ import uuid
 from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse
 
-from app.api.product import router as product_router
-from app.api import shopify
+
 from app.api import millex
 from app.api import search
+from app.api.chat import router as chat_router
 
 from app.core.errors import ERRORS
 from app.core.exceptions import APIException
 
 app = FastAPI(title="URL Ingestor", version="1.0")
-app.include_router(shopify.router)
+
 app.include_router(millex.router, prefix="/api/v1")
 
 @app.middleware("http")
@@ -42,8 +42,9 @@ async def api_exception_handler(request: Request, exc: APIException):
 
 
 app.include_router(search.router, prefix="/api/v1")
+app.include_router(chat_router, prefix="/api/v1")
 
-app.include_router(product_router, prefix="/api/v1")
+
 
 @app.get("/health")
 def health():

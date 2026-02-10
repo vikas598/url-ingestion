@@ -20,7 +20,8 @@ def scrape_homepage_products(homepage_url: str) -> List[Dict[str, Any]]:
     
     Pipeline:
     1. Extract all product URLs from homepage
-    2. Scrape each product individually
+    2. Filter out already-scraped products
+    3. Scrape each new product individually
     
     Args:
         homepage_url: URL of the homepage to scrape
@@ -28,18 +29,28 @@ def scrape_homepage_products(homepage_url: str) -> List[Dict[str, Any]]:
     Returns:
         List of scraped product data dictionaries
     """
+    from app.services.dedup import filter_unscraped_urls
+    
     # Step 1: Extract product URLs from homepage
     html = _fetch_html(homepage_url)
     soup = BeautifulSoup(html, "html.parser")
     product_urls = _extract_product_urls(soup, homepage_url)
     
-    # Step 2: Scrape each product
+    print(f"Discovered {len(product_urls)} products on homepage")
+    
+    # Step 2: Filter out already-scraped products
+    unscraped_urls = filter_unscraped_urls(product_urls)
+    skipped_count = len(product_urls) - len(unscraped_urls)
+    
+    if skipped_count > 0:
+        print(f"Skipping {skipped_count} already-scraped products")
+    print(f"Scraping {len(unscraped_urls)} new products\n")
+    
+    # Step 3: Scrape each product
     results: List[Dict[str, Any]] = []
-    total = len(product_urls)
+    total = len(unscraped_urls)
     
-    print(f"Discovered {total} products on homepage\n")
-    
-    for index, product_url in enumerate(product_urls, start=1):
+    for index, product_url in enumerate(unscraped_urls, start=1):
         try:
             print(f"[{index}/{total}] Scraping → {product_url}")
             
