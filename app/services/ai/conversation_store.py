@@ -2,7 +2,7 @@ from pathlib import Path
 import json
 import time
 
-SESSION_TIMEOUT_SECONDS = 30 * 60 
+SESSION_TIMEOUT_SECONDS = 15 * 60 
 BASE_DIR = Path(__file__).resolve().parent
 MEMORY_DIR = BASE_DIR / "conversation_memory"
 MEMORY_DIR.mkdir(exist_ok=True)
@@ -29,9 +29,12 @@ def load_memory(session_id: str) -> dict:
             memory = {
                 "budget": None,
                 "category": None,
+                "product_type": None,
                 "preferences": [],
                 "intent": None,
                 "last_products": [],
+                "last_query": None,
+                "history": [],
                 "last_updated": now
             }
 
@@ -40,9 +43,12 @@ def load_memory(session_id: str) -> dict:
         memory = {
             "budget": None,
             "category": None,
+            "product_type": None,
             "preferences": [],
             "intent": None,
             "last_products": [],
+            "last_query": None,
+            "history": [],
             "last_updated": now
         }
 
@@ -61,7 +67,12 @@ def update_memory(session_id: str, updates: dict):
         if value is None:
             continue
 
-        if isinstance(memory.get(key), list):
+        # Special handling for different keys
+        if key == "last_products":
+            # Always REPLACE last_products with new search results
+            memory[key] = value
+        elif isinstance(memory.get(key), list) and key == "preferences":
+            # Only append to preferences list
             for item in value:
                 if item not in memory[key]:
                     memory[key].append(item)
@@ -74,3 +85,34 @@ def update_memory(session_id: str, updates: dict):
         json.dump(memory, f, indent=2)
 
     _sessions[session_id] = memory
+
+
+def append_message(session_id: str, role: str, content: str):
+    """
+    Append a message to the conversation history.
+    """
+    memory = load_memory(session_id)
+    
+    if "history" not in memory:
+        memory["history"] = []
+    
+    # Simple timestamp for sorting if needed later, though list order is enough
+    timestamp = time.time()
+    
+    # Create message object
+    new_message = {
+        "role": role,
+        "content": content,
+        "timestamp": timestamp
+    }
+    
+    # Append and check limit
+    memory["history"].append(new_message)
+    
+    # Keep only last 20 messages
+    if len(memory["history"]) > 20:
+        memory["history"] = memory["history"][-20:]
+        
+    # We use update_memory but explicitly set history to avoid recursion or complex merge logic
+    # Actually update_memory merges keys, so we can just pass the new history list
+    update_memory(session_id, {"history": memory["history"]})

@@ -1,0 +1,22 @@
+{
+  "budget": null,
+  "category": null,
+  "product_type": null,
+  "preferences": [],
+  "intent": null,
+  "last_products": [],
+  "last_query": "idli mix",
+  "history": [
+    {
+      "role": "user",
+      "content": "i want idli",
+      "timestamp": 1770994467.5098717
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry, but I couldn't find any products specifically related to Idli. However, I recommend trying the Millex Healthy Millet Mix Without Churnam, which can be a nutritious base for various dishes, including Idli.\n\n**Millex Healthy Millet Mix Without Churnam (800g)** - \u20b9370.0  \nThis nutrient-rich mix is crafted from 30 natural ingredients, designed to boost immunity and support digestion, making it ideal for a healthy lifestyle.\n\nTip: We also have combo packs that include Millex Healthy Millet Mix Without Churnam. Would you like to see them?",
+      "timestamp": 1770994470.024422
+    }
+  ],
+  "last_updated": 1770994470.024422
+}

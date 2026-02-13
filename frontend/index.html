@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Millex AI Test Console</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Using Inter font for that clean GPT look -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>Millex AI</h2>
+                <div id="cart-count" style="font-size: 14px; color: #10A37F; margin-top: 5px;">Cart (0)</div>
+            </div>
+            <nav class="nav-menu">
+                <button class="nav-item active" onclick="switchTab('chat')">
+                    <span class="icon">💬</span> Chat
+                </button>
+                <button class="nav-item" onclick="switchTab('search')">
+                    <span class="icon">🔍</span> Search
+                </button>
+                <button class="nav-item" onclick="switchTab('scraper')">
+                    <span class="icon">🕸️</span> Scraper
+                </button>
+            </nav>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+
+            <!-- CHAT TAB -->
+            <section id="chat-tab" class="tab-content active">
+                <div class="chat-container">
+                    <div class="chat-history" id="chat-history">
+                        <div class="message ai-message">
+                            <div class="avatar">AI</div>
+                            <div class="content">Hello! How can I help you with Millex products today?</div>
+                        </div>
+                    </div>
+                    <div class="chat-input-area">
+                        <div class="preference-selector">
+                            <label for="product-type-select">Product Type:</label>
+                            <select id="product-type-select" onchange="updateProductTypePreference()">
+                                <option value="">All Products</option>
+                                <option value="single">Single Products</option>
+                                <option value="combo">Combo Packs</option>
+                            </select>
+                        </div>
+                        <div class="input-wrapper">
+                            <input type="text" id="chat-input" placeholder="Send a message..."
+                                onkeydown="handleChatKey(event)">
+                            <button onclick="sendMessage()">➤</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- SEARCH TAB -->
+            <section id="search-tab" class="tab-content">
+                <div class="content-wrapper">
+                    <h2>Product Search</h2>
+                    <div class="search-bar">
+                        <input type="text" id="search-input" placeholder="Search for products (e.g. 'millet mix')...">
+                        <button onclick="performSearch()">Search</button>
+                    </div>
+                    <div id="search-results" class="results-grid">
+                        <!-- Results will appear here -->
+                    </div>
+                </div>
+            </section>
+
+            <!-- SCRAPER TAB -->
+            <section id="scraper-tab" class="tab-content">
+                <div class="content-wrapper">
+                    <h2>Data Ingestion</h2>
+                    <div class="card">
+                        <h3>Scrape Product/Collection</h3>
+                        <div class="form-group">
+                            <label>URL</label>
+                            <input type="text" id="scrape-url" placeholder="https://millex.in/products/...">
+                        </div>
+                        <div class="button-group">
+                            <button onclick="scrape('product')">Scrape Product</button>
+                            <button onclick="scrape('collection')">Scrape Collection</button>
+                            <button onclick="scrape('homepage')">Scrape Homepage</button>
+                        </div>
+                        <div id="scrape-status" class="status-log"></div>
+                    </div>
+                </div>
+            </section>
+
+        </main>
+    </div>
+    <script src="app.js"></script>
+</body>
+
+</html>

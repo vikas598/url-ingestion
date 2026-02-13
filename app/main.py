@@ -1,6 +1,7 @@
 import uuid
 from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
 
 
 from app.api import millex
@@ -11,6 +12,14 @@ from app.core.errors import ERRORS
 from app.core.exceptions import APIException
 
 app = FastAPI(title="URL Ingestor", version="1.0")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allow all origins for testing
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 app.include_router(millex.router, prefix="/api/v1")
 

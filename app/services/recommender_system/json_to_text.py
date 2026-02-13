@@ -36,8 +36,12 @@ def load_all_processed_products() -> List[Dict]:
                 products_list = []
                 if isinstance(data, list):
                     products_list = data
-                elif isinstance(data, dict) and "products" in data:
-                    products_list = data["products"]
+                elif isinstance(data, dict):
+                    if "products" in data:
+                        products_list = data["products"]
+                    else:
+                        # Assume the file itself is a single product object
+                        products_list = [data]
                 
                 for p in products_list:
                     if not isinstance(p, dict):
@@ -61,6 +65,7 @@ def product_to_text(product: dict) -> str:
         f"Title: {product.get('title', '')}. "
         f"Description: {product.get('description', '')}. "
         f"Price: {product.get('pricing', {}).get('price', '')}. "
+        f"Product Type: {product.get('product_type', 'single')}. "
         f"URL: {product.get('source_url', '')}."
     )
 

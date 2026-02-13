@@ -1,6 +1,7 @@
 from datetime import datetime, timezone
 from bs4 import BeautifulSoup
 from app.core.exceptions import APIException
+import re
 
 
 def process_millex_product(raw_data: dict) -> dict:
@@ -64,6 +65,7 @@ def process_millex_product(raw_data: dict) -> dict:
             "source": "millex",
             "product_id": product_id,  # Added product_id
             "source_url": url,
+            "product_type": raw_data.get("product_type", "single"),
             
             "title": raw_data.get("title"),
             "description": description_clean,
@@ -86,7 +88,8 @@ def process_millex_product(raw_data: dict) -> dict:
             
             "metadata": {
                 "ingested_at": now,
-                "variant_count": len(normalized_variants)
+                "variant_count": len(normalized_variants),
+                "product_type": raw_data.get("product_type", "single")
             }
         }
         
@@ -121,34 +124,43 @@ def _clean_html_description(html: str) -> str:
         # If cleaning fails, return original
         return html
 
+
+import re
+
 def _extract_categories(description: str) -> list[str]:
-    """
-    Extract categories from product description based on keywords.
-    
-    Rules:
-    - ready-to-cook: contains "instant mix"
-    - health-mix: contains "health drink mix"
-    - infant-food: contains "baby"
-    
-    Args:
-        description: Cleaned product description text
-        
-    Returns:
-        List of matching category slugs
-    """
     if not description:
         return []
-    
-    desc_lower = description.lower()
+
+    desc = description.lower()
     categories = []
-    
-    if "instant mix" in desc_lower:
+
+    if "instant mix" in desc:
         categories.append("ready-to-cook")
-        
-    if "health drink mix" in desc_lower:
+
+    if "health drink mix" in desc:
         categories.append("health-mix")
-        
-    if "baby" in desc_lower:
+
+    # Explicit exclusions (food terms, not infant products)
+    NON_INFANT_PHRASES = [
+        "baby corn",
+    ]
+
+    if any(p in desc for p in NON_INFANT_PHRASES):
+        return categories  # hard stop: do NOT tag infant-food
+
+    # Infant intent (clear signals only)
+    INFANT_PATTERNS = [
+        r"\bbaby food\b",
+        r"\binfant\b",
+        r"\btoddler\b",
+        r"\bweaning\b",
+        r"\b6\s*months\b",
+        r"\b12\s*months\b",
+    ]
+
+    if any(re.search(p, desc) for p in INFANT_PATTERNS):
         categories.append("infant-food")
-        
+
     return categories
+
+

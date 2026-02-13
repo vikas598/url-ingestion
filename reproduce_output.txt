@@ -1,0 +1,66 @@
+Loading resources...
+🔄 Loading vector store (TS: 1770986592.3191228)...
+✅ Loaded 33 vectors and 33 products.
+
+--- Searching for 'idli' with product_type='single' ---
+DEBUG: Entering search_products with query='idli', type='single'
+DEBUG: Found Product: Ragi Idli Instant Mix  - Pack of 3 (Total 1200g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: DIET BREAKFAST - Ragi Idli Instant Mix | Sprouted Ragi Masala Dosa Mix | Multi Millet Upma Mix (Total 1200g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: Millet Rava Idli Instant Mix - Pack of 3 (Total 1200g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: Millet Rava Idli Instant Mix - 400g | Type: single | Filter: single
+DEBUG: Found Product: TASTY BREAKFAST - Multi Millets Dosa Instant Mix | Sprouted Ragi Masala Dosa Mix |Millet Rava Idli Instant Mix (Total 1200g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: HEALTHY COMBO - Millet Rava Idli Instant Mix | Ragi Idli Instant Mix | Multi Millets Dosa Instant Mix |(Total 1200g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: BREAKFAST COMBO -  Multi Millets Dosa Instant Mix | Multi Millet Upma Mix | Millet Rava Idli Instant Mix (Total 1200g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: Multi Millet Dosa Instant Mix - Pack of 3 (Total 1200g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: Sprouted Ragi Masala Dosa Mix - Pack of 3 (Total 1200g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: Buy 2 Millex churnam (800g Each) Get 1 Free Millet Rava Idli Mix  (400g) - Special OFFER | Type: combo | Filter: single
+DEBUG: Found Product: Multi Millet Upma Mix - Pack of 3 (Total 1200g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: Millex Healthy Millet Mix Without Churnam - Pack of 2 (1.6kg - each 800g) | Type: combo | Filter: single
+DEBUG: Found Product: Millex Healthy Millet Mix Without Churnam (800g) | Type: single | Filter: single
+DEBUG: Found Product: Millex Millet Health Drink Mix with churnam (800g) | Type: single | Filter: single
+DEBUG: Found Product: Millex Millet Health Mix With Churnam - Pack of 2 (1.6kg - each 800g) | Type: combo | Filter: single
+DEBUG: Found Product: Smart Sampler Trio |  Millex Mother Root |   Fruits & Nuts  |  Banana & Sprouts (Total 1200g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: Millex Mother Root Pack of 2 | Type: combo | Filter: single
+DEBUG: Found Product: Millex Mother Root (400g) | Type: single | Filter: single
+DEBUG: Found Product: Value/introductory Combos | Millex Mother Root |  Fruits & Nuts (Total 800g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: Balanced Nutrition Trio  | Millex Mother Root |  Carrot & Almond | Banana & Sprouts (Total 1200g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: Premium Taste Trio | Mother Root Fruits & Nuts | Carrot & Almond | Banana & Sprouts (Total 1200g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: Classic Family Trio | Millex Mother Root |   Fruits & Nuts  | Carrot & Almond (Total 1200g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: Balanced Nutrition Combos -Millex Mother Root | Banana & Sprouts| Baby Food (Total 800g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: MotherRoot | Fruits & Nuts - Pack of 2 (Total 800g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: Taste & Texture Combos | Mother Root Fruits & Nuts  | Banana & Sprouts (Total 800g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: MotherRoot | Carrot & Almond- Pack of 2 (Total 800g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: Value/introductory Combos | Mother Root Carrot & Almond |  Banana & Sprouts (Total 800g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: MotherRoot | Banana & sprouts - Pack of 2 (Total 800g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: Balanced Nutrition Combos -Millex Mother Root |  Carrot & Almond | Baby Food (Total 800g - each 400g) | Type: combo | Filter: single
+DEBUG: Found Product: MotherRoot | Fruits & Nuts (400 G) | Type: single | Filter: single
+Found 5 results.
+ - Millet Rava Idli Instant Mix - 400g (single)
+ - Millex Healthy Millet Mix Without Churnam (800g) (single)
+ - Millex Millet Health Drink Mix with churnam (800g) (single)
+ - Millex Mother Root (400g) (single)
+ - MotherRoot | Fruits & Nuts (400 G) (single)
+
+--- Searching for 'idli' with product_type='combo' ---
+DEBUG: Entering search_products with query='idli', type='combo'
+DEBUG: Found Product: Ragi Idli Instant Mix  - Pack of 3 (Total 1200g - each 400g) | Type: combo | Filter: combo
+DEBUG: Found Product: DIET BREAKFAST - Ragi Idli Instant Mix | Sprouted Ragi Masala Dosa Mix | Multi Millet Upma Mix (Total 1200g - each 400g) | Type: combo | Filter: combo
+DEBUG: Found Product: Millet Rava Idli Instant Mix - Pack of 3 (Total 1200g - each 400g) | Type: combo | Filter: combo
+DEBUG: Found Product: Millet Rava Idli Instant Mix - 400g | Type: single | Filter: combo
+DEBUG: Found Product: TASTY BREAKFAST - Multi Millets Dosa Instant Mix | Sprouted Ragi Masala Dosa Mix |Millet Rava Idli Instant Mix (Total 1200g - each 400g) | Type: combo | Filter: combo
+DEBUG: Found Product: HEALTHY COMBO - Millet Rava Idli Instant Mix | Ragi Idli Instant Mix | Multi Millets Dosa Instant Mix |(Total 1200g - each 400g) | Type: combo | Filter: combo
+Found 5 results.
+ - Ragi Idli Instant Mix  - Pack of 3 (Total 1200g - each 400g) (combo)
+ - DIET BREAKFAST - Ragi Idli Instant Mix | Sprouted Ragi Masala Dosa Mix | Multi Millet Upma Mix (Total 1200g - each 400g) (combo)
+ - Millet Rava Idli Instant Mix - Pack of 3 (Total 1200g - each 400g) (combo)
+ - TASTY BREAKFAST - Multi Millets Dosa Instant Mix | Sprouted Ragi Masala Dosa Mix |Millet Rava Idli Instant Mix (Total 1200g - each 400g) (combo)
+ - HEALTHY COMBO - Millet Rava Idli Instant Mix | Ragi Idli Instant Mix | Multi Millets Dosa Instant Mix |(Total 1200g - each 400g) (combo)
+
+--- Searching for 'idli' with product_type='any' ---
+DEBUG: Entering search_products with query='idli', type='any'
+Found 5 results.
+ - Ragi Idli Instant Mix  - Pack of 3 (Total 1200g - each 400g) (combo)
+ - DIET BREAKFAST - Ragi Idli Instant Mix | Sprouted Ragi Masala Dosa Mix | Multi Millet Upma Mix (Total 1200g - each 400g) (combo)
+ - Millet Rava Idli Instant Mix - Pack of 3 (Total 1200g - each 400g) (combo)
+ - Millet Rava Idli Instant Mix - 400g (single)
+ - TASTY BREAKFAST - Multi Millets Dosa Instant Mix | Sprouted Ragi Masala Dosa Mix |Millet Rava Idli Instant Mix (Total 1200g - each 400g) (combo)
